@@ -2,7 +2,7 @@
 
 ---
 
-# Slide 10: Conclusion and Contacts
+# Slide 8: Conclusion and Contacts
 
 ## The Future is Hybrid
 

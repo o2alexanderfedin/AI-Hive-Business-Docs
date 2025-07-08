@@ -47,7 +47,7 @@ Explanation of how the system ensures quality through best practices.
 
 Real GitHub projects demonstrating agent-driven development and analysis.
 
-### [Slide 8: Conclusion and Contacts](slides/slide-10-conclusion.md)
+### [Slide 8: Conclusion and Contacts](slides/slide-08-conclusion.md)
 
 Summary of benefits and call to action.
 
