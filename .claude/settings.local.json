@@ -31,7 +31,8 @@
       "Bash(rg:*)",
       "Bash(./.config/check-no-claude-anthropic.sh:*)",
       "Bash(mv:*)",
-      "WebFetch(domain:github.com)"
+      "WebFetch(domain:github.com)",
+      "Bash(git remote prune:*)"
     ],
     "deny": []
   }
