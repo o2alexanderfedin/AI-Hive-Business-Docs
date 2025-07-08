@@ -215,6 +215,12 @@ graph TD
 - Privacy-conscious teams
 - Complex codebases
 
+#### Pricing Changes (July 2025)
+- **Free**: Basic features
+- **Pro**: $20/month (usage-based, ~$20 API credits)
+- **Ultra**: $200/month (20x more usage)
+- **Controversy**: Switched from unlimited to usage-based model, causing user backlash
+
 ### 3. Replit
 
 #### Market Position
@@ -744,7 +750,7 @@ graph TD
     'errorTextColor': '#000000'
   }
 }}%%
-graph LR
+graph TD
     A[Market Gaps] --> B[Our Opportunity]
 
     A1[High Enterprise Prices] --> B1[Startup Focus]

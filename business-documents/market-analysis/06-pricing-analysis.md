@@ -131,7 +131,7 @@ pie title "Development Pricing Models Usage 2024"
 | Tool | Individual | Team | Enterprise | Usage Limits |
 |------|------------|------|------------|--------------|
 | **GitHub Copilot** | $10/mo | $19/user/mo | $39/user/mo | Unlimited |
-| **Cursor** | Free trial | $20/user/mo | Custom | 500 requests |
+| **Cursor** | Free | $20/mo Pro | $200/mo Ultra | API usage based |
 | **Tabnine** | Free | $12/user/mo | Custom | Limited free |
 | **Codeium** | Free | $10/user/mo | Custom | Unlimited free |
 | **Amazon CodeWhisperer** | Free | $15/user/mo | Custom | AWS integrated |
