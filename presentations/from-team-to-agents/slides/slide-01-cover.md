@@ -14,6 +14,10 @@
 **Date:** July 2024
 **Company:** O2.services
 
+📧 **Email:** af@o2.services
+📱 **Phone:** +1 (425) 351-1652
+🌐 **Website:** www.o2.services
+
 ---
 
 [🏠 Home](../slide-deck.md) | [⬆️ Up](../slide-deck.md) | ⬅️ Prev | [➡️ Next](slide-02-classical-team.md)
