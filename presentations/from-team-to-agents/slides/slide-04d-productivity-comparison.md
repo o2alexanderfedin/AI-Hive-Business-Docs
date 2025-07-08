@@ -6,7 +6,7 @@
 
 ## Time to Market (All teams: 10 people)
 - **Traditional Teams**: 3 months for typical project
-- **AI Swarm**: 2-3 days (~50x faster execution)
+- **AI Swarm**: 2-3 days (up to 50x faster execution)
 
 ## Key Differentiators
 

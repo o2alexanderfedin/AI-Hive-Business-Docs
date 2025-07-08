@@ -13,7 +13,7 @@ Our AI Swarm delivers enterprise-grade software development at a fraction of the
 - **Cost Reduction**
   - **Per Time Period**: 8-35x cheaper than global teams (monthly/annual basis)
   - **Per Project**: 47-1,612x cheaper ($200-1,500 vs $71,000-322,500)
-- **50x faster delivery** (2-3 days vs 3 months)
+- **Up to 50x faster delivery** (2-3 days vs 3 months)
 - **24/7/365 availability** with zero downtime
 - **Enterprise-grade quality** with 80%+ test coverage
 
@@ -46,7 +46,7 @@ The AI Hive represents a paradigm shift in software development, where:
 - Development costs dramatically reduced:
   - **Time-based**: 8-35x cheaper (monthly/annual costs)
   - **Per project**: 47-1,612x cheaper than traditional teams
-- Time to market is accelerated by 50x (2-3 days vs 3 months)
+- Time to market is accelerated by up to 50x (2-3 days vs 3 months)
 - Projects delivered 30x more per year (120 projects/year vs 4)
 - Code quality is maintained through rigorous best practices
 - Human oversight ensures strategic alignment
@@ -56,7 +56,7 @@ The AI Hive represents a paradigm shift in software development, where:
 1. **Cost Efficiency**:
    - **Daily/Monthly**: 8-35x reduction ($100-500/day vs $3,000-12,900/day)
    - **Per Project**: 47-1,612x reduction ($200-1,500 vs $71,000-322,500)
-2. **Speed**: 50x faster delivery (2-3 days vs 3 months) with 24/7/365 availability
+2. **Speed**: Up to 50x faster delivery (2-3 days vs 3 months) with 24/7/365 availability
 3. **Quality**: Consistent application of industry best practices with 80%+ test coverage
 4. **Scalability**: Instant scaling - add 100 agents in seconds, zero ramp-up time
 5. **Flexibility**: Hybrid human-agent teams for optimal balance
