@@ -535,7 +535,7 @@ graph LR
 
 | Competitor | Monthly Cost (10 devs) | Per Project | Speed |
 |------------|------------------------|-------------|-------|
-| GitHub Copilot | $190 (tools only) | N/A | Assists only |
+| GitHub Copilot + Devs | $100K+ ($190 + salaries) | $300K+ | 3 months |
 | Traditional Team | $100K+ | $300K+ | 3 months |
 | Offshore Team | $30K+ | $90K+ | 3 months |
 | Freelancers | $20K+ | $60K+ | 2-4 months |
