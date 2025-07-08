@@ -170,8 +170,8 @@ config:
   themeVariables:
     xyChart:
       backgroundColor: transparent
-      plotColorPalette: "#FF6B6B, #FFD93D, #6BCF7F"
-      plotBorderColor: "#CC5555, #E6C230, #4CAF50"
+      plotColorPalette: "#E57373, #FFD93D, #6BCF7F"
+      plotBorderColor: "#D32F2F, #E6C230, #4CAF50"
       plotBorderWidth: 2
       titleColor: "#000000"
       xAxisLabelColor: "#000000"
