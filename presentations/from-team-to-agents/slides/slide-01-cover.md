@@ -10,17 +10,17 @@
 
 ---
 
-**Author:** Alex Fedin
-**Date:** July 2024
-**Company:** O2.services
+**Author:** Alex Fedin<br/>
+**Date:** July 2024<br/>
+**Company:** [O2.services](https://O2.services)
 
 ---
 
 ### Contact Information
 
-📧 **Email:** af@o2.services
-📱 **Phone:** +1 (425) 351-1652
-🌐 **Website:** www.o2.services
+📧 **Email:** [af@o2.services](mailto:af@o2.services)<br/>
+📱 **Phone:** +1 (425) 351-1652<br/>
+🌐 **Website:** [O2.services](https://O2.services)
 
 ---
 
