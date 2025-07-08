@@ -10,14 +10,74 @@
 <div class="mermaid-diagram-wrapper">
 
 ```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#A8B8D0',
+    'primaryTextColor': '#000000',
+    'primaryBorderColor': '#8A9AB2',
+    'lineColor': '#8A9AB2',
+    'secondaryColor': '#5DBCB6',
+    'secondaryTextColor': '#000000',
+    'secondaryBorderColor': '#3D9A94',
+    'tertiaryColor': '#84D4F5',
+    'tertiaryTextColor': '#000000',
+    'tertiaryBorderColor': '#5ABCD8',
+    'background': '#F5F5F5',
+    'mainBkg': '#A8B8D0',
+    'secondBkg': '#5DBCB6',
+    'tertiaryBkg': '#84D4F5',
+    'mainContrastColor': '#000000',
+    'darkMode': false,
+    'fontFamily': 'Arial, sans-serif',
+    'fontSize': '14px',
+    'labelBackground': '#E8E8E8',
+    'textColor': '#000000',
+    'nodeBkg': '#B3B2D8',
+    'nodeTextColor': '#000000',
+    'nodeBorder': '#8A89C0',
+    'clusterBkg': '#E5C4CA',
+    'clusterBorder': '#CDA2AB',
+    'defaultLinkColor': '#8A9AB2',
+    'titleColor': '#000000',
+    'edgeLabelBackground': '#F5F5F5',
+    'actorBorder': '#8A9AB2',
+    'actorBkg': '#B3B2D8',
+    'actorTextColor': '#000000',
+    'actorLineColor': '#8A9AB2',
+    'signalColor': '#000000',
+    'signalTextColor': '#000000',
+    'activationBorderColor': '#8A9AB2',
+    'activationBkgColor': '#E5C4CA',
+    'sequenceNumberColor': '#000000',
+    'sectionBkgColor': '#FFD54F',
+    'altSectionBkgColor': '#FFB74D',
+    'sectionBkgColor2': '#E1B3C4',
+    'taskBorderColor': '#8A9AB2',
+    'taskBkgColor': '#B3B2D8',
+    'taskTextColor': '#000000',
+    'taskTextLightColor': '#000000',
+    'taskTextOutsideColor': '#000000',
+    'taskTextClickableColor': '#000000',
+    'activeTaskBorderColor': '#A8B8D0',
+    'activeTaskBkgColor': '#84D4F5',
+    'gridColor': '#C0C0C0',
+    'doneTaskBkgColor': '#5DBCB6',
+    'doneTaskBorderColor': '#3D9A94',
+    'critBorderColor': '#E27D00',
+    'critBkgColor': '#FFB74D',
+    'todayLineColor': '#E27D00',
+    'labelColor': '#000000',
+    'errorBkgColor': '#E1B3C4',
+    'errorTextColor': '#000000'
+  }
+}}%%
 graph TD
     A[Total Addressable Market<br/>$737B Software Market] --> B[Serviceable Addressable Market<br/>$250B Development Services]
     B --> C[Serviceable Obtainable Market<br/>$50B AI-Ready Segment]
     C --> D[Initial Target Market<br/>$5B Bootstrap/SMB]
 
-    style A fill:#E3F2FD
-    style B fill:#BBDEFB
-    style C fill:#90CAF9
+
     style D fill:#2196F3,color:#fff
 ```
 
@@ -37,6 +97,68 @@ graph TD
 <div class="mermaid-diagram-wrapper">
 
 ```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#A8B8D0',
+    'primaryTextColor': '#000000',
+    'primaryBorderColor': '#8A9AB2',
+    'lineColor': '#8A9AB2',
+    'secondaryColor': '#5DBCB6',
+    'secondaryTextColor': '#000000',
+    'secondaryBorderColor': '#3D9A94',
+    'tertiaryColor': '#84D4F5',
+    'tertiaryTextColor': '#000000',
+    'tertiaryBorderColor': '#5ABCD8',
+    'background': '#F5F5F5',
+    'mainBkg': '#A8B8D0',
+    'secondBkg': '#5DBCB6',
+    'tertiaryBkg': '#84D4F5',
+    'mainContrastColor': '#000000',
+    'darkMode': false,
+    'fontFamily': 'Arial, sans-serif',
+    'fontSize': '14px',
+    'labelBackground': '#E8E8E8',
+    'textColor': '#000000',
+    'nodeBkg': '#B3B2D8',
+    'nodeTextColor': '#000000',
+    'nodeBorder': '#8A89C0',
+    'clusterBkg': '#E5C4CA',
+    'clusterBorder': '#CDA2AB',
+    'defaultLinkColor': '#8A9AB2',
+    'titleColor': '#000000',
+    'edgeLabelBackground': '#F5F5F5',
+    'actorBorder': '#8A9AB2',
+    'actorBkg': '#B3B2D8',
+    'actorTextColor': '#000000',
+    'actorLineColor': '#8A9AB2',
+    'signalColor': '#000000',
+    'signalTextColor': '#000000',
+    'activationBorderColor': '#8A9AB2',
+    'activationBkgColor': '#E5C4CA',
+    'sequenceNumberColor': '#000000',
+    'sectionBkgColor': '#FFD54F',
+    'altSectionBkgColor': '#FFB74D',
+    'sectionBkgColor2': '#E1B3C4',
+    'taskBorderColor': '#8A9AB2',
+    'taskBkgColor': '#B3B2D8',
+    'taskTextColor': '#000000',
+    'taskTextLightColor': '#000000',
+    'taskTextOutsideColor': '#000000',
+    'taskTextClickableColor': '#000000',
+    'activeTaskBorderColor': '#A8B8D0',
+    'activeTaskBkgColor': '#84D4F5',
+    'gridColor': '#C0C0C0',
+    'doneTaskBkgColor': '#5DBCB6',
+    'doneTaskBorderColor': '#3D9A94',
+    'critBorderColor': '#E27D00',
+    'critBkgColor': '#FFB74D',
+    'todayLineColor': '#E27D00',
+    'labelColor': '#000000',
+    'errorBkgColor': '#E1B3C4',
+    'errorTextColor': '#000000'
+  }
+}}%%
 graph LR
     A[Current State] --> A1[Need $2-5M to start]
     A --> A2[Give up 20-40% equity]
@@ -82,6 +204,68 @@ graph LR
 <div class="mermaid-diagram-wrapper">
 
 ```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#A8B8D0',
+    'primaryTextColor': '#000000',
+    'primaryBorderColor': '#8A9AB2',
+    'lineColor': '#8A9AB2',
+    'secondaryColor': '#5DBCB6',
+    'secondaryTextColor': '#000000',
+    'secondaryBorderColor': '#3D9A94',
+    'tertiaryColor': '#84D4F5',
+    'tertiaryTextColor': '#000000',
+    'tertiaryBorderColor': '#5ABCD8',
+    'background': '#F5F5F5',
+    'mainBkg': '#A8B8D0',
+    'secondBkg': '#5DBCB6',
+    'tertiaryBkg': '#84D4F5',
+    'mainContrastColor': '#000000',
+    'darkMode': false,
+    'fontFamily': 'Arial, sans-serif',
+    'fontSize': '14px',
+    'labelBackground': '#E8E8E8',
+    'textColor': '#000000',
+    'nodeBkg': '#B3B2D8',
+    'nodeTextColor': '#000000',
+    'nodeBorder': '#8A89C0',
+    'clusterBkg': '#E5C4CA',
+    'clusterBorder': '#CDA2AB',
+    'defaultLinkColor': '#8A9AB2',
+    'titleColor': '#000000',
+    'edgeLabelBackground': '#F5F5F5',
+    'actorBorder': '#8A9AB2',
+    'actorBkg': '#B3B2D8',
+    'actorTextColor': '#000000',
+    'actorLineColor': '#8A9AB2',
+    'signalColor': '#000000',
+    'signalTextColor': '#000000',
+    'activationBorderColor': '#8A9AB2',
+    'activationBkgColor': '#E5C4CA',
+    'sequenceNumberColor': '#000000',
+    'sectionBkgColor': '#FFD54F',
+    'altSectionBkgColor': '#FFB74D',
+    'sectionBkgColor2': '#E1B3C4',
+    'taskBorderColor': '#8A9AB2',
+    'taskBkgColor': '#B3B2D8',
+    'taskTextColor': '#000000',
+    'taskTextLightColor': '#000000',
+    'taskTextOutsideColor': '#000000',
+    'taskTextClickableColor': '#000000',
+    'activeTaskBorderColor': '#A8B8D0',
+    'activeTaskBkgColor': '#84D4F5',
+    'gridColor': '#C0C0C0',
+    'doneTaskBkgColor': '#5DBCB6',
+    'doneTaskBorderColor': '#3D9A94',
+    'critBorderColor': '#E27D00',
+    'critBkgColor': '#FFB74D',
+    'todayLineColor': '#E27D00',
+    'labelColor': '#000000',
+    'errorBkgColor': '#E1B3C4',
+    'errorTextColor': '#000000'
+  }
+}}%%
 graph TD
     A[Asia Pacific Growth] --> B[Market Size<br/>$157B → $406B]
     A --> C[Developer Growth<br/>+35% annually]
@@ -126,6 +310,68 @@ graph TD
 <div class="mermaid-diagram-wrapper">
 
 ```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#A8B8D0',
+    'primaryTextColor': '#000000',
+    'primaryBorderColor': '#8A9AB2',
+    'lineColor': '#8A9AB2',
+    'secondaryColor': '#5DBCB6',
+    'secondaryTextColor': '#000000',
+    'secondaryBorderColor': '#3D9A94',
+    'tertiaryColor': '#84D4F5',
+    'tertiaryTextColor': '#000000',
+    'tertiaryBorderColor': '#5ABCD8',
+    'background': '#F5F5F5',
+    'mainBkg': '#A8B8D0',
+    'secondBkg': '#5DBCB6',
+    'tertiaryBkg': '#84D4F5',
+    'mainContrastColor': '#000000',
+    'darkMode': false,
+    'fontFamily': 'Arial, sans-serif',
+    'fontSize': '14px',
+    'labelBackground': '#E8E8E8',
+    'textColor': '#000000',
+    'nodeBkg': '#B3B2D8',
+    'nodeTextColor': '#000000',
+    'nodeBorder': '#8A89C0',
+    'clusterBkg': '#E5C4CA',
+    'clusterBorder': '#CDA2AB',
+    'defaultLinkColor': '#8A9AB2',
+    'titleColor': '#000000',
+    'edgeLabelBackground': '#F5F5F5',
+    'actorBorder': '#8A9AB2',
+    'actorBkg': '#B3B2D8',
+    'actorTextColor': '#000000',
+    'actorLineColor': '#8A9AB2',
+    'signalColor': '#000000',
+    'signalTextColor': '#000000',
+    'activationBorderColor': '#8A9AB2',
+    'activationBkgColor': '#E5C4CA',
+    'sequenceNumberColor': '#000000',
+    'sectionBkgColor': '#FFD54F',
+    'altSectionBkgColor': '#FFB74D',
+    'sectionBkgColor2': '#E1B3C4',
+    'taskBorderColor': '#8A9AB2',
+    'taskBkgColor': '#B3B2D8',
+    'taskTextColor': '#000000',
+    'taskTextLightColor': '#000000',
+    'taskTextOutsideColor': '#000000',
+    'taskTextClickableColor': '#000000',
+    'activeTaskBorderColor': '#A8B8D0',
+    'activeTaskBkgColor': '#84D4F5',
+    'gridColor': '#C0C0C0',
+    'doneTaskBkgColor': '#5DBCB6',
+    'doneTaskBorderColor': '#3D9A94',
+    'critBorderColor': '#E27D00',
+    'critBkgColor': '#FFB74D',
+    'todayLineColor': '#E27D00',
+    'labelColor': '#000000',
+    'errorBkgColor': '#E1B3C4',
+    'errorTextColor': '#000000'
+  }
+}}%%
 graph LR
     A[Partners] --> B[Tech Consultancies<br/>500K globally]
     A --> C[Digital Agencies<br/>1M+ globally]
@@ -135,9 +381,7 @@ graph LR
     C --> F[Margin Enhancement]
     D --> G[Capability Extension]
 
-    style E fill:#4CAF50
-    style F fill:#4CAF50
-    style G fill:#4CAF50
+
 ```
 
 </div>
@@ -160,6 +404,68 @@ graph LR
 <div class="mermaid-diagram-wrapper">
 
 ```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#A8B8D0',
+    'primaryTextColor': '#000000',
+    'primaryBorderColor': '#8A9AB2',
+    'lineColor': '#8A9AB2',
+    'secondaryColor': '#5DBCB6',
+    'secondaryTextColor': '#000000',
+    'secondaryBorderColor': '#3D9A94',
+    'tertiaryColor': '#84D4F5',
+    'tertiaryTextColor': '#000000',
+    'tertiaryBorderColor': '#5ABCD8',
+    'background': '#F5F5F5',
+    'mainBkg': '#A8B8D0',
+    'secondBkg': '#5DBCB6',
+    'tertiaryBkg': '#84D4F5',
+    'mainContrastColor': '#000000',
+    'darkMode': false,
+    'fontFamily': 'Arial, sans-serif',
+    'fontSize': '14px',
+    'labelBackground': '#E8E8E8',
+    'textColor': '#000000',
+    'nodeBkg': '#B3B2D8',
+    'nodeTextColor': '#000000',
+    'nodeBorder': '#8A89C0',
+    'clusterBkg': '#E5C4CA',
+    'clusterBorder': '#CDA2AB',
+    'defaultLinkColor': '#8A9AB2',
+    'titleColor': '#000000',
+    'edgeLabelBackground': '#F5F5F5',
+    'actorBorder': '#8A9AB2',
+    'actorBkg': '#B3B2D8',
+    'actorTextColor': '#000000',
+    'actorLineColor': '#8A9AB2',
+    'signalColor': '#000000',
+    'signalTextColor': '#000000',
+    'activationBorderColor': '#8A9AB2',
+    'activationBkgColor': '#E5C4CA',
+    'sequenceNumberColor': '#000000',
+    'sectionBkgColor': '#FFD54F',
+    'altSectionBkgColor': '#FFB74D',
+    'sectionBkgColor2': '#E1B3C4',
+    'taskBorderColor': '#8A9AB2',
+    'taskBkgColor': '#B3B2D8',
+    'taskTextColor': '#000000',
+    'taskTextLightColor': '#000000',
+    'taskTextOutsideColor': '#000000',
+    'taskTextClickableColor': '#000000',
+    'activeTaskBorderColor': '#A8B8D0',
+    'activeTaskBkgColor': '#84D4F5',
+    'gridColor': '#C0C0C0',
+    'doneTaskBkgColor': '#5DBCB6',
+    'doneTaskBorderColor': '#3D9A94',
+    'critBorderColor': '#E27D00',
+    'critBkgColor': '#FFB74D',
+    'todayLineColor': '#E27D00',
+    'labelColor': '#000000',
+    'errorBkgColor': '#E1B3C4',
+    'errorTextColor': '#000000'
+  }
+}}%%
 graph TD
     A[DaaS Model] --> B[Subscription]
     A --> C[Pay-per-Feature]
@@ -193,6 +499,68 @@ graph TD
 <div class="mermaid-diagram-wrapper">
 
 ```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#A8B8D0',
+    'primaryTextColor': '#000000',
+    'primaryBorderColor': '#8A9AB2',
+    'lineColor': '#8A9AB2',
+    'secondaryColor': '#5DBCB6',
+    'secondaryTextColor': '#000000',
+    'secondaryBorderColor': '#3D9A94',
+    'tertiaryColor': '#84D4F5',
+    'tertiaryTextColor': '#000000',
+    'tertiaryBorderColor': '#5ABCD8',
+    'background': '#F5F5F5',
+    'mainBkg': '#A8B8D0',
+    'secondBkg': '#5DBCB6',
+    'tertiaryBkg': '#84D4F5',
+    'mainContrastColor': '#000000',
+    'darkMode': false,
+    'fontFamily': 'Arial, sans-serif',
+    'fontSize': '14px',
+    'labelBackground': '#E8E8E8',
+    'textColor': '#000000',
+    'nodeBkg': '#B3B2D8',
+    'nodeTextColor': '#000000',
+    'nodeBorder': '#8A89C0',
+    'clusterBkg': '#E5C4CA',
+    'clusterBorder': '#CDA2AB',
+    'defaultLinkColor': '#8A9AB2',
+    'titleColor': '#000000',
+    'edgeLabelBackground': '#F5F5F5',
+    'actorBorder': '#8A9AB2',
+    'actorBkg': '#B3B2D8',
+    'actorTextColor': '#000000',
+    'actorLineColor': '#8A9AB2',
+    'signalColor': '#000000',
+    'signalTextColor': '#000000',
+    'activationBorderColor': '#8A9AB2',
+    'activationBkgColor': '#E5C4CA',
+    'sequenceNumberColor': '#000000',
+    'sectionBkgColor': '#FFD54F',
+    'altSectionBkgColor': '#FFB74D',
+    'sectionBkgColor2': '#E1B3C4',
+    'taskBorderColor': '#8A9AB2',
+    'taskBkgColor': '#B3B2D8',
+    'taskTextColor': '#000000',
+    'taskTextLightColor': '#000000',
+    'taskTextOutsideColor': '#000000',
+    'taskTextClickableColor': '#000000',
+    'activeTaskBorderColor': '#A8B8D0',
+    'activeTaskBkgColor': '#84D4F5',
+    'gridColor': '#C0C0C0',
+    'doneTaskBkgColor': '#5DBCB6',
+    'doneTaskBorderColor': '#3D9A94',
+    'critBorderColor': '#E27D00',
+    'critBkgColor': '#FFB74D',
+    'todayLineColor': '#E27D00',
+    'labelColor': '#000000',
+    'errorBkgColor': '#E1B3C4',
+    'errorTextColor': '#000000'
+  }
+}}%%
 gantt
     title Market Entry Timeline
     dateFormat  YYYY-MM-DD
@@ -250,6 +618,68 @@ gantt
 <div class="mermaid-diagram-wrapper">
 
 ```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#A8B8D0',
+    'primaryTextColor': '#000000',
+    'primaryBorderColor': '#8A9AB2',
+    'lineColor': '#8A9AB2',
+    'secondaryColor': '#5DBCB6',
+    'secondaryTextColor': '#000000',
+    'secondaryBorderColor': '#3D9A94',
+    'tertiaryColor': '#84D4F5',
+    'tertiaryTextColor': '#000000',
+    'tertiaryBorderColor': '#5ABCD8',
+    'background': '#F5F5F5',
+    'mainBkg': '#A8B8D0',
+    'secondBkg': '#5DBCB6',
+    'tertiaryBkg': '#84D4F5',
+    'mainContrastColor': '#000000',
+    'darkMode': false,
+    'fontFamily': 'Arial, sans-serif',
+    'fontSize': '14px',
+    'labelBackground': '#E8E8E8',
+    'textColor': '#000000',
+    'nodeBkg': '#B3B2D8',
+    'nodeTextColor': '#000000',
+    'nodeBorder': '#8A89C0',
+    'clusterBkg': '#E5C4CA',
+    'clusterBorder': '#CDA2AB',
+    'defaultLinkColor': '#8A9AB2',
+    'titleColor': '#000000',
+    'edgeLabelBackground': '#F5F5F5',
+    'actorBorder': '#8A9AB2',
+    'actorBkg': '#B3B2D8',
+    'actorTextColor': '#000000',
+    'actorLineColor': '#8A9AB2',
+    'signalColor': '#000000',
+    'signalTextColor': '#000000',
+    'activationBorderColor': '#8A9AB2',
+    'activationBkgColor': '#E5C4CA',
+    'sequenceNumberColor': '#000000',
+    'sectionBkgColor': '#FFD54F',
+    'altSectionBkgColor': '#FFB74D',
+    'sectionBkgColor2': '#E1B3C4',
+    'taskBorderColor': '#8A9AB2',
+    'taskBkgColor': '#B3B2D8',
+    'taskTextColor': '#000000',
+    'taskTextLightColor': '#000000',
+    'taskTextOutsideColor': '#000000',
+    'taskTextClickableColor': '#000000',
+    'activeTaskBorderColor': '#A8B8D0',
+    'activeTaskBkgColor': '#84D4F5',
+    'gridColor': '#C0C0C0',
+    'doneTaskBkgColor': '#5DBCB6',
+    'doneTaskBorderColor': '#3D9A94',
+    'critBorderColor': '#E27D00',
+    'critBkgColor': '#FFB74D',
+    'todayLineColor': '#E27D00',
+    'labelColor': '#000000',
+    'errorBkgColor': '#E1B3C4',
+    'errorTextColor': '#000000'
+  }
+}}%%
 graph TD
     A[Strategic Priorities] --> B[Product Excellence]
     A --> C[Market Education]
