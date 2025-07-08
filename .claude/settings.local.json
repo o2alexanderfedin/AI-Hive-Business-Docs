@@ -30,7 +30,8 @@
       "Bash(rm:*)",
       "Bash(rg:*)",
       "Bash(./.config/check-no-claude-anthropic.sh:*)",
-      "Bash(mv:*)"
+      "Bash(mv:*)",
+      "WebFetch(domain:github.com)"
     ],
     "deny": []
   }
