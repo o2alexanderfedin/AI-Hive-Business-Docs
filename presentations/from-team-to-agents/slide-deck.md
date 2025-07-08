@@ -45,17 +45,9 @@ Explanation of how the system ensures quality through best practices.
 
 ### [Slide 7: Example Projects](slides/slide-07-example-projects.md)
 
-Real GitHub projects demonstrating agent-driven development.
+Real GitHub projects demonstrating agent-driven development and analysis.
 
-### [Slide 8: Simple Example](slides/slide-08-simple-example.md)
-
-Case study of a simple e-commerce landing page built by agents.
-
-### [Slide 9: Complex Example](slides/slide-09-complex-example.md)
-
-Case study of a full-stack enterprise application built by agents.
-
-### [Slide 10: Conclusion and Contacts](slides/slide-10-conclusion.md)
+### [Slide 8: Conclusion and Contacts](slides/slide-10-conclusion.md)
 
 Summary of benefits and call to action.
 

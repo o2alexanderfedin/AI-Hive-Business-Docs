@@ -1,4 +1,4 @@
-[🏠 Home](../slide-deck.md) | [⬆️ Up](../slide-deck.md) | [⬅️ Prev](slide-06-why-it-works.md) | [➡️ Next](slide-08-simple-example.md)
+[🏠 Home](../slide-deck.md) | [⬆️ Up](../slide-deck.md) | [⬅️ Prev](slide-06-why-it-works.md) | [➡️ Next](slide-10-conclusion.md)
 
 ---
 
@@ -55,4 +55,4 @@
 
 ---
 
-[🏠 Home](../slide-deck.md) | [⬆️ Up](../slide-deck.md) | [⬅️ Prev](slide-06-why-it-works.md) | [➡️ Next](slide-08-simple-example.md)
+[🏠 Home](../slide-deck.md) | [⬆️ Up](../slide-deck.md) | [⬅️ Prev](slide-06-why-it-works.md) | [➡️ Next](slide-10-conclusion.md)
