@@ -1,4 +1,4 @@
-[🏠 Home](../slide-deck.md) | [⬆️ Up](../slide-deck.md) | ⬅️ Prev | [➡️ Next](slide-02-classical-team.md)
+[🏠 Home](../slide-deck.md) | [⬆️ Up](../slide-deck.md) | [➡️ Next](slide-02-classical-team.md)
 
 ---
 
@@ -24,4 +24,4 @@
 
 ---
 
-[🏠 Home](../slide-deck.md) | [⬆️ Up](../slide-deck.md) | ⬅️ Prev | [➡️ Next](slide-02-classical-team.md)
+[🏠 Home](../slide-deck.md) | [⬆️ Up](../slide-deck.md) | [➡️ Next](slide-02-classical-team.md)
