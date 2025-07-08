@@ -9,30 +9,30 @@
 ### Team Hierarchy
 
 ```mermaid
-graph TD
-    A[Stakeholder<br/>Customer - Always Human] --> B[Product Manager<br/>$12,000-15,000/mo]
-    B --> C[Business Analyst<br/>$8,000-12,000/mo]
-    C --> D[Architect<br/>$15,000-20,000/mo]
-    C --> E[Tech Lead<br/>$12,000-15,000/mo]
-    D --> F[Senior Developer<br/>$10,000-15,000/mo]
-    D --> G[Senior Developer<br/>$10,000-15,000/mo]
-    E --> H[Developer<br/>$8,000-10,000/mo]
-    E --> I[Developer<br/>$8,000-10,000/mo]
+graph LR
+    A[Stakeholder<br/>Customer - Always Human] --> B[Product Manager]
+    B --> C[Business Analyst]
+    C --> D[Architect]
+    C --> E[Tech Lead]
+    D --> F[Senior Developer]
+    D --> G[Senior Developer]
+    E --> H[Developer]
+    E --> I[Developer]
 
-    B --> J[UI/UX Designer<br/>$8,000-12,000/mo]
-    C --> K[QA Lead<br/>$8,000-12,000/mo]
-    K --> L[QA Engineer<br/>$6,000-8,000/mo]
-    K --> M[QA Engineer<br/>$6,000-8,000/mo]
-    E --> N[DevOps Engineer<br/>$10,000-15,000/mo]
-    C --> O[Technical Writer<br/>$5,000-8,000/mo]
+    B --> J[UI/UX Designer]
+    C --> K[QA Lead]
+    K --> L[QA Engineer]
+    K --> M[QA Engineer]
+    E --> N[DevOps Engineer]
+    C --> O[Technical Writer]
 ```
 
-### Supporting Roles
+### Example Supporting Roles
 
-- **QA Engineers**: $6,000-10,000/month
-- **DevOps**: $10,000-15,000/month
-- **UI/UX Designer**: $8,000-12,000/month
-- **Technical Writer**: $5,000-8,000/month
+- **QA Engineers**: Testing and quality assurance
+- **DevOps**: Infrastructure and deployment
+- **UI/UX Designer**: User interface and experience
+- **Technical Writer**: Documentation
 
 ### Typical Productivity
 

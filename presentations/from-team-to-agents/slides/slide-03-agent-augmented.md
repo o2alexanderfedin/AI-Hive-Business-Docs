@@ -9,22 +9,22 @@
 ### Flexible Role Assignment
 
 ```mermaid
-graph TD
+graph LR
     A[Stakeholder<br/>✅ Human Only] --> B[Product Manager<br/>✅🤖 Hybrid]
-    B --> C[Business Analyst<br/>🤖 Agent]
-    C --> D[Architect<br/>✅ Human]
-    C --> E[Tech Lead<br/>🤖 Agent]
-    D --> F[Senior Developer<br/>🤖 Agent]
+    B --> C[Business Analyst<br/>✅🤖 Hybrid]
+    C --> D[Architect<br/>✅🤖 Hybrid]
+    C --> E[Tech Lead<br/>✅🤖 Hybrid]
+    D --> F[Senior Developer<br/>✅🤖 Hybrid]
     D --> G[Senior Developer<br/>✅🤖 Hybrid]
-    E --> H[Developer<br/>🤖 Agent]
+    E --> H[Developer<br/>✅🤖 Hybrid]
     E --> I[Developer<br/>✅🤖 Hybrid]
 
     B --> J[UI/UX Designer<br/>✅🤖 Hybrid]
-    C --> K[QA Lead<br/>🤖 Agent]
-    K --> L[QA Engineer<br/>🤖 Agent]
+    C --> K[QA Lead<br/>✅🤖 Hybrid]
+    K --> L[QA Engineer<br/>✅🤖 Hybrid]
     K --> M[QA Engineer<br/>✅🤖 Hybrid]
-    E --> N[DevOps Engineer<br/>🤖 Agent]
-    C --> O[Technical Writer<br/>🤖 Agent]
+    E --> N[DevOps Engineer<br/>✅🤖 Hybrid]
+    C --> O[Technical Writer<br/>✅🤖 Hybrid]
 ```
 
 ### Agent Integration Channels
@@ -35,18 +35,27 @@ graph TD
 
 ### Agent Capabilities
 
+#### Standard Tasks
 - Create and discuss issues
 - Write and review code
-- Participate in planning
 - Generate documentation
 - Run tests and deployments
-- Collaborate with humans seamlessly
+
+#### Advanced Capabilities (Unique to Our System)
+- **Architect entire systems** from high-level requirements
+- **Conduct independent research** using web resources and documentation
+- **Make architectural decisions** based on trade-offs and constraints
+- **Design complex data models** and system integrations
+- **Plan multi-sprint roadmaps** with dependency management
+- **Lead technical discussions** and propose innovative solutions
+- **Refactor legacy codebases** while maintaining functionality
+- **Debug production issues** through log analysis and reasoning
+- **Collaborate seamlessly** with humans in real-time
 
 ### Legend
 
-- ✅ **Human**: Traditional team member
-- 🤖 **Agent**: AI-powered team member
-- ✅🤖 **Both**: Hybrid human-agent collaboration
+- ✅ **Human Only**: Stakeholder role (always human)
+- ✅🤖 **Hybrid**: Can be human, agent, or both working together
 
 ---
 

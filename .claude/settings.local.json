@@ -27,7 +27,9 @@
       "Bash(git checkout:*)",
       "Bash(git merge:*)",
       "Bash(git branch:*)",
-      "Bash(rm:*)"
+      "Bash(rm:*)",
+      "Bash(rg:*)",
+      "Bash(./.config/check-no-claude-anthropic.sh:*)"
     ],
     "deny": []
   }
