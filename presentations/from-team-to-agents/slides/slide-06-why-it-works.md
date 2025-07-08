@@ -14,16 +14,16 @@
 
 #### Paired Agent Interactions
 
-- Agent pairs review each other's work
+- Agent pairs [review each other's work](https://www.atlassian.com/agile/software-development/pair-programming)
 - Continuous quality checks
 - Knowledge sharing between agents
 
 #### Clean Development
 
 - Requirements clearly defined upfront
-- Architecture designed before coding
-- Code written to be maintainable
-- Regular refactoring cycles
+- [Architecture designed before coding](https://martinfowler.com/architecture/)
+- Code written to be [maintainable](https://www.oreilly.com/library/view/building-maintainable-software/9781491955987/)
+- Regular [refactoring](https://refactoring.com/) cycles
 
 #### Living Documentation
 
@@ -35,22 +35,22 @@
 
 #### Quality Assurance
 
-- Mandatory reviews at every stage
-- Technical debt identified and tracked
-- Continuous improvement mindset
+- Mandatory [code reviews](https://google.github.io/eng-practices/review/) at every stage
+- [Technical debt](https://martinfowler.com/bliki/TechnicalDebt.html) identified and tracked
+- [Continuous improvement](https://www.atlassian.com/agile/project-management/continuous-improvement) mindset
 - No shortcuts or quick fixes
-- **Test Coverage**: Consistently 80%+ coverage
-- **Testability First**: All code designed to be testable
-- **Automated Testing**: Unit, integration, and E2E tests
+- **[Test Coverage](https://martinfowler.com/bliki/TestCoverage.html)**: Consistently 80%+ coverage
+- **[Testability First](https://www.infoq.com/articles/testability-understanding/)**: All code designed to be testable
+- **[Automated Testing](https://www.atlassian.com/continuous-delivery/software-testing/automated-testing)**: Unit, integration, and E2E tests
 - **Test Maintenance**: Tests updated with every change
 
 #### Methodologies Applied
 
-- **SOLID** principles strictly followed
-- **TDD/BDD** for test-driven development
-- **TRIZ** adapted for software innovation
-- **Agile** with proper sprint planning
-- **DevOps** for continuous delivery
+- **[SOLID](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)** principles strictly followed
+- **[TDD](https://martinfowler.com/bliki/TestDrivenDevelopment.html)/[BDD](https://cucumber.io/docs/bdd/)** for test-driven development
+- **[TRIZ](https://www.triz.org/what-is-triz)** adapted for software innovation
+- **[Agile](https://agilemanifesto.org/)** with proper sprint planning
+- **[DevOps](https://aws.amazon.com/devops/what-is-devops/)** for continuous delivery
 
 ### Result
 
