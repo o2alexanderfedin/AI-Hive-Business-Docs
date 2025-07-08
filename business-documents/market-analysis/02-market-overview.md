@@ -1,6 +1,6 @@
 [🏠 Home](../../README.md) | [⬅️ Previous](01-executive-summary.md) | [➡️ Next](03-market-size-growth.md)
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../../assets/css/styles.css">
 ---
 
 # Market Overview

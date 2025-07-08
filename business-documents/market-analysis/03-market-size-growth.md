@@ -1,6 +1,6 @@
 [🏠 Home](../../README.md) | [⬅️ Previous](02-market-overview.md) | [➡️ Next](04-customer-segments.md)
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../../assets/css/styles.css">
 ---
 
 # Market Size & Growth Analysis

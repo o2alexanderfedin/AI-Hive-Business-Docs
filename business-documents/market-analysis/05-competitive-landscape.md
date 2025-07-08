@@ -1,6 +1,6 @@
 [🏠 Home](../../README.md) | [⬅️ Previous](04-customer-segments.md) | [➡️ Next](06-pricing-analysis.md)
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../../assets/css/styles.css">
 ---
 
 # Competitive Landscape Analysis

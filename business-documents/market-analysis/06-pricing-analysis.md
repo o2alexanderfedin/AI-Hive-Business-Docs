@@ -1,6 +1,6 @@
 [🏠 Home](../../README.md) | [⬅️ Previous](05-competitive-landscape.md) | [➡️ Next](07-market-opportunities.md)
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../../assets/css/styles.css">
 ---
 
 # Pricing Analysis

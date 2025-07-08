@@ -39,7 +39,8 @@
       "Bash(for file in *.md)",
       "Bash(do echo \"=== $file ===\")",
       "Bash(done)",
-      "Bash(python:*)"
+      "Bash(python:*)",
+      "Bash(tree:*)"
     ],
     "deny": []
   }
