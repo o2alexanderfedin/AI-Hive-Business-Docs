@@ -15,7 +15,12 @@
       "Bash(pre-commit:*)",
       "Bash(markdownlint:*)",
       "Bash(git mv:*)",
-      "Bash(ln:*)"
+      "Bash(ln:*)",
+      "Bash(ls:*)",
+      "Bash(chmod:*)",
+      "Bash(git flow feature start:*)",
+      "Bash(git flow init:*)",
+      "Bash(git stash:*)"
     ],
     "deny": []
   }
