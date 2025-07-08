@@ -130,13 +130,20 @@ pie title "Development Pricing Models Usage 2024"
 
 | Tool | Individual | Team | Enterprise | Usage Limits |
 |------|------------|------|------------|--------------|
-| **GitHub Copilot** | $10/mo | $19/user/mo | $39/user/mo | Unlimited |
+| **GitHub Copilot** | $10/mo Pro | $19/user/mo Business | $39/user/mo Enterprise | Premium requests limited |
 | **Cursor** | Free | $20/mo Pro | $200/mo Ultra | API usage based |
-| **Tabnine** | Free | $12/user/mo | Custom | Limited free |
-| **Codeium** | Free | $10/user/mo | Custom | Unlimited free |
-| **Amazon CodeWhisperer** | Free | $15/user/mo | Custom | AWS integrated |
+| **Tabnine** | Free | $12/user/mo Pro | $39/user/mo | Pro: 100 users max |
+| **Codeium (Windsurf)** | Free | $15/user/mo Teams | $60/user/mo | Unlimited free tier |
+| **Amazon Q Developer** | Free | $19/user/mo Pro | Custom | 50 chats/mo free |
 
 </div>
+
+#### Key 2025 Pricing Updates
+- **GitHub Copilot**: Now enforces premium request limits on all paid plans
+- **Cursor**: Controversial shift from unlimited to usage-based model (July 2025)
+- **Tabnine**: Enterprise pricing increased to $39/user/mo
+- **Codeium**: Rebranded to Windsurf, maintains generous free tier
+- **Amazon Q**: CodeWhisperer now part of Q Developer ecosystem
 
 ### Enterprise AI Platform Pricing
 
