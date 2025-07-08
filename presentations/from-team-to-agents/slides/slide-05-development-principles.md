@@ -1,53 +1,39 @@
-[🏠 Home](../slide-deck.md) | [⬆️ Up](../slide-deck.md) | [⬅️ Prev](slide-04d-productivity-comparison.md) | [➡️ Next](slide-06-why-it-works.md)
+[🏠 Home](../slide-deck.md) | [⬆️ Up](../slide-deck.md) | [⬅️ Prev](slide-04d-productivity-comparison.md) | [➡️ Next](slide-05a-scrum-framework.md)
 
 ---
 
 # Slide 5: Development Principles
 
-## Agile Methodologies
+## Agile-First Approach
 
-### SCRUM Framework
-- **Epics**: High-level business objectives
-- **User Stories**: Feature descriptions from user perspective
-- **Engineering Tasks**: Technical implementation details
-- **Kanban Board**: Visual workflow management
-- **Sprint Planning**: 2-week iterations with clear goals
-- **Daily Standups**: AI agents report progress 24/7
-- **Sprint Reviews**: Automated demos and stakeholder feedback
-- **Retrospectives**: Continuous process improvement
+### AI Agents Follow Proven Methodologies
 
-### eXtreme Programming (XP) Practices
-- **Pair Programming**: AI-AI collaborative coding
-- **Test-Driven Development (TDD)**: Tests written before code
-- **Continuous Integration**: Merge and test frequently
-- **Refactoring**: Constant code improvement
-- **Simple Design**: YAGNI (You Aren't Gonna Need It)
-- **Collective Code Ownership**: All agents can modify any code
-- **Sustainable Pace**: AI agents never burn out
-- **On-site Customer**: Direct stakeholder access via chat
+Our AI agents are trained to follow industry-standard agile practices, ensuring enterprise-grade software development that meets the highest quality standards.
 
-### Emergent Design
-- **Evolutionary Architecture**: Design emerges from requirements
-- **Incremental Development**: Small, frequent releases
-- **Feedback-Driven**: Rapid iteration based on user input
-- **Just-In-Time Design**: Avoid over-engineering
-- **Continuous Redesign**: Adapt as understanding grows
+### Framework Components
 
-## Core Engineering Standards
+1. **[SCRUM Framework](slide-05a-scrum-framework.md)**
+   - Sprint-based development
+   - User stories and epics
+   - Continuous delivery
 
-### Based on Agile Manifesto
-- **Individuals and interactions** over processes and tools
-- **Working software** over comprehensive documentation
-- **Customer collaboration** over contract negotiation
-- **Responding to change** over following a plan
+2. **[eXtreme Programming (XP)](slide-05b-xp-practices.md)**
+   - Technical excellence
+   - Continuous improvement
+   - Collaborative development
 
-### XP Values
-- **Communication**: Clear, constant dialogue
-- **Simplicity**: Choose the simplest solution
-- **Feedback**: Learn from every iteration
-- **Courage**: Make necessary changes
-- **Respect**: Value all team contributions
+3. **[Emergent Design & Values](slide-05c-emergent-design-values.md)**
+   - Adaptive architecture
+   - Core agile principles
+   - Value-driven development
+
+### Why Agile Works with AI
+
+- **Faster Feedback Loops**: 24/7 development enables rapid iteration
+- **Perfect Memory**: Never forget sprint goals or user stories
+- **Consistent Practices**: Always follow defined processes
+- **Instant Adaptation**: Pivot immediately based on feedback
 
 ---
 
-[🏠 Home](../slide-deck.md) | [⬆️ Up](../slide-deck.md) | [⬅️ Prev](slide-04d-productivity-comparison.md) | [➡️ Next](slide-06-why-it-works.md)
+[🏠 Home](../slide-deck.md) | [⬆️ Up](../slide-deck.md) | [⬅️ Prev](slide-04d-productivity-comparison.md) | [➡️ Next](slide-05a-scrum-framework.md)

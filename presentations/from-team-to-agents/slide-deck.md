@@ -33,7 +33,11 @@ Overview of global cost comparisons between human teams and AI swarm.
 
 ### [Slide 5: Development Principles](slides/slide-05-development-principles.md)
 
-Core engineering standards maintained in agent-augmented development.
+Agile methodologies and frameworks used by AI agents.
+
+- [Slide 5a: SCRUM Framework](slides/slide-05a-scrum-framework.md) - Sprint-based development
+- [Slide 5b: XP Practices](slides/slide-05b-xp-practices.md) - Technical excellence
+- [Slide 5c: Values & Design](slides/slide-05c-emergent-design-values.md) - Core principles
 
 ### [Slide 6: Why the Process Works](slides/slide-06-why-it-works.md)
 
