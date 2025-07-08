@@ -22,7 +22,11 @@
       "Bash(git flow init:*)",
       "Bash(git stash:*)",
       "Bash(git flow feature:*)",
-      "Bash(git flow release:*)"
+      "Bash(git flow release:*)",
+      "Bash(git tag:*)",
+      "Bash(git checkout:*)",
+      "Bash(git merge:*)",
+      "Bash(git branch:*)"
     ],
     "deny": []
   }

@@ -10,8 +10,8 @@
 
 ---
 
-**Author:** [Your Name]
-**Date:** [Presentation Date]
+**Author:** Alex Fedin
+**Date:** July 2024
 **Company:** O2.services
 
 ---

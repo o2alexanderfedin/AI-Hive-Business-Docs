@@ -37,10 +37,10 @@
 
 **O2.services - AI Hive Project**
 
-📧 **Email:** <contact@o2.services>
+📧 **Email:** <af@o2.services>
 🌐 **Website:** <www.o2.services>
-📱 **Phone:** [Your Phone]
-💼 **LinkedIn:** [Your LinkedIn]
+📱 **Phone:** +1 (425) 351-1652
+💼 **LinkedIn:** Alex Fedin
 
 ---
 
