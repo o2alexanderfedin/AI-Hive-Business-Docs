@@ -39,12 +39,16 @@ graph TD
 - **Market Size**: 90 million startups globally
 
 #### Pain Points
+<div class="mermaid-diagram-wrapper">
+
 | Pain Point | Impact | Current Solution | Cost |
 |------------|--------|------------------|------|
 | Funding constraints | 40.9% cite as #1 issue | Equity for development | 20-30% equity |
 | AI integration complexity | 49.2% struggle | Hire AI experts | $150K+/year |
 | Speed to market | 73% fail due to timing | Rush quality | Technical debt |
 | Talent acquisition | 34% can't find devs | Overpay or outsource | 2-3x budget |
+
+</div>
 
 #### Opportunity
 - **Current State**: Forced to seek VC funding for basic development
@@ -65,12 +69,16 @@ graph TD
 - **Market Size**: 500K+ agencies globally
 
 #### Pain Points
+<div class="mermaid-diagram-wrapper">
+
 | Challenge | % Affected | Annual Cost Impact |
 |-----------|------------|-------------------|
 | Project estimation | 36% | 15-20% margin loss |
 | Client scope creep | 35% | $500K+ overruns |
 | Resource allocation | 32% | 25% utilization loss |
 | Quality consistency | 30% | Client churn 20% |
+
+</div>
 
 #### Current vs. AI Swarm Model
 <div class="mermaid-diagram-wrapper">
@@ -118,12 +126,16 @@ graph LR
    - Vendor lock-in fears
 
 #### Enterprise Requirements
+<div class="mermaid-diagram-wrapper">
+
 | Requirement | Priority | Current Solution | Annual Cost |
 |-------------|----------|------------------|-------------|
 | Security compliance | Critical | Security teams | $2M+ |
 | Audit trails | High | Manual documentation | $500K+ |
 | SLAs | Critical | Dedicated teams | $5M+ |
 | Integration | High | Custom development | $1M+ |
+
+</div>
 
 ### 4. 👤 Freelancers & Solo Developers
 
@@ -161,11 +173,15 @@ pie title "Freelancer Time Allocation"
 - **Margins**: 40-60%
 
 #### Partnership Opportunity
+<div class="mermaid-diagram-wrapper">
+
 | Service | Current Model | AI-Augmented Model | Margin Impact |
 |---------|--------------|-------------------|---------------|
 | Development | Subcontract 30% | White-label AI | +40% |
 | Architecture | Senior consultants | AI + review | +60% |
 | Maintenance | Dedicated teams | AI monitoring | +80% |
+
+</div>
 
 ## Industry-Specific Segments
 
