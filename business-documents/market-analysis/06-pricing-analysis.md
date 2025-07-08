@@ -170,7 +170,9 @@ config:
   themeVariables:
     xyChart:
       backgroundColor: transparent
-      plotColorPalette: "#F5D5D5, #FFF5E5, #D5F5D5"
+      plotColorPalette: "#FF6B6B, #FFD93D, #6BCF7F"
+      plotBorderColor: "#CC5555, #E6C230, #4CAF50"
+      plotBorderWidth: 2
       titleColor: "#000000"
       xAxisLabelColor: "#000000"
       xAxisTitleColor: "#000000"
@@ -191,7 +193,7 @@ xychart-beta horizontal
 
 </div>
 
-*Color Legend: Red = Developer Costs, Yellow = Tool/Platform Costs, Green = AI Swarm (no developers needed)*
+*Color Legend: 🔴 Red = Developer Costs, 🟡 Yellow = Tool/Platform Costs, 🟢 Green = AI Swarm (no developers needed)*
 
 ## Cost-per-Project Analysis
 
