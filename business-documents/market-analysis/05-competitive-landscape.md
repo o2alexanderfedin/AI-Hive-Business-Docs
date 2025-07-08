@@ -523,7 +523,7 @@ graph LR
     H ==> E
     H ==> F
 
-    style G fill:#F5E5E5,stroke:#E5D5D5,color:#000
+    style G fill:#F5D5D5,stroke:#E5C5C5,color:#000
     style H fill:#4CAF50,color:#fff
 ```
 
