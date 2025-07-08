@@ -384,63 +384,30 @@ pie title "Global IT Outsourcing Market Share"
 %%{init: {
   'theme': 'base',
   'themeVariables': {
+    'quadrant1Fill': '#E5F5E5',
+    'quadrant2Fill': '#F5E8D0',
+    'quadrant3Fill': '#E8E8F5',
+    'quadrant4Fill': '#E5F0FC',
+    'quadrant1TextFill': '#000000',
+    'quadrant2TextFill': '#000000',
+    'quadrant3TextFill': '#000000',
+    'quadrant4TextFill': '#000000',
+    'quadrantPointFill': '#000000',
+    'quadrantPointTextFill': '#000000',
+    'quadrantXAxisTextFill': '#000000',
+    'quadrantYAxisTextFill': '#000000',
+    'quadrantInternalBorderStrokeFill': '#B0C5D8',
+    'quadrantExternalBorderStrokeFill': '#8A9AB2',
+    'quadrantTitleFill': '#000000',
     'primaryColor': '#C8D8E8',
     'primaryTextColor': '#000000',
     'primaryBorderColor': '#B0C5D8',
     'lineColor': '#B0C5D8',
-    'secondaryColor': '#B8DDD8',
-    'secondaryTextColor': '#000000',
-    'secondaryBorderColor': '#9ECCC5',
-    'tertiaryColor': '#C5DEF0',
-    'tertiaryTextColor': '#000000',
-    'tertiaryBorderColor': '#A8CCDE',
     'background': '#F8F8F8',
     'mainBkg': '#C8D8E8',
-    'secondBkg': '#B8DDD8',
-    'tertiaryBkg': '#C5DEF0',
-    'mainContrastColor': '#000000',
     'darkMode': false,
     'fontFamily': 'Arial, sans-serif',
-    'fontSize': '14px',
-    'labelBackground': '#F0F0F0',
-    'textColor': '#000000',
-    'nodeBkg': '#D5D8E5',
-    'nodeTextColor': '#000000',
-    'nodeBorder': '#C0C5D8',
-    'clusterBkg': '#E5D5DC',
-    'clusterBorder': '#D5C0CA',
-    'defaultLinkColor': '#B0C5D8',
-    'titleColor': '#000000',
-    'edgeLabelBackground': '#F8F8F8',
-    'actorBorder': '#B0C5D8',
-    'actorBkg': '#D5D8E5',
-    'actorTextColor': '#000000',
-    'actorLineColor': '#B0C5D8',
-    'signalColor': '#000000',
-    'signalTextColor': '#000000',
-    'activationBorderColor': '#B0C5D8',
-    'activationBkgColor': '#E5D5DC',
-    'sequenceNumberColor': '#000000',
-    'sectionBkgColor': '#F5E8D0',
-    'altSectionBkgColor': '#F0DFC5',
-    'sectionBkgColor2': '#E5D5DC',
-    'taskBorderColor': '#B0C5D8',
-    'taskBkgColor': '#D5D8E5',
-    'taskTextColor': '#000000',
-    'taskTextLightColor': '#000000',
-    'taskTextOutsideColor': '#000000',
-    'taskTextClickableColor': '#000000',
-    'activeTaskBorderColor': '#C8D8E8',
-    'activeTaskBkgColor': '#C5DEF0',
-    'gridColor': '#D8D8D8',
-    'doneTaskBkgColor': '#B8DDD8',
-    'doneTaskBorderColor': '#9ECCC5',
-    'critBorderColor': '#E5C8B0',
-    'critBkgColor': '#F0DFC5',
-    'todayLineColor': '#E5C8B0',
-    'labelColor': '#000000',
-    'errorBkgColor': '#E5D5DC',
-    'errorTextColor': '#000000'
+    'fontSize': '14px'
   }
 }}%%
 quadrantChart
@@ -466,10 +433,10 @@ quadrantChart
 
 ### Quadrant Analysis
 
-- **Leaders (High Automation, High Price)**: Cognition (Devin) - Premium autonomous solutions
-- **Challengers (Low Automation, High Price)**: Traditional outsourcing, Low-Code platforms - Expensive but limited automation
-- **Cost Players (Low Automation, Low Price)**: Freelancers - Cheap but manual labor
-- **Disruptors (High Automation, Low Price)**: AI Swarm - Revolutionary value proposition with full automation at minimal cost
+- **Leaders (High Automation, High Price)** 🟢: Cognition (Devin) - Premium autonomous solutions
+- **Challengers (Low Automation, High Price)** 🟡: Traditional outsourcing, Low-Code platforms - Expensive but limited automation
+- **Cost Players (Low Automation, Low Price)** 🟣: Freelancers - Cheap but manual labor
+- **Disruptors (High Automation, Low Price)** 🔵: AI Swarm - Revolutionary value proposition with full automation at minimal cost
 
 ## Competitive Advantages Analysis
 
