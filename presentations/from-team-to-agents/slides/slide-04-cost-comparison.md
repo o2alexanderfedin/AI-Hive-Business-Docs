@@ -25,10 +25,22 @@
 | Business Analyst | $2,250 | 1 | $2,250 | $27,000 |
 | Architect | $4,000 | 1 | $4,000 | $48,000 |
 | Senior Developer | $3,250 | 2 | $6,500 | $78,000 |
-| Junior Developer | $1,050 | 3 | $3,150 | $37,800 |
-| QA Engineer | $1,400 | 3 | $4,200 | $50,400 |
+| Junior Developer | $1,050 | 2 | $2,100 | $25,200 |
+| QA Engineer | $1,400 | 2 | $2,800 | $33,600 |
 | DevOps Engineer | $3,000 | 1 | $3,000 | $36,000 |
-| **TOTAL** | | **12** | **$26,100/month** | **$313,200/year** |
+| **TOTAL** | | **10** | **$23,650/month** | **$283,800/year** |
+
+### Vietnam Team
+| Role | Monthly Salary | Count | Monthly Subtotal | Annual Subtotal |
+|------|----------------|-------|------------------|-----------------|
+| Product Manager | $3,000 | 1 | $3,000 | $36,000 |
+| Business Analyst | $2,500 | 1 | $2,500 | $30,000 |
+| Architect | $4,000 | 1 | $4,000 | $48,000 |
+| Senior Developer | $3,000 | 2 | $6,000 | $72,000 |
+| Junior Developer | $1,100 | 2 | $2,200 | $26,400 |
+| QA Engineer | $1,500 | 2 | $3,000 | $36,000 |
+| DevOps Engineer | $3,000 | 1 | $3,000 | $36,000 |
+| **TOTAL** | | **10** | **$23,700/month** | **$284,400/year** |
 
 ### Poland Team
 | Role | Monthly Salary | Count | Monthly Subtotal | Annual Subtotal |
@@ -53,20 +65,23 @@
 
 ### Productivity Comparison
 
-#### Time to Market
-- **US Team (10 people)**: 3 months for typical project
-- **India Team (12 people)**: 3-4 months (timezone delays)
+#### Time to Market (All teams: 10 people)
+- **Traditional Teams**: 3 months for typical project
 - **AI Swarm**: 2-3 days (~50x faster execution)
 
-#### Cost per Project (3-month equivalent)
-- **US Team**: $322,500 (3 months actual)
-- **India Team**: $78,300-104,400 (3-4 months actual)
-- **AI Swarm**: $400-1,500 (2-3 days actual)
+#### Cost per Project (3-month typical project)
+- **US Team**: $322,500
+- **Poland Team**: $105,000
+- **Vietnam Team**: $71,100
+- **India Team**: $71,000
+- **AI Swarm**: $400-1,500 (completes in 2-3 days)
 
-#### Annual Output Comparison
-- **US Team**: 4 projects/year = $1,290,000
-- **India Team**: 3-4 projects/year = $313,200
-- **AI Swarm**: ~120 projects/year = $73,000-182,500
+#### Annual Cost Summary (10-person teams)
+- **US Team**: $1,290,000/year
+- **Poland Team**: $420,000/year
+- **Vietnam Team**: $284,400/year
+- **India Team**: $283,800/year
+- **AI Swarm**: $73,000-182,500/year (~120 projects vs 4)
 
 #### Key Differentiators
 - **No HR overhead**: No hiring, training, or management
