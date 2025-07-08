@@ -21,7 +21,8 @@
       "Bash(git flow feature start:*)",
       "Bash(git flow init:*)",
       "Bash(git stash:*)",
-      "Bash(git flow feature:*)"
+      "Bash(git flow feature:*)",
+      "Bash(git flow release:*)"
     ],
     "deny": []
   }
