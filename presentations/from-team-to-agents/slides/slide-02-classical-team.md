@@ -25,22 +25,6 @@ graph TD
     K --> M[QA Engineer<br/>$6,000-8,000/mo]
     E --> N[DevOps Engineer<br/>$10,000-15,000/mo]
     C --> O[Technical Writer<br/>$5,000-8,000/mo]
-
-    style A fill:#FFE4B5
-    style B fill:#E6F3FF
-    style C fill:#E6F3FF
-    style D fill:#E6F3FF
-    style E fill:#E6F3FF
-    style F fill:#E6F3FF
-    style G fill:#E6F3FF
-    style H fill:#E6F3FF
-    style I fill:#E6F3FF
-    style J fill:#E6F3FF
-    style K fill:#E6F3FF
-    style L fill:#E6F3FF
-    style M fill:#E6F3FF
-    style N fill:#E6F3FF
-    style O fill:#E6F3FF
 ```
 
 ### Supporting Roles
