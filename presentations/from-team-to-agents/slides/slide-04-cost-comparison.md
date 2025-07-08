@@ -86,11 +86,14 @@
 - **AI Swarm**: $36,500-182,500/year* (~120 projects vs 4)
 
 #### Key Differentiators
-- **No HR overhead**: No hiring, training, or management
-- **No infrastructure**: No office space or equipment
-- **Perfect memory**: Never forgets project context
-- **Instant scaling**: Add 100 agents in seconds
-- **Global knowledge**: Accesses latest best practices
+- **Zero ramp-up time**: Instant productivity, no learning curve
+- **Consistent performance**: No mood swings, sick days, or "lazy Mondays"
+- **No HR overhead**: No hiring, training, or management issues
+- **No infrastructure**: No office space or equipment needed
+- **Perfect memory**: Never forgets project context or requirements
+- **Instant scaling**: Add 100 agents in seconds, remove them just as fast
+- **Always motivated**: Peak performance 24x7x365, no burnout
+- **Global knowledge**: Accesses latest best practices instantly
 
 ---
 
