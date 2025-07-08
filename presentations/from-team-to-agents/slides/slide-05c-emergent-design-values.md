@@ -7,13 +7,13 @@
 ## Emergent Design Principles
 
 ### Adaptive Architecture
-- **Evolutionary Design**: Architecture emerges from requirements
-- **Incremental Development**: Small, frequent releases
-- **Just-In-Time Design**: Avoid premature optimization
-- **Continuous Redesign**: Refactor as understanding grows
-- **Feedback-Driven**: Let user needs guide architecture
+- **[Evolutionary Design](https://martinfowler.com/articles/designDead.html)**: Architecture emerges from requirements
+- **[Incremental Development](https://www.agilealliance.org/glossary/incremental-development/)**: Small, frequent releases
+- **[Just-In-Time Design](https://www.jamesshore.com/v2/books/aoad1/simple_design)**: Avoid premature optimization
+- **[Continuous Redesign](https://www.martinfowler.com/bliki/EvolutionaryDesign.html)**: Refactor as understanding grows
+- **[Feedback-Driven](https://www.infoq.com/articles/emergent-design-evolutionary/)**: Let user needs guide architecture
 
-## Agile Manifesto Values
+## [Agile Manifesto](https://agilemanifesto.org/) Values
 
 We are uncovering better ways of developing software by doing it:
 
@@ -24,7 +24,7 @@ We are uncovering better ways of developing software by doing it:
 
 *While there is value in the items on the right, we value the items on the left more.*
 
-## XP Core Values
+## [XP Core Values](http://www.extremeprogramming.org/values.html)
 
 ### The Foundation of Excellence
 
