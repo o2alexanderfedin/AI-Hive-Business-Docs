@@ -149,105 +149,31 @@ pie title "Development Pricing Models Usage 2024"
 
 <div class="mermaid-diagram-wrapper">
 
-```mermaid
-%%{init: {
-  'theme': 'base',
-  'themeVariables': {
-    'primaryColor': '#A8B8D0',
-    'primaryTextColor': '#000000',
-    'primaryBorderColor': '#8A9AB2',
-    'lineColor': '#8A9AB2',
-    'secondaryColor': '#5DBCB6',
-    'secondaryTextColor': '#000000',
-    'secondaryBorderColor': '#3D9A94',
-    'tertiaryColor': '#84D4F5',
-    'tertiaryTextColor': '#000000',
-    'tertiaryBorderColor': '#5ABCD8',
-    'background': '#F5F5F5',
-    'mainBkg': '#A8B8D0',
-    'secondBkg': '#5DBCB6',
-    'tertiaryBkg': '#84D4F5',
-    'mainContrastColor': '#000000',
-    'darkMode': false,
-    'fontFamily': 'Arial, sans-serif',
-    'fontSize': '14px',
-    'labelBackground': '#E8E8E8',
-    'textColor': '#000000',
-    'nodeBkg': '#B3B2D8',
-    'nodeTextColor': '#000000',
-    'nodeBorder': '#8A89C0',
-    'clusterBkg': '#E5C4CA',
-    'clusterBorder': '#CDA2AB',
-    'defaultLinkColor': '#8A9AB2',
-    'titleColor': '#000000',
-    'edgeLabelBackground': '#F5F5F5',
-    'actorBorder': '#8A9AB2',
-    'actorBkg': '#B3B2D8',
-    'actorTextColor': '#000000',
-    'actorLineColor': '#8A9AB2',
-    'signalColor': '#000000',
-    'signalTextColor': '#000000',
-    'activationBorderColor': '#8A9AB2',
-    'activationBkgColor': '#E5C4CA',
-    'sequenceNumberColor': '#000000',
-    'sectionBkgColor': '#FFD54F',
-    'altSectionBkgColor': '#FFB74D',
-    'sectionBkgColor2': '#E1B3C4',
-    'taskBorderColor': '#8A9AB2',
-    'taskBkgColor': '#B3B2D8',
-    'taskTextColor': '#000000',
-    'taskTextLightColor': '#000000',
-    'taskTextOutsideColor': '#000000',
-    'taskTextClickableColor': '#000000',
-    'activeTaskBorderColor': '#A8B8D0',
-    'activeTaskBkgColor': '#84D4F5',
-    'gridColor': '#C0C0C0',
-    'doneTaskBkgColor': '#5DBCB6',
-    'doneTaskBorderColor': '#3D9A94',
-    'critBorderColor': '#E27D00',
-    'critBkgColor': '#FFB74D',
-    'todayLineColor': '#E27D00',
-    'labelColor': '#000000',
-    'errorBkgColor': '#E1B3C4',
-    'errorTextColor': '#000000'
-  }
-}}%%
-graph TD
-    A[Enterprise: 500 Developers] --> B[GitHub Copilot]
-    A --> C[Cursor Business]
-    A --> D[Traditional Team]
-    A --> E[AI Swarm]
-
-    B --> B1[Tool: $234K/year]
-    B --> B2[Developers: $50M/year]
-    B --> B3[Total: $50.23M/year]
-
-    C --> C1[Tool: $120K/year]
-    C --> C2[Developers: $50M/year]
-    C --> C3[Total: $50.12M/year]
-
-    D --> D1[No tool cost]
-    D --> D2[Developers: $50M/year]
-    D --> D3[Total: $50M/year]
-
-    E --> E1[Platform: $36.5K-182.5K/year]
-    E --> E2[No developers needed]
-    E --> E3[Total: $36.5K-182.5K/year]
-
-    style B1 fill:#FFF5E5,stroke:#E5D5C5,color:#000
-    style C1 fill:#FFF5E5,stroke:#E5D5C5,color:#000
-    style D1 fill:#FFF5E5,stroke:#E5D5C5,color:#000
-    style E1 fill:#E5F5E5,stroke:#C5E5C5,color:#000
-
-    style B3 fill:#F5D5D5,stroke:#E5C5C5,color:#000
-    style C3 fill:#F5D5D5,stroke:#E5C5C5,color:#000
-    style D3 fill:#F5D5D5,stroke:#E5C5C5,color:#000
-    style E3 fill:#D5F5D5,stroke:#C5E5C5,color:#000
-```
+| Solution | Tool Cost | Developer Cost | **Total Annual Cost** | Cost Reduction |
+|----------|-----------|----------------|----------------------|----------------|
+| Traditional Team | $0 | $50,000,000 | **$50,000,000** | Baseline |
+| GitHub Copilot | $234,000 | $50,000,000 | **$50,234,000** | -0.5% |
+| Cursor Business | $120,000 | $50,000,000 | **$50,120,000** | -0.2% |
+| **AI Swarm** | **$36,500-182,500** | **$0** | **$36,500-182,500** | **99.6%** |
 
 </div>
 
 **Key Insight**: AI coding assistants (Copilot, Cursor) are just tools that still require full development teams. The tool cost is less than 0.5% of total expenses. Only AI Swarm eliminates the need for human developers entirely.
+
+### Visual Cost Comparison
+
+<div class="mermaid-diagram-wrapper">
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'backgroundColor': 'transparent'}}}}%%
+xychart-beta horizontal
+    title "Annual Cost for 500 Developers (in millions)"
+    x-axis ["Traditional", "Copilot", "Cursor", "AI Swarm"]
+    y-axis "Cost ($M)" 0 --> 60
+    bar [50.00, 50.23, 50.12, 0.18]
+```
+
+</div>
 
 ## Cost-per-Project Analysis
 
