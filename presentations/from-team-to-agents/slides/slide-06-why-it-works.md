@@ -1,4 +1,4 @@
-[🏠 Home](../slide-deck.md) | [⬆️ Up](../slide-deck.md) | [⬅️ Prev](slide-05-development-principles.md) | [➡️ Next](slide-07-example-projects.md)
+[🏠 Home](../slide-deck.md) | [⬆️ Up](../slide-deck.md) | [⬅️ Prev](slide-05c-emergent-design-values.md) | [➡️ Next](slide-07-example-projects.md)
 
 ---
 
@@ -25,6 +25,14 @@
 - Code written to be maintainable
 - Regular refactoring cycles
 
+#### Living Documentation
+
+- **Always Current**: Documentation updated with every code change
+- **Never Outdated**: AI agents can't forget to update docs
+- **Real-Time Sync**: Code and documentation evolve together
+- **Automated Updates**: API docs, diagrams, and guides stay fresh
+- **Version Controlled**: Full history of documentation changes
+
 #### Quality Assurance
 
 - Mandatory reviews at every stage
@@ -46,4 +54,4 @@
 
 ---
 
-[🏠 Home](../slide-deck.md) | [⬆️ Up](../slide-deck.md) | [⬅️ Prev](slide-05-development-principles.md) | [➡️ Next](slide-07-example-projects.md)
+[🏠 Home](../slide-deck.md) | [⬆️ Up](../slide-deck.md) | [⬅️ Prev](slide-05c-emergent-design-values.md) | [➡️ Next](slide-07-example-projects.md)
