@@ -171,6 +171,15 @@ config:
     xyChart:
       backgroundColor: transparent
       plotColorPalette: "#F5D5D5, #FFF5E5, #D5F5D5"
+      titleColor: "#000000"
+      xAxisLabelColor: "#000000"
+      xAxisTitleColor: "#000000"
+      xAxisTickColor: "#000000"
+      xAxisLineColor: "#000000"
+      yAxisLabelColor: "#000000"
+      yAxisTitleColor: "#000000"
+      yAxisTickColor: "#000000"
+      yAxisLineColor: "#000000"
 ---
 xychart-beta horizontal
     title "Annual Cost Breakdown for 500 Developers (in millions)"
