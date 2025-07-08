@@ -11,20 +11,20 @@
 ```mermaid
 graph TD
     A[Stakeholder<br/>✅ Human Only] --> B[Product Manager<br/>✅🤖 Hybrid]
-    B --> C[Business Analyst<br/>🤖 Agent]
-    C --> D[Architect<br/>✅ Human]
-    C --> E[Tech Lead<br/>🤖 Agent]
-    D --> F[Senior Developer<br/>🤖 Agent]
+    B --> C[Business Analyst<br/>✅🤖 Hybrid]
+    C --> D[Architect<br/>✅🤖 Hybrid]
+    C --> E[Tech Lead<br/>✅🤖 Hybrid]
+    D --> F[Senior Developer<br/>✅🤖 Hybrid]
     D --> G[Senior Developer<br/>✅🤖 Hybrid]
-    E --> H[Developer<br/>🤖 Agent]
+    E --> H[Developer<br/>✅🤖 Hybrid]
     E --> I[Developer<br/>✅🤖 Hybrid]
 
     B --> J[UI/UX Designer<br/>✅🤖 Hybrid]
-    C --> K[QA Lead<br/>🤖 Agent]
-    K --> L[QA Engineer<br/>🤖 Agent]
+    C --> K[QA Lead<br/>✅🤖 Hybrid]
+    K --> L[QA Engineer<br/>✅🤖 Hybrid]
     K --> M[QA Engineer<br/>✅🤖 Hybrid]
-    E --> N[DevOps Engineer<br/>🤖 Agent]
-    C --> O[Technical Writer<br/>🤖 Agent]
+    E --> N[DevOps Engineer<br/>✅🤖 Hybrid]
+    C --> O[Technical Writer<br/>✅🤖 Hybrid]
 ```
 
 ### Agent Integration Channels
@@ -44,9 +44,8 @@ graph TD
 
 ### Legend
 
-- ✅ **Human**: Traditional team member
-- 🤖 **Agent**: AI-powered team member
-- ✅🤖 **Both**: Hybrid human-agent collaboration
+- ✅ **Human Only**: Stakeholder role (always human)
+- ✅🤖 **Hybrid**: Can be human, agent, or both working together
 
 ---
 
