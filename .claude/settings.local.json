@@ -35,7 +35,10 @@
       "Bash(git remote prune:*)",
       "Bash(python3:*)",
       "Bash(find:*)",
-      "Bash(grep:*)"
+      "Bash(grep:*)",
+      "Bash(for file in *.md)",
+      "Bash(do echo \"=== $file ===\")",
+      "Bash(done)"
     ],
     "deny": []
   }

@@ -9,6 +9,8 @@
 
 ### A.1 Global Software Market Projections (USD Billions)
 
+<div class="mermaid-diagram-wrapper">
+
 | Source | 2023 | 2024 | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | CAGR |
 |--------|------|------|------|------|------|------|------|------|------|
 | Precedence Research | 659.2 | 737.0 | 824.0 | 925.0 | 1,040 | 1,170 | 1,310 | 1,470 | 11.8% |
@@ -16,7 +18,11 @@
 | Grand View Research | 583.5 | 650.8 | 736.8 | 850.3 | 983.5 | 1,140 | 1,322 | 1,534 | 14.8% |
 | Markets and Markets | - | 736.9 | 839.0 | 958.5 | 1,097 | 1,258 | 1,443 | 1,655 | 12.9% |
 
+</div>
+
 ### A.2 Software Development Outsourcing Market
+
+<div class="mermaid-diagram-wrapper">
 
 | Year | Market Size (USD B) | YoY Growth | Key Driver |
 |------|-------------------|------------|------------|
@@ -28,6 +34,8 @@
 | 2025 | 180.0 | 56.8% | Massive AI adoption |
 | 2030 | 846.2 | 36.1% CAGR | Full automation |
 | 2033 | 1,310 | 56.9% CAGR | Market maturity |
+
+</div>
 
 ## B. Regional Market Data
 
@@ -49,6 +57,8 @@ pie title "Global Software Market Distribution 2024 ($737B)"
 
 ### B.2 Regional Growth Rates (2024-2030 CAGR)
 
+<div class="mermaid-diagram-wrapper">
+
 | Region | 2024 Size | 2030 Size | CAGR | Growth Drivers |
 |--------|-----------|-----------|------|----------------|
 | North America | $337B | $583B | 11.2% | Enterprise AI, Cloud |
@@ -57,9 +67,13 @@ pie title "Global Software Market Distribution 2024 ($737B)"
 | Latin America | $32B | $65B | 15.8% | Infrastructure growth |
 | MEA | $26B | $51B | 14.9% | Oil economy diversification |
 
+</div>
+
 ## C. AI Adoption Statistics
 
 ### C.1 Developer AI Tool Usage (2024)
+
+<div class="mermaid-diagram-wrapper">
 
 | Tool | Usage Rate | Users | Growth Rate |
 |------|------------|-------|-------------|
@@ -70,7 +84,11 @@ pie title "Global Software Market Distribution 2024 ($737B)"
 | Tabnine | 12% | 12M+ | 40% YoY |
 | Codeium | 8% | 8M+ | 300% YoY |
 
+</div>
+
 ### C.2 Enterprise AI Adoption by Industry
+
+<div class="mermaid-diagram-wrapper">
 
 | Industry | 2023 | 2024 | 2025E | Leaders | Laggards |
 |----------|------|------|-------|---------|----------|
@@ -81,9 +99,13 @@ pie title "Global Software Market Distribution 2024 ($737B)"
 | Manufacturing | 41% | 54% | 71% | 24% | 36% |
 | Government | 28% | 39% | 52% | 12% | 48% |
 
+</div>
+
 ## D. Developer Market Data
 
 ### D.1 Global Developer Population
+
+<div class="mermaid-diagram-wrapper">
 
 | Region | 2024 | 2027E | 2030E | CAGR |
 |--------|------|-------|-------|------|
@@ -93,6 +115,8 @@ pie title "Global Software Market Distribution 2024 ($737B)"
 | Latin America | 2.8M | 4.2M | 5.8M | 12.9% |
 | Africa | 1.4M | 2.5M | 4.1M | 19.1% |
 | **Global Total** | **39.4M** | **56.7M** | **70.2M** | **10.1%** |
+
+</div>
 
 ### D.2 Developer Shortage Projections
 
@@ -115,6 +139,8 @@ graph LR
 
 ### E.1 Traditional Development Costs by Region (2024)
 
+<div class="mermaid-diagram-wrapper">
+
 | Region | Junior $/hr | Mid $/hr | Senior $/hr | Architect $/hr | Team/month |
 |--------|-------------|----------|-------------|----------------|------------|
 | Silicon Valley | 80-120 | 120-180 | 180-250 | 250-350 | $150-200K |
@@ -127,7 +153,11 @@ graph LR
 | Vietnam | 15-25 | 25-40 | 35-55 | 55-80 | $24K |
 | Philippines | 12-20 | 20-35 | 30-50 | 50-75 | $20K |
 
+</div>
+
 ### E.2 AI Tool Pricing Comparison
+
+<div class="mermaid-diagram-wrapper">
 
 | Category | Tool | Individual | Team | Enterprise | Per Project* |
 |----------|------|------------|------|------------|--------------|
@@ -140,11 +170,15 @@ graph LR
 | | OutSystems | - | $75 | $10K+ | N/A |
 | **AI Swarm** | O2.services | - | - | - | $200-1500 |
 
+</div>
+
 *AI Swarm is the only solution with per-project pricing
 
 ## F. Market Growth Drivers
 
 ### F.1 Digital Transformation Spending
+
+<div class="mermaid-diagram-wrapper">
 
 | Year | Global Spending | Software % | Software Value |
 |------|----------------|------------|----------------|
@@ -153,6 +187,8 @@ graph LR
 | 2025 | $2.95T | 40% | $1.18T |
 | 2026 | $3.41T | 42% | $1.43T |
 | 2030 | $5.85T | 48% | $2.81T |
+
+</div>
 
 ### F.2 Cloud Migration Status
 
@@ -173,6 +209,8 @@ pie title "Enterprise Cloud Adoption 2024"
 
 ### G.1 Major Player Revenue/Valuation
 
+<div class="mermaid-diagram-wrapper">
+
 | Company | Type | Revenue/Valuation | Growth | Key Metric |
 |---------|------|------------------|---------|------------|
 | GitHub (Microsoft) | Platform | $2B revenue | 40% YoY | 100M users |
@@ -182,7 +220,11 @@ pie title "Enterprise Cloud Adoption 2024"
 | OutSystems | Low-Code | $500M+ revenue | 50% YoY | 500K apps built |
 | Tabnine | AI Assistant | $50M ARR | 100% YoY | 1M+ users |
 
+</div>
+
 ### G.2 Investment Trends
+
+<div class="mermaid-diagram-wrapper">
 
 | Year | AI Dev Tools Investment | Deals | Average Size |
 |------|------------------------|-------|--------------|
@@ -192,9 +234,13 @@ pie title "Enterprise Cloud Adoption 2024"
 | 2024 | $15.2B | 342 | $44.4M |
 | 2025E | $25B+ | 450+ | $55M+ |
 
+</div>
+
 ## H. Customer Research Data
 
 ### H.1 Pain Point Severity by Segment
+
+<div class="mermaid-diagram-wrapper">
 
 | Pain Point | Startups | SMBs | Enterprise | Agencies |
 |------------|----------|------|------------|----------|
@@ -204,6 +250,8 @@ pie title "Enterprise Cloud Adoption 2024"
 | Quality issues | 67% | 73% | 85% | 82% |
 | Scaling challenges | 78% | 81% | 92% | 88% |
 | Technical debt | 72% | 78% | 95% | 69% |
+
+</div>
 
 ### H.2 Buying Criteria Importance
 
@@ -229,6 +277,8 @@ graph TD
 
 ### I.1 AI Impact on Development Jobs
 
+<div class="mermaid-diagram-wrapper">
+
 | Year | Human Developers | AI-Augmented | Fully Automated | Productivity Gain |
 |------|-----------------|--------------|-----------------|-------------------|
 | 2024 | 75% | 24% | 1% | 1.5x |
@@ -239,13 +289,19 @@ graph TD
 | 2029 | 20% | 60% | 20% | 12x |
 | 2030 | 15% | 55% | 30% | 20x |
 
+</div>
+
 ### I.2 Market Evolution Scenarios
+
+<div class="mermaid-diagram-wrapper">
 
 | Scenario | Probability | 2030 Market | AI Share | Implications |
 |----------|-------------|-------------|----------|--------------|
 | Conservative | 30% | $1.5T | 25% | Gradual adoption |
 | Base Case | 50% | $2.0T | 40% | Mainstream AI |
 | Aggressive | 20% | $2.5T | 60% | AI dominance |
+
+</div>
 
 ## Data Sources
 

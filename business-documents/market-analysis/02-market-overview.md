@@ -32,12 +32,16 @@ pie title "Global Software Market Share 2024"
 
 ### 📈 Growth Trajectories
 
+<div class="mermaid-diagram-wrapper">
+
 | Region | 2024 Market Size | CAGR (2025-2030) | Key Driver |
 |--------|------------------|-------------------|------------|
 | North America | $337B | 11.2% | Enterprise AI adoption |
 | Europe | $185B | 12.5% | Digital transformation |
 | Asia Pacific | $157B | 19.4% | Rapid digitalization |
 | Rest of World | $58B | 15.8% | Infrastructure development |
+
+</div>
 
 ## Key Market Segments
 
@@ -100,12 +104,16 @@ pie title "Global Software Market Share 2024"
 
 ### Market Leaders by Category
 
+<div class="mermaid-diagram-wrapper">
+
 | Category | Leader | Market Share | Key Differentiator |
 |----------|--------|--------------|-------------------|
 | AI Coding Assistant | GitHub Copilot | 40%+ | Microsoft ecosystem |
 | Development Platform | Cursor | $500M ARR | AI-first IDE |
 | Low-Code Platform | OutSystems | 25%+ | Enterprise grade |
 | Cloud Development | AWS | 32% | Infrastructure scale |
+
+</div>
 
 ### Emerging Disruptors
 

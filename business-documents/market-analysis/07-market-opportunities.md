@@ -65,12 +65,16 @@ graph LR
 - **79%** already experimenting with AI
 
 #### Underserved Needs
+<div class="mermaid-diagram-wrapper">
+
 | Need | Current Solution | Cost | AI Swarm Solution | Cost |
 |------|------------------|------|-------------------|------|
 | E-commerce site | Agency/Freelancer | $25K | 2-day build | $500 |
 | Mobile app | Dev shop | $75K | 3-day build | $1000 |
 | Custom software | Hire team | $200K/year | On-demand | $5K/project |
 | Automation | Consultants | $100K | AI-powered | $2K |
+
+</div>
 
 ### 3. 🌏 Emerging Market Explosion
 
@@ -139,11 +143,15 @@ graph LR
 </div>
 
 #### Partner Economics
+<div class="mermaid-diagram-wrapper">
+
 | Partner Type | Current Margin | With AI Swarm | Revenue Uplift |
 |--------------|----------------|---------------|----------------|
 | Consultancy | 40% | 80% | 2x |
 | Digital Agency | 25% | 70% | 2.8x |
 | Freelancer | 60% | 90% | 1.5x |
+
+</div>
 
 ## Disruptive Market Plays
 
@@ -213,19 +221,27 @@ gantt
 
 ### Conservative Scenario
 
+<div class="mermaid-diagram-wrapper">
+
 | Year | Startups | SMBs | Enterprise | Partners | Total |
 |------|----------|------|------------|----------|-------|
 | 2025 | $2M | $1M | $0.5M | $1.5M | $5M |
 | 2026 | $10M | $8M | $5M | $12M | $35M |
 | 2027 | $25M | $30M | $20M | $50M | $125M |
 
+</div>
+
 ### Aggressive Scenario
+
+<div class="mermaid-diagram-wrapper">
 
 | Year | Startups | SMBs | Enterprise | Partners | Total |
 |------|----------|------|------------|----------|-------|
 | 2025 | $5M | $3M | $2M | $5M | $15M |
 | 2026 | $25M | $20M | $15M | $40M | $100M |
 | 2027 | $75M | $80M | $60M | $150M | $365M |
+
+</div>
 
 ## Strategic Priorities
 
@@ -259,12 +275,16 @@ graph TD
 
 ### Market Risks and Mitigation
 
+<div class="mermaid-diagram-wrapper">
+
 | Risk | Probability | Impact | Mitigation |
 |------|-------------|--------|------------|
 | Big Tech competition | High | High | Speed & focus on underserved |
 | Quality concerns | Medium | High | 80%+ test coverage guarantee |
 | Adoption resistance | Medium | Medium | Success stories & trials |
 | Economic downturn | Low | Medium | Target cost-saving use cases |
+
+</div>
 
 ## Key Success Factors
 

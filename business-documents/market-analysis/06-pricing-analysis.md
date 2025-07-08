@@ -32,6 +32,8 @@ graph TD
 
 ### Geographic Rate Comparison
 
+<div class="mermaid-diagram-wrapper">
+
 | Region | Junior Dev | Senior Dev | Architect | Team (10 people) |
 |--------|------------|------------|-----------|------------------|
 | **United States** | $50-80/hr | $100-150/hr | $150-250/hr | $107,500/month |
@@ -40,6 +42,8 @@ graph TD
 | **India** | $15-25/hr | $30-50/hr | $50-80/hr | $23,650/month |
 | **Vietnam** | $15-25/hr | $25-45/hr | $45-70/hr | $23,700/month |
 | **Latin America** | $20-35/hr | $40-70/hr | $70-100/hr | $32,000/month |
+
+</div>
 
 ### Pricing Models Distribution
 
@@ -60,6 +64,8 @@ pie title "Development Pricing Models Usage 2024"
 
 ### Direct Competitor Pricing
 
+<div class="mermaid-diagram-wrapper">
+
 | Tool | Individual | Team | Enterprise | Usage Limits |
 |------|------------|------|------------|--------------|
 | **GitHub Copilot** | $10/mo | $19/user/mo | $39/user/mo | Unlimited |
@@ -67,6 +73,8 @@ pie title "Development Pricing Models Usage 2024"
 | **Tabnine** | Free | $12/user/mo | Custom | Limited free |
 | **Codeium** | Free | $10/user/mo | Custom | Unlimited free |
 | **Amazon CodeWhisperer** | Free | $15/user/mo | Custom | AWS integrated |
+
+</div>
 
 ### Enterprise AI Platform Pricing
 
@@ -88,12 +96,16 @@ graph LR
 
 ### Traditional vs AI Swarm
 
+<div class="mermaid-diagram-wrapper">
+
 | Project Type | Traditional Cost | Time | AI Swarm Cost | Time | Savings |
 |--------------|------------------|------|---------------|------|---------|
 | **Simple Website** | $10K-25K | 4 weeks | $200-500 | 1-2 days | 95-98% |
 | **Mobile App** | $50K-150K | 3 months | $500-1500 | 2-3 days | 99% |
 | **Enterprise System** | $250K-1M | 6-12 months | $1500-5000 | 1 week | 99.5% |
 | **SaaS Platform** | $100K-500K | 4-6 months | $1000-3000 | 3-5 days | 99.4% |
+
+</div>
 
 ### ROI Calculator
 
@@ -168,12 +180,16 @@ graph TD
 
 ### Price Sensitivity by Segment
 
+<div class="mermaid-diagram-wrapper">
+
 | Segment | Price Sensitivity | Decision Factor | Sweet Spot |
 |---------|------------------|-----------------|------------|
 | **Startups** | Very High | Absolute cost | $100-300/day |
 | **SMBs** | High | ROI/Value | $300-500/day |
 | **Agencies** | Medium | Margin improvement | $500-1000/day |
 | **Enterprise** | Low | Risk/Compliance | $1000-5000/day |
+
+</div>
 
 ### Competitive Price Positioning
 
@@ -230,6 +246,8 @@ graph LR
 Daily Rate = Base Cost + (Complexity Factor × Usage)
 ```
 
+<div class="mermaid-diagram-wrapper">
+
 | Complexity | Base Cost | Examples | Daily Rate |
 |------------|-----------|----------|------------|
 | Simple | $100 | Landing pages, CRUD apps | $100-200 |
@@ -237,7 +255,11 @@ Daily Rate = Base Cost + (Complexity Factor × Usage)
 | Complex | $400 | Enterprise systems | $400-800 |
 | Custom | $800 | AI/ML, Blockchain | $800-1500 |
 
+</div>
+
 ### 2. Project-Based Pricing
+
+<div class="mermaid-diagram-wrapper">
 
 | Project Size | Fixed Price | Delivery | Guarantee |
 |--------------|-------------|----------|-----------|
@@ -245,6 +267,8 @@ Daily Rate = Base Cost + (Complexity Factor × Usage)
 | Small | $1,500 | 2-3 days | 100% refund |
 | Medium | $5,000 | 1 week | 50% refund |
 | Large | $15,000 | 2 weeks | Negotiable |
+
+</div>
 
 ### 3. Subscription Model
 
@@ -277,12 +301,16 @@ graph TD
 
 ### Promotional Pricing
 
+<div class="mermaid-diagram-wrapper">
+
 | Promotion | Discount | Target | Goal |
 |-----------|----------|--------|------|
 | First Project | 50% off | Startups | Acquisition |
 | Bulk Package | 30% off | Agencies | Volume |
 | Annual Prepay | 25% off | Enterprise | Lock-in |
 | Referral | 20% off | All | Growth |
+
+</div>
 
 ## Financial Projections
 
@@ -310,6 +338,8 @@ graph LR
 
 ### Break-Even Analysis
 
+<div class="mermaid-diagram-wrapper">
+
 | Metric | Value | Notes |
 |--------|-------|-------|
 | Fixed Costs | $500K/month | Infrastructure + Team |
@@ -317,6 +347,8 @@ graph LR
 | Break-even (Low) | 167 projects | At $100/day average |
 | Break-even (Mid) | 56 projects | At $300/day average |
 | Break-even (High) | 34 projects | At $500/day average |
+
+</div>
 
 ## Key Pricing Insights
 

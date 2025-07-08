@@ -39,12 +39,16 @@ graph TD
 - **Revenue Impact**: 40% of GitHub's growth
 
 #### Strengths
+<div class="mermaid-diagram-wrapper">
+
 | Strength | Impact | Moat |
 |----------|--------|------|
 | Microsoft ecosystem | 230K+ organizations | Deep integration |
 | First mover advantage | 82% developer awareness | Brand recognition |
 | GitHub integration | 100M+ developers | Platform lock-in |
 | Enterprise features | Fortune 500 adoption | Compliance ready |
+
+</div>
 
 #### Weaknesses
 - Limited to code completion and chat
@@ -137,12 +141,16 @@ graph TD
 
 #### Market Leaders Comparison
 
+<div class="mermaid-diagram-wrapper">
+
 | Platform | Market Cap/Value | Target | Pricing | Limitation |
 |----------|------------------|--------|---------|------------|
 | OutSystems | $9.5B | Enterprise | $75-10K/mo | Vendor lock-in |
 | Mendix | Part of Siemens | Enterprise | $998+/mo | Complexity |
 | Bubble | $100M+ ARR | SMBs | $25-500/mo | Performance |
 | Webflow | $4B | Designers | $14-212/mo | Learning curve |
+
+</div>
 
 #### Why They're Vulnerable
 1. Still require significant learning
@@ -170,6 +178,8 @@ pie title "Global IT Outsourcing Market Share"
 </div>
 
 #### Traditional Model Weaknesses
+<div class="mermaid-diagram-wrapper">
+
 | Factor | Traditional | AI Swarm | Advantage |
 |--------|------------|----------|-----------|
 | Ramp-up time | 2-3 months | Instant | 60-90 days saved |
@@ -177,6 +187,8 @@ pie title "Global IT Outsourcing Market Share"
 | Quality variance | High | Consistent | Predictable |
 | Communication | Time zones | 24/7 | Always available |
 | Cost | $50-150/hour | $4-20/hour | 10-30x cheaper |
+
+</div>
 
 ## Competitive Positioning Matrix
 
@@ -229,6 +241,8 @@ graph LR
 
 #### 2. Price Disruption
 
+<div class="mermaid-diagram-wrapper">
+
 | Competitor | Monthly Cost (10 devs) | Per Project | Speed |
 |------------|------------------------|-------------|-------|
 | GitHub Copilot | $190 (tools only) | N/A | Assists only |
@@ -236,6 +250,8 @@ graph LR
 | Offshore Team | $30K+ | $90K+ | 3 months |
 | Freelancers | $20K+ | $60K+ | 2-4 months |
 | **AI Swarm** | **$3-15K** | **$200-1500** | **2-3 days** |
+
+</div>
 
 #### 3. Quality Guarantee
 - 80%+ test coverage (vs 41% more bugs with AI tools)
