@@ -212,16 +212,42 @@ pie title "Development Pricing Models Usage 2024"
     'errorTextColor': '#000000'
   }
 }}%%
-graph LR
-    A[Enterprise Costs<br/>500 Developers] --> B[GitHub Copilot<br/>$234,000/year]
-    A --> C[Cursor Business<br/>$192,000/year]
-    A --> D[Custom Solution<br/>$500,000+/year]
-    A --> E[AI Swarm<br/>$36,500-182,500/year]
+graph TD
+    A[Enterprise: 500 Developers] --> B[GitHub Copilot]
+    A --> C[Cursor Business]
+    A --> D[Traditional Team]
+    A --> E[AI Swarm]
 
-    style E fill:#4CAF50,color:#fff
+    B --> B1[Tool: $234K/year]
+    B --> B2[Developers: $50M/year]
+    B --> B3[Total: $50.23M/year]
+
+    C --> C1[Tool: $120K/year]
+    C --> C2[Developers: $50M/year]
+    C --> C3[Total: $50.12M/year]
+
+    D --> D1[No tool cost]
+    D --> D2[Developers: $50M/year]
+    D --> D3[Total: $50M/year]
+
+    E --> E1[Platform: $36.5K-182.5K/year]
+    E --> E2[No developers needed]
+    E --> E3[Total: $36.5K-182.5K/year]
+
+    style B1 fill:#FFF5E5,stroke:#E5D5C5,color:#000
+    style C1 fill:#FFF5E5,stroke:#E5D5C5,color:#000
+    style D1 fill:#FFF5E5,stroke:#E5D5C5,color:#000
+    style E1 fill:#E5F5E5,stroke:#C5E5C5,color:#000
+
+    style B3 fill:#F5D5D5,stroke:#E5C5C5,color:#000
+    style C3 fill:#F5D5D5,stroke:#E5C5C5,color:#000
+    style D3 fill:#F5D5D5,stroke:#E5C5C5,color:#000
+    style E3 fill:#D5F5D5,stroke:#C5E5C5,color:#000
 ```
 
 </div>
+
+**Key Insight**: AI coding assistants (Copilot, Cursor) are just tools that still require full development teams. The tool cost is less than 0.5% of total expenses. Only AI Swarm eliminates the need for human developers entirely.
 
 ## Cost-per-Project Analysis
 
