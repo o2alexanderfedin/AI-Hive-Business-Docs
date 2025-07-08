@@ -27,7 +27,7 @@ graph LR
     C --> O[Technical Writer]
 ```
 
-### Supporting Roles
+### Example Supporting Roles
 
 - **QA Engineers**: Testing and quality assurance
 - **DevOps**: Infrastructure and deployment
