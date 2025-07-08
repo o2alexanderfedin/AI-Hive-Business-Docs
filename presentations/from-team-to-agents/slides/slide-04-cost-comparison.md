@@ -57,11 +57,13 @@
 ### AI Agent Swarm
 | Component | Daily Cost | Monthly Cost | Annual Cost | Details |
 |-----------|------------|--------------|-------------|---------|
-| **Entire Swarm** | $200-500 | $6,000-15,000 | $73,000-182,500 | All roles included |
+| **Entire Swarm** | $100-500* | $3,000-15,000 | $36,500-182,500 | All roles included |
 | **Availability** | 24x7x365 | | | No downtime ever |
 | **Speed** | ~50x faster | | | Parallel processing |
 | **Scaling** | Instant | | | Unlimited agents |
 | **Infrastructure** | $0 | $0 | $0 | No office/equipment |
+
+*Cost depends on workload intensity and number of parallel tasks
 
 ### Productivity Comparison
 
@@ -74,14 +76,14 @@
 - **Poland Team**: $105,000
 - **Vietnam Team**: $71,100
 - **India Team**: $71,000
-- **AI Swarm**: $400-1,500 (completes in 2-3 days)
+- **AI Swarm**: $200-1,500 (completes in 2-3 days)
 
 #### Annual Cost Summary (10-person teams)
 - **US Team**: $1,290,000/year
 - **Poland Team**: $420,000/year
 - **Vietnam Team**: $284,400/year
 - **India Team**: $283,800/year
-- **AI Swarm**: $73,000-182,500/year (~120 projects vs 4)
+- **AI Swarm**: $36,500-182,500/year* (~120 projects vs 4)
 
 #### Key Differentiators
 - **No HR overhead**: No hiring, training, or management
