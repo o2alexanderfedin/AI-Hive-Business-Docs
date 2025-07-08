@@ -35,12 +35,22 @@ graph LR
 
 ### Agent Capabilities
 
+#### Standard Tasks
 - Create and discuss issues
 - Write and review code
-- Participate in planning
 - Generate documentation
 - Run tests and deployments
-- Collaborate with humans seamlessly
+
+#### Advanced Capabilities (Unique to Our System)
+- **Architect entire systems** from high-level requirements
+- **Conduct independent research** using web resources and documentation
+- **Make architectural decisions** based on trade-offs and constraints
+- **Design complex data models** and system integrations
+- **Plan multi-sprint roadmaps** with dependency management
+- **Lead technical discussions** and propose innovative solutions
+- **Refactor legacy codebases** while maintaining functionality
+- **Debug production issues** through log analysis and reasoning
+- **Collaborate seamlessly** with humans in real-time
 
 ### Legend
 
