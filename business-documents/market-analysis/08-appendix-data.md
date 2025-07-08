@@ -1,5 +1,6 @@
 [🏠 Home](../../README.md) | [⬅️ Previous](07-market-opportunities.md)
 
+<link rel="stylesheet" href="styles.css">
 ---
 
 # Appendix: Market Data & Research
@@ -32,7 +33,10 @@
 
 ### B.1 Market Size by Region (2024)
 
+<div class="mermaid-diagram-wrapper">
+
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'pie1': '#6B7F95', 'pie2': '#5DBCB6', 'pie3': '#84D4F5', 'pie4': '#B3B2D8', 'pie5': '#E5C4CA', 'pie6': '#FFD54F', 'pie7': '#FFB74D', 'pie8': '#E1B3C4', 'pieTextColor': '#000000', 'pieTitleTextColor': '#000000', 'pieSectionTextSize': '14px', 'pieLegendTextColor': '#000000', 'pieLegendTextSize': '14px', 'pieStrokeColor': '#000000', 'pieStrokeWidth': '1px', 'pieOuterStrokeWidth': '1px', 'pieOuterStrokeColor': '#000000'}}}%%
 pie title "Global Software Market Distribution 2024 ($737B)"
     "North America" : 337
     "Europe" : 185
@@ -40,6 +44,8 @@ pie title "Global Software Market Distribution 2024 ($737B)"
     "Latin America" : 32
     "Middle East & Africa" : 26
 ```
+
+</div>
 
 ### B.2 Regional Growth Rates (2024-2030 CAGR)
 
@@ -90,6 +96,8 @@ pie title "Global Software Market Distribution 2024 ($737B)"
 
 ### D.2 Developer Shortage Projections
 
+<div class="mermaid-diagram-wrapper">
+
 ```mermaid
 graph LR
     A[2024: 40M shortage] --> B[2025: 50M]
@@ -100,6 +108,8 @@ graph LR
     E --> G[Project delays 40%]
     E --> H[Quality decline 25%]
 ```
+
+</div>
 
 ## E. Pricing Benchmarks
 
@@ -146,13 +156,18 @@ graph LR
 
 ### F.2 Cloud Migration Status
 
+<div class="mermaid-diagram-wrapper">
+
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'pie1': '#6B7F95', 'pie2': '#5DBCB6', 'pie3': '#84D4F5', 'pie4': '#B3B2D8', 'pie5': '#E5C4CA', 'pie6': '#FFD54F', 'pie7': '#FFB74D', 'pie8': '#E1B3C4', 'pieTextColor': '#000000', 'pieTitleTextColor': '#000000', 'pieSectionTextSize': '14px', 'pieLegendTextColor': '#000000', 'pieLegendTextSize': '14px', 'pieStrokeColor': '#000000', 'pieStrokeWidth': '1px', 'pieOuterStrokeWidth': '1px', 'pieOuterStrokeColor': '#000000'}}}%%
 pie title "Enterprise Cloud Adoption 2024"
     "Fully Cloud Native" : 23
     "Hybrid Cloud" : 48
     "Migrating" : 21
     "On-Premise Only" : 8
 ```
+
+</div>
 
 ## G. Competitive Intelligence
 
@@ -192,6 +207,8 @@ pie title "Enterprise Cloud Adoption 2024"
 
 ### H.2 Buying Criteria Importance
 
+<div class="mermaid-diagram-wrapper">
+
 ```mermaid
 graph TD
     A[Buying Criteria] --> B[Startups]
@@ -205,6 +222,8 @@ graph TD
     C --> C2[Support: 90%]
     C --> C3[Price: 60%]
 ```
+
+</div>
 
 ## I. Future Projections
 

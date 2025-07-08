@@ -1,10 +1,13 @@
 [🏠 Home](../../README.md) | [⬅️ Previous](06-pricing-analysis.md) | [➡️ Next](08-appendix-data.md)
 
+<link rel="stylesheet" href="styles.css">
 ---
 
 # Market Opportunities Analysis
 
 ## Macro Opportunity Assessment
+
+<div class="mermaid-diagram-wrapper">
 
 ```mermaid
 graph TD
@@ -18,6 +21,8 @@ graph TD
     style D fill:#2196F3,color:#fff
 ```
 
+</div>
+
 ## High-Impact Opportunity Areas
 
 ### 1. 🚀 Bootstrap Revolution
@@ -29,6 +34,8 @@ graph TD
 - Only **2.2%** receive VC funding
 
 #### Market Gap
+<div class="mermaid-diagram-wrapper">
+
 ```mermaid
 graph LR
     A[Current State] --> A1[Need $2-5M to start]
@@ -41,6 +48,8 @@ graph LR
 
     style B fill:#4CAF50,color:#fff
 ```
+
+</div>
 
 #### Revenue Potential
 - **Target**: 1% of bootstrapped startups (880K)
@@ -66,6 +75,8 @@ graph LR
 ### 3. 🌏 Emerging Market Explosion
 
 #### Asia Pacific Opportunity
+<div class="mermaid-diagram-wrapper">
+
 ```mermaid
 graph TD
     A[Asia Pacific Growth] --> B[Market Size<br/>$157B → $406B]
@@ -76,6 +87,8 @@ graph TD
     C --> F[50M developers by 2027]
     D --> G[1B new users]
 ```
+
+</div>
 
 #### Regional Advantages
 - **India**: 15.4M developers, English proficiency
@@ -106,6 +119,8 @@ graph TD
 
 #### White-Label Opportunity
 
+<div class="mermaid-diagram-wrapper">
+
 ```mermaid
 graph LR
     A[Partners] --> B[Tech Consultancies<br/>500K globally]
@@ -121,6 +136,8 @@ graph LR
     style G fill:#4CAF50
 ```
 
+</div>
+
 #### Partner Economics
 | Partner Type | Current Margin | With AI Swarm | Revenue Uplift |
 |--------------|----------------|---------------|----------------|
@@ -132,6 +149,8 @@ graph LR
 
 ### 1. "Development as a Service" (DaaS)
 
+<div class="mermaid-diagram-wrapper">
+
 ```mermaid
 graph TD
     A[DaaS Model] --> B[Subscription]
@@ -142,6 +161,8 @@ graph TD
     C --> C1[$99 per feature]
     D --> D1[2% of app revenue]
 ```
+
+</div>
 
 ### 2. "Instant MVP" Platform
 
@@ -161,6 +182,8 @@ graph TD
 
 ### Phase 1: Land (Months 1-6)
 
+<div class="mermaid-diagram-wrapper">
+
 ```mermaid
 gantt
     title Market Entry Timeline
@@ -176,6 +199,8 @@ gantt
     Enterprise Pilots       :2024-07-01, 180d
     Compliance Certs        :2024-08-01, 120d
 ```
+
+</div>
 
 ### Geographic Expansion
 
@@ -206,6 +231,8 @@ gantt
 
 ### Must-Win Battles
 
+<div class="mermaid-diagram-wrapper">
+
 ```mermaid
 graph TD
     A[Strategic Priorities] --> B[Product Excellence]
@@ -225,6 +252,8 @@ graph TD
     E --> E1[Localization]
     E --> E2[Regional partnerships]
 ```
+
+</div>
 
 ## Risk Mitigation
 

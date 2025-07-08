@@ -1,10 +1,13 @@
 [🏠 Home](../../README.md) | [⬅️ Previous](04-customer-segments.md) | [➡️ Next](06-pricing-analysis.md)
 
+<link rel="stylesheet" href="styles.css">
 ---
 
 # Competitive Landscape Analysis
 
 ## Market Structure
+
+<div class="mermaid-diagram-wrapper">
 
 ```mermaid
 graph TD
@@ -22,6 +25,8 @@ graph TD
     D --> D1[OutSystems<br/>Enterprise Leader]
     D --> D2[Bubble<br/>SMB Leader]
 ```
+
+</div>
 
 ## Direct Competitors
 
@@ -60,6 +65,8 @@ graph TD
 - **Growth**: 10x in 18 months
 
 #### Competitive Advantages
+<div class="mermaid-diagram-wrapper">
+
 ```mermaid
 graph LR
     A[Cursor Advantages] --> B[AI-First Design]
@@ -72,6 +79,8 @@ graph LR
     D --> D1[Full codebase understanding]
     E --> E1[Familiar to devs]
 ```
+
+</div>
 
 #### Target Market
 - Professional developers
@@ -105,6 +114,8 @@ graph LR
 - **Status**: Limited availability
 
 #### Key Differentiator
+<div class="mermaid-diagram-wrapper">
+
 ```mermaid
 graph TD
     A[Traditional AI Tools<br/>Copilot Model] --> A1[Human writes code]
@@ -117,6 +128,8 @@ graph TD
 
     style B fill:#4CAF50,color:#fff
 ```
+
+</div>
 
 ## Indirect Competitors
 
@@ -141,7 +154,10 @@ graph TD
 
 #### Major Players
 
+<div class="mermaid-diagram-wrapper">
+
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'pie1': '#6B7F95', 'pie2': '#5DBCB6', 'pie3': '#84D4F5', 'pie4': '#B3B2D8', 'pie5': '#E5C4CA', 'pie6': '#FFD54F', 'pie7': '#FFB74D', 'pie8': '#E1B3C4', 'pieTextColor': '#000000', 'pieTitleTextColor': '#000000', 'pieSectionTextSize': '14px', 'pieLegendTextColor': '#000000', 'pieLegendTextSize': '14px', 'pieStrokeColor': '#000000', 'pieStrokeWidth': '1px', 'pieOuterStrokeWidth': '1px', 'pieOuterStrokeColor': '#000000'}}}%%
 pie title "Global IT Outsourcing Market Share"
     "Accenture" : 7.2
     "TCS" : 6.8
@@ -150,6 +166,8 @@ pie title "Global IT Outsourcing Market Share"
     "Cognizant" : 5.1
     "Others" : 73.2
 ```
+
+</div>
 
 #### Traditional Model Weaknesses
 | Factor | Traditional | AI Swarm | Advantage |
@@ -161,6 +179,8 @@ pie title "Global IT Outsourcing Market Share"
 | Cost | $50-150/hour | $4-20/hour | 10-30x cheaper |
 
 ## Competitive Positioning Matrix
+
+<div class="mermaid-diagram-wrapper">
 
 ```mermaid
 scatter
@@ -177,11 +197,15 @@ scatter
     "AI Swarm": [90, 20]
 ```
 
+</div>
+
 ## Competitive Advantages Analysis
 
 ### O2.services AI Swarm Differentiators
 
 #### 1. Full-Stack Automation
+<div class="mermaid-diagram-wrapper">
+
 ```mermaid
 graph LR
     A[Requirements] --> B[Architecture]
@@ -200,6 +224,8 @@ graph LR
 
     style H fill:#4CAF50,color:#fff
 ```
+
+</div>
 
 #### 2. Price Disruption
 
@@ -228,6 +254,8 @@ graph LR
 
 ### Vulnerable Segments
 
+<div class="mermaid-diagram-wrapper">
+
 ```mermaid
 graph TD
     A[Most Vulnerable] --> A1[Junior Developer Jobs]
@@ -242,6 +270,8 @@ graph TD
     C --> C2[Specialized Experts]
     C --> C3[Strategic Consultants]
 ```
+
+</div>
 
 ## Competitive Response Analysis
 
@@ -281,6 +311,8 @@ graph TD
 
 ### Strategic Opportunities
 
+<div class="mermaid-diagram-wrapper">
+
 ```mermaid
 graph LR
     A[Market Gaps] --> B[Our Opportunity]
@@ -296,6 +328,8 @@ graph LR
     style B3 fill:#81C784
     style B4 fill:#81C784
 ```
+
+</div>
 
 ## Key Takeaways
 

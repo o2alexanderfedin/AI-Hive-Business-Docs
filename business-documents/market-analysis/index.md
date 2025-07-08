@@ -1,5 +1,6 @@
 [🏠 Home](../../README.md)
 
+<link rel="stylesheet" href="styles.css">
 ---
 
 # AI-Augmented Software Development Market Analysis

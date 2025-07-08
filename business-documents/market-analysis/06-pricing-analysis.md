@@ -1,10 +1,13 @@
 [🏠 Home](../../README.md) | [⬅️ Previous](05-competitive-landscape.md) | [➡️ Next](07-market-opportunities.md)
 
+<link rel="stylesheet" href="styles.css">
 ---
 
 # Pricing Analysis
 
 ## Market Pricing Overview
+
+<div class="mermaid-diagram-wrapper">
 
 ```mermaid
 graph TD
@@ -23,6 +26,8 @@ graph TD
     D --> D1[AI Swarm: $100-500/day]
 ```
 
+</div>
+
 ## Traditional Development Pricing
 
 ### Geographic Rate Comparison
@@ -38,13 +43,18 @@ graph TD
 
 ### Pricing Models Distribution
 
+<div class="mermaid-diagram-wrapper">
+
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'pie1': '#6B7F95', 'pie2': '#5DBCB6', 'pie3': '#84D4F5', 'pie4': '#B3B2D8', 'pie5': '#E5C4CA', 'pie6': '#FFD54F', 'pie7': '#FFB74D', 'pie8': '#E1B3C4', 'pieTextColor': '#000000', 'pieTitleTextColor': '#000000', 'pieSectionTextSize': '14px', 'pieLegendTextColor': '#000000', 'pieLegendTextSize': '14px', 'pieStrokeColor': '#000000', 'pieStrokeWidth': '1px', 'pieOuterStrokeWidth': '1px', 'pieOuterStrokeColor': '#000000'}}}%%
 pie title "Development Pricing Models Usage 2024"
     "Hourly Rate" : 45
     "Fixed Project" : 25
     "Retainer" : 20
     "Dedicated Team" : 10
 ```
+
+</div>
 
 ## AI Tool Pricing Landscape
 
@@ -60,6 +70,8 @@ pie title "Development Pricing Models Usage 2024"
 
 ### Enterprise AI Platform Pricing
 
+<div class="mermaid-diagram-wrapper">
+
 ```mermaid
 graph LR
     A[Enterprise Costs<br/>500 Developers] --> B[GitHub Copilot<br/>$234,000/year]
@@ -69,6 +81,8 @@ graph LR
 
     style E fill:#4CAF50,color:#fff
 ```
+
+</div>
 
 ## Cost-per-Project Analysis
 
@@ -82,6 +96,8 @@ graph LR
 | **SaaS Platform** | $100K-500K | 4-6 months | $1000-3000 | 3-5 days | 99.4% |
 
 ### ROI Calculator
+
+<div class="mermaid-diagram-wrapper">
 
 ```mermaid
 graph TD
@@ -100,6 +116,8 @@ graph TD
     style C fill:#4CAF50,color:#fff
 ```
 
+</div>
+
 ## Pricing Strategy Analysis
 
 ### Value-Based Pricing Model
@@ -117,6 +135,8 @@ $300K project - $1.5K price = $298.5K value created
 ```
 
 ### Pricing Tiers Recommendation
+
+<div class="mermaid-diagram-wrapper">
 
 ```mermaid
 graph TD
@@ -142,6 +162,8 @@ graph TD
     E --> E3[White glove service]
 ```
 
+</div>
+
 ## Market Pricing Dynamics
 
 ### Price Sensitivity by Segment
@@ -154,6 +176,8 @@ graph TD
 | **Enterprise** | Low | Risk/Compliance | $1000-5000/day |
 
 ### Competitive Price Positioning
+
+<div class="mermaid-diagram-wrapper">
 
 ```mermaid
 scatter
@@ -169,6 +193,8 @@ scatter
     "AI Swarm": [90, 15]
 ```
 
+</div>
+
 ## Pricing Psychology Insights
 
 ### Anchor Pricing Effect
@@ -178,6 +204,8 @@ scatter
 3. **AI Swarm**: $1,500 (seems incredible)
 
 ### Value Perception Drivers
+
+<div class="mermaid-diagram-wrapper">
 
 ```mermaid
 graph LR
@@ -191,6 +219,8 @@ graph LR
     D --> H[Growth Enabler]
     E --> I[Capital Efficiency]
 ```
+
+</div>
 
 ## Pricing Model Recommendations
 
@@ -218,6 +248,8 @@ Daily Rate = Base Cost + (Complexity Factor × Usage)
 
 ### 3. Subscription Model
 
+<div class="mermaid-diagram-wrapper">
+
 ```mermaid
 graph TD
     A[Monthly Plans] --> B[Starter<br/>$3K/month]
@@ -230,6 +262,8 @@ graph TD
     D --> D1[Unlimited projects]
     E --> E1[Dedicated swarm]
 ```
+
+</div>
 
 ## Price Optimization Strategy
 
@@ -254,6 +288,8 @@ graph TD
 
 ### Revenue Model at Different Price Points
 
+<div class="mermaid-diagram-wrapper">
+
 ```mermaid
 graph LR
     A[Price Point Analysis] --> B[Low: $100/day]
@@ -269,6 +305,8 @@ graph LR
     D --> D1[Volume: 300 projects/mo]
     D --> D2[Revenue: $4.5M/mo]
 ```
+
+</div>
 
 ### Break-Even Analysis
 

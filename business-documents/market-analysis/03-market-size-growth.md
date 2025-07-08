@@ -1,5 +1,6 @@
 [🏠 Home](../../README.md) | [⬅️ Previous](02-market-overview.md) | [➡️ Next](04-customer-segments.md)
 
+<link rel="stylesheet" href="styles.css">
 ---
 
 # Market Size & Growth Analysis
@@ -7,6 +8,8 @@
 ## Global Software Development Market
 
 ### Current Market Size (2024)
+
+<div class="mermaid-diagram-wrapper">
 
 ```mermaid
 graph LR
@@ -19,6 +22,8 @@ graph LR
     style C fill:#FF9800,color:#fff
     style D fill:#9C27B0,color:#fff
 ```
+
+</div>
 
 ### Growth Projections
 
@@ -43,6 +48,8 @@ Some projections show even more aggressive growth:
 
 ### Explosive Growth Trajectory
 
+<div class="mermaid-diagram-wrapper">
+
 ```mermaid
 graph TD
     A[2023: $92.5B] -->|+24.1%| B[2024: $114.8B]
@@ -58,6 +65,8 @@ graph TD
     style E fill:#42A5F5
     style F fill:#2196F3,color:#fff
 ```
+
+</div>
 
 ### Key Growth Drivers
 
@@ -81,7 +90,10 @@ graph TD
 
 ### AI Tool Categories Growth
 
+<div class="mermaid-diagram-wrapper">
+
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'pie1': '#6B7F95', 'pie2': '#5DBCB6', 'pie3': '#84D4F5', 'pie4': '#B3B2D8', 'pie5': '#E5C4CA', 'pie6': '#FFD54F', 'pie7': '#FFB74D', 'pie8': '#E1B3C4', 'pieTextColor': '#000000', 'pieTitleTextColor': '#000000', 'pieSectionTextSize': '14px', 'pieLegendTextColor': '#000000', 'pieLegendTextSize': '14px', 'pieStrokeColor': '#000000', 'pieStrokeWidth': '1px', 'pieOuterStrokeWidth': '1px', 'pieOuterStrokeColor': '#000000'}}}%%
 pie title "AI Development Tools Market Share 2024"
     "Code Assistants" : 35
     "Testing & QA" : 20
@@ -90,6 +102,8 @@ pie title "AI Development Tools Market Share 2024"
     "Security Scanning" : 10
     "Other" : 5
 ```
+
+</div>
 
 ## Low-Code/No-Code Market
 
@@ -113,6 +127,8 @@ pie title "AI Development Tools Market Share 2024"
 
 ### North America - Market Leader
 
+<div class="mermaid-diagram-wrapper">
+
 ```mermaid
 graph LR
     A[2024: $337B<br/>45.8% share] --> B[2030: $583B<br/>42.3% share]
@@ -120,6 +136,8 @@ graph LR
     C --> E[Cloud Migration]
     C --> F[Digital Innovation]
 ```
+
+</div>
 
 **Characteristics:**
 - Highest developer salaries ($107K average)
@@ -129,6 +147,8 @@ graph LR
 
 ### Asia Pacific - Fastest Growing
 
+<div class="mermaid-diagram-wrapper">
+
 ```mermaid
 graph LR
     A[2024: $157B<br/>21.3% share] --> B[2030: $406B<br/>27.6% share]
@@ -136,6 +156,8 @@ graph LR
     C --> E[China's digitalization]
     C --> F[Southeast Asia boom]
 ```
+
+</div>
 
 **Key Statistics:**
 - **CAGR**: 19.4% (highest globally)
@@ -155,6 +177,8 @@ graph LR
 
 ### 1. Developer Shortage Crisis
 
+<div class="mermaid-diagram-wrapper">
+
 ```mermaid
 graph TD
     A[Current Shortage<br/>40 Million] --> B[2025<br/>50 Million]
@@ -166,6 +190,8 @@ graph TD
     E --> H[Quality Issues]
     E --> I[Automation Drive]
 ```
+
+</div>
 
 ### 2. Digital Transformation Spending
 
@@ -186,6 +212,8 @@ graph TD
 
 ### Total Addressable Market (TAM)
 
+<div class="mermaid-diagram-wrapper">
+
 ```mermaid
 graph TD
     A[Global TAM 2024<br/>$737B] --> B[Serviceable Available Market<br/>$250B]
@@ -197,6 +225,8 @@ graph TD
     style C fill:#A5D6A7
     style D fill:#4CAF50,color:#fff
 ```
+
+</div>
 
 ### Market Capture Scenarios
 

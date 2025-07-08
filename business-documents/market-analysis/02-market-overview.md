@@ -1,5 +1,6 @@
 [🏠 Home](../../README.md) | [⬅️ Previous](01-executive-summary.md) | [➡️ Next](03-market-size-growth.md)
 
+<link rel="stylesheet" href="styles.css">
 ---
 
 # Market Overview
@@ -16,13 +17,18 @@ The software development industry stands at an unprecedented inflection point. T
 
 ### 🌍 Geographic Distribution
 
+<div class="mermaid-diagram-wrapper">
+
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'pie1': '#6B7F95', 'pie2': '#5DBCB6', 'pie3': '#84D4F5', 'pie4': '#B3B2D8', 'pie5': '#E5C4CA', 'pie6': '#FFD54F', 'pie7': '#FFB74D', 'pie8': '#E1B3C4', 'pieTextColor': '#000000', 'pieTitleTextColor': '#000000', 'pieSectionTextSize': '14px', 'pieLegendTextColor': '#000000', 'pieLegendTextSize': '14px', 'pieStrokeColor': '#000000', 'pieStrokeWidth': '1px', 'pieOuterStrokeWidth': '1px', 'pieOuterStrokeColor': '#000000'}}}%%
 pie title "Global Software Market Share 2024"
     "North America" : 45.8
     "Europe" : 25.2
     "Asia Pacific" : 21.3
     "Rest of World" : 7.7
 ```
+
+</div>
 
 ### 📈 Growth Trajectories
 

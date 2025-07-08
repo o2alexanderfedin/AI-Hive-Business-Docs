@@ -1,10 +1,13 @@
 [🏠 Home](../../README.md) | [⬅️ Previous](03-market-size-growth.md) | [➡️ Next](05-competitive-landscape.md)
 
+<link rel="stylesheet" href="styles.css">
 ---
 
 # Customer Segments Analysis
 
 ## Market Segmentation Overview
+
+<div class="mermaid-diagram-wrapper">
 
 ```mermaid
 graph TD
@@ -22,6 +25,8 @@ graph TD
     C --> C3[Healthcare<br/>12%]
     C --> C4[Other<br/>43%]
 ```
+
+</div>
 
 ## Primary Customer Segments
 
@@ -68,6 +73,8 @@ graph TD
 | Quality consistency | 30% | Client churn 20% |
 
 #### Current vs. AI Swarm Model
+<div class="mermaid-diagram-wrapper">
+
 ```mermaid
 graph LR
     A[Current Model] --> A1[Body Shop<br/>$150/hour]
@@ -78,6 +85,8 @@ graph LR
     B --> B2[High Margins<br/>70-85%]
     B --> B3[Instant Scale<br/>Unlimited capacity]
 ```
+
+</div>
 
 #### Opportunity
 - Transform from body shops to product delivery
@@ -125,13 +134,18 @@ graph LR
 - **Growth**: 15% annually
 
 #### Unique Needs
+<div class="mermaid-diagram-wrapper">
+
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'pie1': '#6B7F95', 'pie2': '#5DBCB6', 'pie3': '#84D4F5', 'pie4': '#B3B2D8', 'pie5': '#E5C4CA', 'pie6': '#FFD54F', 'pie7': '#FFB74D', 'pie8': '#E1B3C4', 'pieTextColor': '#000000', 'pieTitleTextColor': '#000000', 'pieSectionTextSize': '14px', 'pieLegendTextColor': '#000000', 'pieLegendTextSize': '14px', 'pieStrokeColor': '#000000', 'pieStrokeWidth': '1px', 'pieOuterStrokeWidth': '1px', 'pieOuterStrokeColor': '#000000'}}}%%
 pie title "Freelancer Time Allocation"
     "Actual Coding" : 40
     "Client Communication" : 20
     "Finding Work" : 25
     "Admin/Billing" : 15
 ```
+
+</div>
 
 #### AI Impact
 - **Time Saved**: 8 hours/week average
@@ -193,6 +207,8 @@ pie title "Freelancer Time Allocation"
 
 ### Primary Markets (by opportunity)
 
+<div class="mermaid-diagram-wrapper">
+
 ```mermaid
 graph TD
     A[Geographic Strategy] --> B[Tier 1: English Speaking]
@@ -213,9 +229,13 @@ graph TD
     D --> D3[Japan - $67B]
 ```
 
+</div>
+
 ## Customer Journey Analysis
 
 ### Startup Journey
+
+<div class="mermaid-diagram-wrapper">
 
 ```mermaid
 journey
@@ -234,7 +254,11 @@ journey
       Invest saved equity: 5: Founder
 ```
 
+</div>
+
 ### Enterprise Journey
+
+<div class="mermaid-diagram-wrapper">
 
 ```mermaid
 journey
@@ -254,7 +278,11 @@ journey
       Enterprise license: 5: CTO
 ```
 
+</div>
+
 ## Market Prioritization Matrix
+
+<div class="mermaid-diagram-wrapper">
 
 ```mermaid
 graph TD
@@ -270,6 +298,8 @@ graph TD
     D[Lower Priority] --> D1[Government]
     D --> D2[Education]
 ```
+
+</div>
 
 ## Key Insights
 
