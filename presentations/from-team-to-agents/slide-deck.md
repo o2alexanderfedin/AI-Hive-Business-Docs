@@ -24,11 +24,20 @@ How AI agents can fulfill various team roles while maintaining human oversight.
 
 ### [Slide 4: Cost and Productivity Comparison](slides/slide-04-cost-comparison.md)
 
-Detailed cost analysis comparing human vs. agent team members.
+Overview of global cost comparisons between human teams and AI swarm.
+
+- [Slide 4a: US & India Costs](slides/slide-04a-us-india-costs.md) - Detailed breakdown
+- [Slide 4b: Vietnam & Poland Costs](slides/slide-04b-vietnam-poland-costs.md) - Detailed breakdown
+- [Slide 4c: AI Swarm Costs](slides/slide-04c-ai-swarm-costs.md) - Pricing and comparison
+- [Slide 4d: Productivity Analysis](slides/slide-04d-productivity-comparison.md) - Key differentiators
 
 ### [Slide 5: Development Principles](slides/slide-05-development-principles.md)
 
-Core engineering standards maintained in agent-augmented development.
+Agile methodologies and frameworks used by AI agents.
+
+- [Slide 5a: SCRUM Framework](slides/slide-05a-scrum-framework.md) - Sprint-based development
+- [Slide 5b: XP Practices](slides/slide-05b-xp-practices.md) - Technical excellence
+- [Slide 5c: Values & Design](slides/slide-05c-emergent-design-values.md) - Core principles
 
 ### [Slide 6: Why the Process Works](slides/slide-06-why-it-works.md)
 
@@ -36,17 +45,9 @@ Explanation of how the system ensures quality through best practices.
 
 ### [Slide 7: Example Projects](slides/slide-07-example-projects.md)
 
-Real GitHub projects demonstrating agent-driven development.
+Real GitHub projects demonstrating agent-driven development and analysis.
 
-### [Slide 8: Simple Example](slides/slide-08-simple-example.md)
-
-Case study of a simple e-commerce landing page built by agents.
-
-### [Slide 9: Complex Example](slides/slide-09-complex-example.md)
-
-Case study of a full-stack enterprise application built by agents.
-
-### [Slide 10: Conclusion and Contacts](slides/slide-10-conclusion.md)
+### [Slide 8: Conclusion and Contacts](slides/slide-08-conclusion.md)
 
 Summary of benefits and call to action.
 
