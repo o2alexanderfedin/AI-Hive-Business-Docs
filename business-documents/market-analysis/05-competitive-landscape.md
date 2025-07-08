@@ -384,10 +384,10 @@ pie title "Global IT Outsourcing Market Share"
 %%{init: {
   'theme': 'base',
   'themeVariables': {
-    'quadrant1Fill': '#E5F5E5',
+    'quadrant1Fill': '#E5F0FC',
     'quadrant2Fill': '#F5E8D0',
     'quadrant3Fill': '#E8E8F5',
-    'quadrant4Fill': '#E5F0FC',
+    'quadrant4Fill': '#E5F5E5',
     'quadrant1TextFill': '#000000',
     'quadrant2TextFill': '#000000',
     'quadrant3TextFill': '#000000',
@@ -433,10 +433,10 @@ quadrantChart
 
 ### Quadrant Analysis
 
-- **Leaders (High Automation, High Price)** 🟢: Cognition (Devin) - Premium autonomous solutions
+- **Leaders (High Automation, High Price)** 🔵: Cognition (Devin) - Premium autonomous solutions
 - **Challengers (Low Automation, High Price)** 🟡: Traditional outsourcing, Low-Code platforms - Expensive but limited automation
 - **Cost Players (Low Automation, Low Price)** 🟣: Freelancers - Cheap but manual labor
-- **Disruptors (High Automation, Low Price)** 🔵: AI Swarm - Revolutionary value proposition with full automation at minimal cost
+- **Disruptors (High Automation, Low Price)** 🟢: AI Swarm - Revolutionary value proposition with full automation at minimal cost
 
 ## Competitive Advantages Analysis
 
