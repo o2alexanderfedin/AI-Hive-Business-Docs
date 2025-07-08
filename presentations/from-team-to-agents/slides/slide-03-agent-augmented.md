@@ -9,7 +9,7 @@
 ### Flexible Role Assignment
 
 ```mermaid
-graph TD
+graph LR
     A[Stakeholder<br/>✅ Human Only] --> B[Product Manager<br/>✅🤖 Hybrid]
     B --> C[Business Analyst<br/>✅🤖 Hybrid]
     C --> D[Architect<br/>✅🤖 Hybrid]
