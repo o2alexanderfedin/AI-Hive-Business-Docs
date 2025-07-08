@@ -1,4 +1,4 @@
-[🏠 Home](../slide-deck.md) | [⬆️ Up](../slide-deck.md) | [⬅️ Prev](slide-09-complex-example.md) | ➡️ Next
+[🏠 Home](../slide-deck.md) | [⬆️ Up](../slide-deck.md) | [⬅️ Prev](slide-09-complex-example.md)
 
 ---
 
@@ -48,4 +48,4 @@
 
 ---
 
-[🏠 Home](../slide-deck.md) | [⬆️ Up](../slide-deck.md) | [⬅️ Prev](slide-09-complex-example.md) | ➡️ Next
+[🏠 Home](../slide-deck.md) | [⬆️ Up](../slide-deck.md) | [⬅️ Prev](slide-09-complex-example.md)
