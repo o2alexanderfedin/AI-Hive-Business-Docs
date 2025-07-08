@@ -44,10 +44,6 @@ graph LR
     E --> J[Update Quantity]
     E --> K[Remove Item]
 
-    style A fill:#FFE4B5
-    style E fill:#E6FFE6
-    style F fill:#E6FFE6
-    style G fill:#90EE90
 ```
 
 #### Component Architecture
@@ -71,9 +67,6 @@ graph TD
     K --> M[Title/Price]
     K --> N[Add to Cart Button]
 
-    style A fill:#FFE4B5
-    style I fill:#E6FFE6
-    style K fill:#E6E6FF
 ```
 
 ### Development Time

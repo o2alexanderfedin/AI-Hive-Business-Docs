@@ -50,13 +50,6 @@ graph TB
     E --> H
     H --> I
 
-    style A fill:#E6FFE6
-    style B fill:#E6FFE6
-    style C fill:#FFE4B5
-    style D fill:#E6E6FF
-    style E fill:#E6E6FF
-    style F fill:#FFE6E6
-    style G fill:#FFE6E6
 ```
 
 ### Features Delivered

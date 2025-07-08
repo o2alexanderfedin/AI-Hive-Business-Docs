@@ -25,22 +25,6 @@ graph TD
     K --> M[QA Engineer<br/>✅🤖 Hybrid]
     E --> N[DevOps Engineer<br/>🤖 Agent]
     C --> O[Technical Writer<br/>🤖 Agent]
-
-    style A fill:#FFE4B5
-    style B fill:#E6FFE6
-    style C fill:#FFE6E6
-    style D fill:#E6E6FF
-    style E fill:#FFE6E6
-    style F fill:#FFE6E6
-    style G fill:#E6FFE6
-    style H fill:#FFE6E6
-    style I fill:#E6FFE6
-    style J fill:#E6FFE6
-    style K fill:#FFE6E6
-    style L fill:#FFE6E6
-    style M fill:#E6FFE6
-    style N fill:#FFE6E6
-    style O fill:#FFE6E6
 ```
 
 ### Agent Integration Channels
