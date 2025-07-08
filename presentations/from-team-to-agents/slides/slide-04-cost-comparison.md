@@ -29,6 +29,7 @@
 - **[Slide 4b](slide-04b-vietnam-poland-costs.md)**: Vietnam & Poland team detailed costs
 - **[Slide 4c](slide-04c-ai-swarm-costs.md)**: AI Swarm pricing & comparison
 - **[Slide 4d](slide-04d-productivity-comparison.md)**: Productivity & key differentiators
+- **[Slide 4e](slide-04e-market-opportunities.md)**: Market opportunities & startup enablement
 
 ---
 
