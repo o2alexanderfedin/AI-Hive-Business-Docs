@@ -5,6 +5,22 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.8] - 2025-07-08
+
+### Added
+- Comprehensive global pricing comparison with US, India, Vietnam, and Poland
+- Annual salary calculations for all teams
+- Human factor differentiators (mood, motivation, ramp-up time)
+- Vietnam team data for broader comparison
+
+### Changed
+- Restructured slide-04 with detailed team cost breakdowns
+- Standardized all teams to 10 people for fair comparison
+- Updated AI Swarm pricing to $100-500/day (was $200-500)
+- Added workload dependency note for AI Swarm pricing
+- Emphasized AI Swarm works ~50x faster than human teams
+- Highlighted 24x7x365 availability with no downtime
+
 ## [1.0.7] - 2025-07-08
 
 ### Added
