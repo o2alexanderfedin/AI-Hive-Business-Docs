@@ -165,15 +165,24 @@ pie title "Development Pricing Models Usage 2024"
 <div class="mermaid-diagram-wrapper">
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'backgroundColor': 'transparent'}}}}%%
+---
+config:
+  themeVariables:
+    xyChart:
+      backgroundColor: transparent
+      plotColorPalette: "#F5D5D5, #FFF5E5, #D5F5D5"
+---
 xychart-beta horizontal
-    title "Annual Cost for 500 Developers (in millions)"
-    x-axis ["Traditional", "Copilot", "Cursor", "AI Swarm"]
-    y-axis "Cost ($M)" 0 --> 60
-    bar [50.00, 50.23, 50.12, 0.18]
+    title "Annual Cost Breakdown for 500 Developers (in millions)"
+    x-axis ["Traditional", "GitHub Copilot", "Cursor Business", "AI Swarm"]
+    y-axis "Cost ($M)" 0 --> 55
+    bar "Developer Costs" [50.00, 50.00, 50.00, 0]
+    bar "Tool/Platform Costs" [0, 0.234, 0.12, 0.18]
 ```
 
 </div>
+
+*Color Legend: Red = Developer Costs, Yellow = Tool/Platform Costs, Green = AI Swarm (no developers needed)*
 
 ## Cost-per-Project Analysis
 
