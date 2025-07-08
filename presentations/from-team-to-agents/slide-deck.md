@@ -24,7 +24,12 @@ How AI agents can fulfill various team roles while maintaining human oversight.
 
 ### [Slide 4: Cost and Productivity Comparison](slides/slide-04-cost-comparison.md)
 
-Detailed cost analysis comparing human vs. agent team members.
+Overview of global cost comparisons between human teams and AI swarm.
+
+- [Slide 4a: US & India Costs](slides/slide-04a-us-india-costs.md) - Detailed breakdown
+- [Slide 4b: Vietnam & Poland Costs](slides/slide-04b-vietnam-poland-costs.md) - Detailed breakdown
+- [Slide 4c: AI Swarm Costs](slides/slide-04c-ai-swarm-costs.md) - Pricing and comparison
+- [Slide 4d: Productivity Analysis](slides/slide-04d-productivity-comparison.md) - Key differentiators
 
 ### [Slide 5: Development Principles](slides/slide-05-development-principles.md)
 
