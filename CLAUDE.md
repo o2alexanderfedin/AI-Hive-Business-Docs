@@ -39,3 +39,19 @@ The documents in this repository are designed to:
 - **DO NOT mention Claude, Anthropic, or any specific AI provider names in any documentation**
 - Keep all materials vendor-neutral and focused on the AI Hive concept
 - Use generic terms like "AI agents" or "intelligent agents" instead of specific product names
+
+## Design Guidelines
+
+### Mermaid Diagram Colors
+
+When updating Mermaid diagram colors to be "pale" or "less saturated", use these balanced color values that provide good visibility while being soft:
+
+- **Primary**: #C8D8E8 (soft blue-gray)
+- **Secondary**: #B8DDD8 (soft teal)
+- **Tertiary**: #C5DEF0 (soft sky blue)
+- **Cluster/Error**: #E5D5DC (soft pink)
+- **Section**: #F5E8D0 (soft cream)
+- **Grid**: #D8D8D8 (light gray)
+- **All text**: #000000 (black for readability)
+
+These colors provide a middle ground - not too saturated but not washed out. They maintain good contrast while being easy on the eyes.
