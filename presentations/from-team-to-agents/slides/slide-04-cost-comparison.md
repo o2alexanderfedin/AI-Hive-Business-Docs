@@ -19,7 +19,7 @@
 ### Key Insights
 
 - **Cost Efficiency**: AI Swarm is 8-35x cheaper than the lowest-cost human teams
-- **Speed**: 50x faster delivery (2-3 days vs 3 months)
+- **Speed**: Up to 50x faster delivery (2-3 days vs 3 months)
 - **Productivity**: 30x more projects per year
 - **Availability**: 24x7x365 with zero downtime
 

@@ -9,7 +9,7 @@
 |-----------|------------|--------------|-------------|---------|
 | **Entire Swarm** | $100-500* | $3,000-15,000 | $36,500-182,500 | All roles included |
 | **Availability** | 24x7x365 | | | No downtime ever |
-| **Speed** | ~50x faster | | | Parallel processing |
+| **Speed** | Up to 50x faster | | | Parallel processing |
 | **Scaling** | Instant | | | Unlimited agents |
 | **Infrastructure** | $0 | $0 | $0 | No office/equipment |
 

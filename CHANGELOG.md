@@ -25,7 +25,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Updated README with accurate metrics from slide deck
 - Reorganized target markets prioritizing startups (lowest barrier to entry)
 - Enhanced README with AI Swarm capabilities and proven projects
-- Updated slide 8 conclusion with accurate metrics (50x faster, 30x more projects)
+- Updated slide 8 conclusion with accurate metrics (up to 50x faster, 30x more projects)
 - Added nested bullets for time-based vs per-project cost reductions
 
 ### Enhanced
