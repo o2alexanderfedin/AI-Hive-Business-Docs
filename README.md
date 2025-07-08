@@ -13,14 +13,17 @@ Welcome to the O2.services AI Hive business documentation repository. This repos
 ## 📁 Repository Structure
 
 ### 📊 Presentations
+
 - **[From Team to Agents](presentations/from-team-to-agents/slide-deck.md)** - Complete slide deck demonstrating the transition from traditional development teams to AI-augmented teams
 
 ### 💼 Funding Materials
+
 - **[Pitch Deck: From Team to Agents](presentations/from-team-to-agents/slide-deck.md)** - Comprehensive pitch deck showcasing AI-augmented development teams
 - Executive summaries (coming soon)
 - Investor one-pagers (coming soon)
 
 ### 📄 Business Documents
+
 - Business plans (coming soon)
 - Market analysis (coming soon)
 - Competitive positioning (coming soon)
@@ -29,6 +32,7 @@ Welcome to the O2.services AI Hive business documentation repository. This repos
 ## 🎯 Project Vision
 
 The AI Hive represents a paradigm shift in software development, where:
+
 - Traditional team roles can be fulfilled by AI agents
 - Development costs are reduced by 10-20x
 - Time to market is accelerated by 5-10x
@@ -54,12 +58,14 @@ The AI Hive represents a paradigm shift in software development, where:
 ## 📞 Contact Information
 
 **O2.services**
-- Email: contact@o2.services
-- Website: www.o2.services
+
+- Email: <contact@o2.services>
+- Website: <www.o2.services>
 
 ## 📝 Document Guidelines
 
 When contributing to this repository:
+
 - Use Markdown format for all documents
 - Include Mermaid diagrams where applicable
 - Focus on business value and ROI

@@ -7,12 +7,14 @@
 ## Core Engineering Standards
 
 ### Code Quality
+
 - ✓ Mandatory code reviews (AI or human)
 - ✓ Automated linting and formatting
 - ✓ Static code analysis
 - ✓ Security vulnerability scanning
 
 ### Architecture
+
 - ✓ Modular, component-based design
 - ✓ Separation of concerns (SOLID)
 - ✓ KISS (Keep It Simple, Stupid)
@@ -20,6 +22,7 @@
 - ✓ Clear dependency management
 
 ### Testing
+
 - ✓ Unit tests for all components
 - ✓ Integration testing
 - ✓ End-to-end (E2E) testing
@@ -27,6 +30,7 @@
 - ✓ Test coverage metrics
 
 ### Process
+
 - ✓ CI/CD pipelines
 - ✓ Version control (Git)
 - ✓ Versioned requirements
@@ -34,6 +38,7 @@
 - ✓ Rollback capabilities
 
 ### Documentation
+
 - ✓ API documentation (OpenAPI/Swagger)
 - ✓ Architecture diagrams (Mermaid/UML)
 - ✓ Code comments and docstrings

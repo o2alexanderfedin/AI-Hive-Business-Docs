@@ -7,13 +7,14 @@
 ## Real-World Agent Development
 
 ### ✅ OCRChecksServer-demo
+
 **GitHub:** [o2alexanderfedin/OCRChecksServer-demo](https://github.com/o2alexanderfedin/OCRChecksServer-demo)
 
 - **Type:** Small, self-contained .NET REST API
 - **Purpose:** OCR processing for scanned checks
 - **Architecture:** Clean, modular design
 - **Deployment:** Docker-ready, easy setup
-- **Agent Contribution:** 
+- **Agent Contribution:**
   - Full implementation
   - Code reviews
   - Documentation
@@ -22,6 +23,7 @@
 ---
 
 ### ✅ angular-cas-disot
+
 **GitHub:** [o2alexanderfedin/angular-cas-disot](https://github.com/o2alexanderfedin/angular-cas-disot)
 
 - **Type:** Large, complex Angular application
@@ -37,6 +39,7 @@
 ---
 
 ### ✅ DynamicSwarmWorkshop
+
 **GitHub:** [o2alexanderfedin/DynamicSwarmWorkshop](https://github.com/o2alexanderfedin/DynamicSwarmWorkshop)
 
 - **Type:** Multi-agent development showcase

@@ -10,8 +10,8 @@
 
 ---
 
-**Author:** [Your Name]  
-**Date:** [Presentation Date]  
+**Author:** [Your Name]
+**Date:** [Presentation Date]
 **Company:** O2.services
 
 ---

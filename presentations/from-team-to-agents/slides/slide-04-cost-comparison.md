@@ -22,16 +22,19 @@
 ### Key Advantages
 
 #### Cost Structure
+
 - **Humans**: Fixed monthly salary + benefits + overhead
 - **Agents**: Pay-per-use, no benefits, no downtime
 - **Hybrid**: Optimize cost while maintaining human oversight
 
 #### Scaling
+
 - **Humans**: 2-3 months to hire, onboard, train
 - **Agents**: Instant deployment, parallel scaling
 - **Productivity**: Agents work 24/7, no vacation
 
 #### Optimal Balance
+
 - Strategic roles → Humans
 - Repetitive tasks → Agents
 - Complex tasks → Hybrid teams

@@ -18,14 +18,14 @@ graph TD
     D --> G[Senior Developer<br/>✅🤖 Hybrid]
     E --> H[Developer<br/>🤖 Agent]
     E --> I[Developer<br/>✅🤖 Hybrid]
-    
+
     B --> J[UI/UX Designer<br/>✅🤖 Hybrid]
     C --> K[QA Lead<br/>🤖 Agent]
     K --> L[QA Engineer<br/>🤖 Agent]
     K --> M[QA Engineer<br/>✅🤖 Hybrid]
     E --> N[DevOps Engineer<br/>🤖 Agent]
     C --> O[Technical Writer<br/>🤖 Agent]
-    
+
     style A fill:#FFE4B5
     style B fill:#E6FFE6
     style C fill:#FFE6E6
@@ -44,11 +44,13 @@ graph TD
 ```
 
 ### Agent Integration Channels
+
 - **Current**: GitHub Issues, Pull Requests, Code Reviews
 - **Coming Soon**: Slack, Teams, Email, Voice interfaces
 - **Future**: Visual avatars for video meetings
 
 ### Agent Capabilities
+
 - Create and discuss issues
 - Write and review code
 - Participate in planning
@@ -57,6 +59,7 @@ graph TD
 - Collaborate with humans seamlessly
 
 ### Legend
+
 - ✅ **Human**: Traditional team member
 - 🤖 **Agent**: AI-powered team member
 - ✅🤖 **Both**: Hybrid human-agent collaboration

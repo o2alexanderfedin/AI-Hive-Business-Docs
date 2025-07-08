@@ -18,14 +18,14 @@ graph TD
     D --> G[Senior Developer<br/>$10,000-15,000/mo]
     E --> H[Developer<br/>$8,000-10,000/mo]
     E --> I[Developer<br/>$8,000-10,000/mo]
-    
+
     B --> J[UI/UX Designer<br/>$8,000-12,000/mo]
     C --> K[QA Lead<br/>$8,000-12,000/mo]
     K --> L[QA Engineer<br/>$6,000-8,000/mo]
     K --> M[QA Engineer<br/>$6,000-8,000/mo]
     E --> N[DevOps Engineer<br/>$10,000-15,000/mo]
     C --> O[Technical Writer<br/>$5,000-8,000/mo]
-    
+
     style A fill:#FFE4B5
     style B fill:#E6F3FF
     style C fill:#E6F3FF
@@ -44,12 +44,14 @@ graph TD
 ```
 
 ### Supporting Roles
+
 - **QA Engineers**: $6,000-10,000/month
 - **DevOps**: $10,000-15,000/month
 - **UI/UX Designer**: $8,000-12,000/month
 - **Technical Writer**: $5,000-8,000/month
 
 ### Typical Productivity
+
 - **Developer**: 1-2 features/week
 - **QA**: 3-5 features tested/week
 - **Team Total**: 5-8 features/sprint (2 weeks)
