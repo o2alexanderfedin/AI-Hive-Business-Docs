@@ -58,8 +58,10 @@ The AI Hive represents a paradigm shift in software development, where:
 ## 📞 Contact Information
 
 **O2.services**
+**Contact:** Alex Fedin
 
-- Email: <contact@o2.services>
+- Email: <af@o2.services>
+- Phone: +1 (425) 351-1652
 - Website: <www.o2.services>
 
 ## 📝 Document Guidelines
