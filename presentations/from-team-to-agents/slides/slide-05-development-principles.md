@@ -17,7 +17,7 @@
 - **Retrospectives**: Continuous process improvement
 
 ### eXtreme Programming (XP) Practices
-- **Pair Programming**: Human-AI collaborative coding
+- **Pair Programming**: AI-AI collaborative coding
 - **Test-Driven Development (TDD)**: Tests written before code
 - **Continuous Integration**: Merge and test frequently
 - **Refactoring**: Constant code improvement
