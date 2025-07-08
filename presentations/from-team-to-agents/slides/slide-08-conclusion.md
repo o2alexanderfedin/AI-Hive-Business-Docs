@@ -1,8 +1,8 @@
-[🏠 Home](../slide-deck.md) | [⬆️ Up](../slide-deck.md) | [⬅️ Prev](slide-09-complex-example.md)
+[🏠 Home](../slide-deck.md) | [⬆️ Up](../slide-deck.md) | [⬅️ Prev](slide-07-example-projects.md)
 
 ---
 
-# Slide 10: Conclusion and Contacts
+# Slide 8: Conclusion and Contacts
 
 ## The Future is Hybrid
 
@@ -48,4 +48,4 @@
 
 ---
 
-[🏠 Home](../slide-deck.md) | [⬆️ Up](../slide-deck.md) | [⬅️ Prev](slide-09-complex-example.md)
+[🏠 Home](../slide-deck.md) | [⬆️ Up](../slide-deck.md) | [⬅️ Prev](slide-07-example-projects.md)

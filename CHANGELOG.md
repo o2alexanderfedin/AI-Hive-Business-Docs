@@ -5,6 +5,33 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.9] - 2025-07-08
+
+### Added
+- AI Audio Notes Market Analysis project example to slide 7
+- Web resource links for all methodologies and practices
+- Living Documentation section emphasizing always-current docs
+- Test coverage metrics (80%+) and testability focus
+- Links for SOLID, TDD/BDD, TRIZ, Agile, DevOps, Emergent Design
+- SCRUM Framework details (Epics, User Stories, Kanban)
+- eXtreme Programming (XP) practices with AI-AI pair programming
+- Emergent Design principles and manifesto references
+
+### Changed
+- Split slide 4 into focused sub-slides (4a-4d) for better organization
+- Split slide 5 into sub-slides (5a-5c) covering SCRUM, XP, and Emergent Design
+- Updated slide 5 pair programming to AI-AI only (not human-AI)
+- Updated slide 7 project descriptions with accurate information
+- Removed hallucinated DynamicSwarmWorkshop project
+
+### Removed
+- Deleted slides 8 and 9 (examples) per user request
+- Renumbered slide 10 to slide 8 (conclusion)
+
+### Fixed
+- Cleaned up obsolete git flow feature branches
+- Updated Claude settings with git remote prune permission
+
 ## [1.0.8] - 2025-07-08
 
 ### Added

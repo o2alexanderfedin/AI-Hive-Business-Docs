@@ -1,50 +1,39 @@
-[🏠 Home](../slide-deck.md) | [⬆️ Up](../slide-deck.md) | [⬅️ Prev](slide-04-cost-comparison.md) | [➡️ Next](slide-06-why-it-works.md)
+[🏠 Home](../slide-deck.md) | [⬆️ Up](../slide-deck.md) | [⬅️ Prev](slide-04d-productivity-comparison.md) | [➡️ Next](slide-05a-scrum-framework.md)
 
 ---
 
 # Slide 5: Development Principles
 
-## Core Engineering Standards
+## Agile-First Approach
 
-### Code Quality
+### AI Agents Follow Proven Methodologies
 
-- ✓ Mandatory code reviews (AI or human)
-- ✓ Automated linting and formatting
-- ✓ Static code analysis
-- ✓ Security vulnerability scanning
+Our AI agents are trained to follow industry-standard agile practices, ensuring enterprise-grade software development that meets the highest quality standards.
 
-### Architecture
+### Framework Components
 
-- ✓ Modular, component-based design
-- ✓ Separation of concerns (SOLID)
-- ✓ KISS (Keep It Simple, Stupid)
-- ✓ DRY (Don't Repeat Yourself)
-- ✓ Clear dependency management
+1. **[SCRUM Framework](slide-05a-scrum-framework.md)**
+   - Sprint-based development
+   - User stories and epics
+   - Continuous delivery
 
-### Testing
+2. **[eXtreme Programming (XP)](slide-05b-xp-practices.md)**
+   - Technical excellence
+   - Continuous improvement
+   - Collaborative development
 
-- ✓ Unit tests for all components
-- ✓ Integration testing
-- ✓ End-to-end (E2E) testing
-- ✓ Performance benchmarks
-- ✓ Test coverage metrics
+3. **[Emergent Design & Values](slide-05c-emergent-design-values.md)**
+   - Adaptive architecture
+   - Core agile principles
+   - Value-driven development
 
-### Process
+### Why Agile Works with AI
 
-- ✓ CI/CD pipelines
-- ✓ Version control (Git)
-- ✓ Versioned requirements
-- ✓ Automated deployments
-- ✓ Rollback capabilities
-
-### Documentation
-
-- ✓ API documentation (OpenAPI/Swagger)
-- ✓ Architecture diagrams (Mermaid/UML)
-- ✓ Code comments and docstrings
-- ✓ User guides and tutorials
-- ✓ Change logs and release notes
+- **Faster Feedback Loops**: 24/7 development enables rapid iteration
+- **Perfect Memory**: Never forget sprint goals or user stories
+- **Consistent Practices**: Always follow defined processes
+- **Instant Adaptation**: Pivot immediately based on feedback
 
 ---
 
-[🏠 Home](../slide-deck.md) | [⬆️ Up](../slide-deck.md) | [⬅️ Prev](slide-04-cost-comparison.md) | [➡️ Next](slide-06-why-it-works.md)
+[🏠 Home](../slide-deck.md) | [⬆️ Up](../slide-deck.md) | [⬅️ Prev](slide-04d-productivity-comparison.md) | [➡️ Next](slide-05a-scrum-framework.md)
