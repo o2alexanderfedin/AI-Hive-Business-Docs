@@ -1,6 +1,6 @@
 [🏠 Home](../../README.md) | [⬅️ Previous](03-market-size-growth.md) | [➡️ Next](05-competitive-landscape.md)
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../../assets/css/styles.css">
 ---
 
 # Customer Segments Analysis

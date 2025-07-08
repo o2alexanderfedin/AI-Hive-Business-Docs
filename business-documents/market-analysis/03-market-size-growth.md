@@ -1,6 +1,6 @@
 [🏠 Home](../../README.md) | [⬅️ Previous](02-market-overview.md) | [➡️ Next](04-customer-segments.md)
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../../assets/css/styles.css">
 ---
 
 # Market Size & Growth Analysis
@@ -120,76 +120,90 @@ Some projections show even more aggressive growth:
 %%{init: {
   'theme': 'base',
   'themeVariables': {
-    'primaryColor': '#A8B8D0',
+    'primaryColor': '#DDE8F0',
     'primaryTextColor': '#000000',
-    'primaryBorderColor': '#8A9AB2',
-    'lineColor': '#8A9AB2',
-    'secondaryColor': '#5DBCB6',
+    'primaryBorderColor': '#C8D5E3',
+    'lineColor': '#C8D5E3',
+    'secondaryColor': '#D8EDE9',
     'secondaryTextColor': '#000000',
-    'secondaryBorderColor': '#3D9A94',
-    'tertiaryColor': '#84D4F5',
+    'secondaryBorderColor': '#C0DDD7',
+    'tertiaryColor': '#E0F0FC',
     'tertiaryTextColor': '#000000',
-    'tertiaryBorderColor': '#5ABCD8',
-    'background': '#F5F5F5',
-    'mainBkg': '#A8B8D0',
-    'secondBkg': '#5DBCB6',
-    'tertiaryBkg': '#84D4F5',
+    'tertiaryBorderColor': '#C8E2F5',
+    'background': '#F8F8F8',
+    'mainBkg': '#DDE8F0',
+    'secondBkg': '#D8EDE9',
+    'tertiaryBkg': '#E0F0FC',
     'mainContrastColor': '#000000',
     'darkMode': false,
     'fontFamily': 'Arial, sans-serif',
     'fontSize': '14px',
-    'labelBackground': '#E8E8E8',
+    'labelBackground': '#F0F0F0',
     'textColor': '#000000',
-    'nodeBkg': '#B3B2D8',
+    'nodeBkg': '#E5E4F2',
     'nodeTextColor': '#000000',
-    'nodeBorder': '#8A89C0',
-    'clusterBkg': '#E5C4CA',
-    'clusterBorder': '#CDA2AB',
-    'defaultLinkColor': '#8A9AB2',
+    'nodeBorder': '#D2D0E5',
+    'clusterBkg': '#F0E5E8',
+    'clusterBorder': '#E5D5DA',
+    'defaultLinkColor': '#C8D5E3',
     'titleColor': '#000000',
-    'edgeLabelBackground': '#F5F5F5',
-    'actorBorder': '#8A9AB2',
-    'actorBkg': '#B3B2D8',
+    'edgeLabelBackground': '#F8F8F8',
+    'actorBorder': '#C8D5E3',
+    'actorBkg': '#E5E4F2',
     'actorTextColor': '#000000',
-    'actorLineColor': '#8A9AB2',
+    'actorLineColor': '#C8D5E3',
     'signalColor': '#000000',
     'signalTextColor': '#000000',
-    'activationBorderColor': '#8A9AB2',
-    'activationBkgColor': '#E5C4CA',
+    'activationBorderColor': '#C8D5E3',
+    'activationBkgColor': '#F0E5E8',
     'sequenceNumberColor': '#000000',
-    'sectionBkgColor': '#FFD54F',
-    'altSectionBkgColor': '#FFB74D',
-    'sectionBkgColor2': '#E1B3C4',
-    'taskBorderColor': '#8A9AB2',
-    'taskBkgColor': '#B3B2D8',
+    'sectionBkgColor': '#FFF5E0',
+    'altSectionBkgColor': '#FFEDD5',
+    'sectionBkgColor2': '#F0E5EA',
+    'taskBorderColor': '#C8D5E3',
+    'taskBkgColor': '#E5E4F2',
     'taskTextColor': '#000000',
     'taskTextLightColor': '#000000',
     'taskTextOutsideColor': '#000000',
     'taskTextClickableColor': '#000000',
-    'activeTaskBorderColor': '#A8B8D0',
-    'activeTaskBkgColor': '#84D4F5',
-    'gridColor': '#C0C0C0',
-    'doneTaskBkgColor': '#5DBCB6',
-    'doneTaskBorderColor': '#3D9A94',
-    'critBorderColor': '#E27D00',
-    'critBkgColor': '#FFB74D',
-    'todayLineColor': '#E27D00',
+    'activeTaskBorderColor': '#DDE8F0',
+    'activeTaskBkgColor': '#E0F0FC',
+    'gridColor': '#E0E0E0',
+    'doneTaskBkgColor': '#D8EDE9',
+    'doneTaskBorderColor': '#C0DDD7',
+    'critBorderColor': '#F0D5B5',
+    'critBkgColor': '#FFEDD5',
+    'todayLineColor': '#F0D5B5',
     'labelColor': '#000000',
-    'errorBkgColor': '#E1B3C4',
+    'errorBkgColor': '#F0E5EA',
     'errorTextColor': '#000000'
   }
 }}%%
-graph TD
-    A[2023: $92.5B] -->|+24.1%| B[2024: $114.8B]
-    B -->|+56.9% CAGR| C[2025: $180.0B]
-    C --> D[2027: $442.5B]
-    D --> E[2030: $846.2B]
-    E --> F[2033: $1.31T]
+timeline
+    title Software Development Outsourcing Market Growth
 
+    2023 : $92.5B
+         : Baseline year
 
+    2024 : $114.8B
+         : +24.1% growth
+         : AI integration begins
 
+    2025 : $180.0B
+         : +56.9% surge
+         : Mass AI adoption
 
-    style F fill:#2196F3,color:#fff
+    2027 : $442.5B
+         : 2.5x growth
+         : Market acceleration
+
+    2030 : $846.2B
+         : 9x from 2023
+         : Mature AI ecosystem
+
+    2033 : $1.31T
+         : Trillion dollar market
+         : Full automation era
 ```
 
 </div>
@@ -501,7 +515,7 @@ graph LR
     'errorTextColor': '#000000'
   }
 }}%%
-graph TD
+graph LR
     A[Current Shortage<br/>40 Million] --> B[2025<br/>50 Million]
     B --> C[2027<br/>65 Million]
     C --> D[2030<br/>85 Million]
@@ -602,7 +616,7 @@ graph TD
     'errorTextColor': '#000000'
   }
 }}%%
-graph TD
+graph LR
     A[Global TAM 2024<br/>$737B] --> B[Serviceable Available Market<br/>$250B]
     B --> C[AI-Augmented Segment<br/>$122B]
     C --> D[Our Target Market<br/>$50B]

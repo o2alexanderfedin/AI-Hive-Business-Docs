@@ -1,6 +1,6 @@
 [🏠 Home](../../README.md) | [⬅️ Previous](06-pricing-analysis.md) | [➡️ Next](08-appendix-data.md)
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../../assets/css/styles.css">
 ---
 
 # Market Opportunities Analysis
