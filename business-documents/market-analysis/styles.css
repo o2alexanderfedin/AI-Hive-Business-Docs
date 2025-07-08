@@ -17,6 +17,20 @@
     position: relative;
 }
 
+/* Make all table text black */
+.mermaid-diagram-wrapper table {
+    color: #000000;
+}
+
+.mermaid-diagram-wrapper th,
+.mermaid-diagram-wrapper td {
+    color: #000000 !important;
+}
+
+.mermaid-diagram-wrapper table * {
+    color: #000000 !important;
+}
+
 /* Add pseudo-element for additional depth */
 .mermaid-diagram-wrapper::before {
     content: "";
