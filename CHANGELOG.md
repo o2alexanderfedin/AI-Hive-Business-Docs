@@ -5,6 +5,27 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.10] - 2025-07-08
+
+### Added
+- New slide 4e: Market Opportunities showcasing startup enablement
+- Per-project cost reduction metric (47-1,612x) highlighted in slide 4c
+- Market segmentation by adoption barrier in README
+- Bootstrap funding benefits for startups
+- Entry strategies for different market segments
+
+### Changed
+- Updated README with accurate metrics from slide deck
+- Reorganized target markets prioritizing startups (lowest barrier to entry)
+- Enhanced README with AI Swarm capabilities and proven projects
+- Updated slide 8 conclusion with accurate metrics (50x faster, 30x more projects)
+- Added nested bullets for time-based vs per-project cost reductions
+
+### Enhanced
+- README now includes development methodologies section
+- Added real-world project examples to README
+- Updated roadmap with current timeline and milestones
+
 ## [1.0.9] - 2025-07-08
 
 ### Added
