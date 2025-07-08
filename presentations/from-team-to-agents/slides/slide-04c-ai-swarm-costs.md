@@ -29,6 +29,9 @@
 - **India Team**: $71,000
 - **AI Swarm**: $200-1,500 (completes in 2-3 days)
 
+### 🚀 Key Insight: 47-1,612x Cost Reduction Per Project
+AI Swarm delivers the same results for a fraction of the cost AND time
+
 ---
 
 [🏠 Home](../slide-deck.md) | [⬆️ Up](../slide-deck.md) | [⬅️ Prev](slide-04b-vietnam-poland-costs.md) | [➡️ Next](slide-04d-productivity-comparison.md)

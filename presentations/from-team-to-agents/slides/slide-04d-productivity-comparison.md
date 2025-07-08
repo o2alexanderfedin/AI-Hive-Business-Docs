@@ -1,4 +1,4 @@
-[🏠 Home](../slide-deck.md) | [⬆️ Up](../slide-deck.md) | [⬅️ Prev](slide-04c-ai-swarm-costs.md) | [➡️ Next](slide-05-development-principles.md)
+[🏠 Home](../slide-deck.md) | [⬆️ Up](../slide-deck.md) | [⬅️ Prev](slide-04c-ai-swarm-costs.md) | [➡️ Next](slide-04e-market-opportunities.md)
 
 ---
 
@@ -33,4 +33,4 @@
 
 ---
 
-[🏠 Home](../slide-deck.md) | [⬆️ Up](../slide-deck.md) | [⬅️ Prev](slide-04c-ai-swarm-costs.md) | [➡️ Next](slide-05-development-principles.md)
+[🏠 Home](../slide-deck.md) | [⬆️ Up](../slide-deck.md) | [⬅️ Prev](slide-04c-ai-swarm-costs.md) | [➡️ Next](slide-04e-market-opportunities.md)
