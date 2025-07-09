@@ -7,6 +7,8 @@
 
 ## Macro Opportunity Assessment
 
+### Market Opportunity Flow (in billions, USD)
+
 <div class="mermaid-diagram-wrapper">
 
 ```mermaid
@@ -72,16 +74,33 @@
     'errorTextColor': '#000000'
   }
 }}%%
-graph TD
-    A[Total Addressable Market<br/>$737B Software Market] --> B[Serviceable Addressable Market<br/>$250B Development Services]
-    B --> C[Serviceable Obtainable Market<br/>$50B AI-Ready Segment]
-    C --> D[Initial Target Market<br/>$5B Bootstrap/SMB]
-
-
-    style D fill:#2196F3,color:#fff
+%%{init: {"theme": "base", "themeVariables": {"primaryColor": "#A8B8D0", "primaryTextColor": "#000", "primaryBorderColor": "#8A9AB2", "lineColor": "#5DBCB6", "fontFamily": "Arial, sans-serif"}}}%%
+sankey-beta
+  TAM:,SAM:,250
+  TAM:,Other Markets:,487
+  SAM:,SOM:,50
+  SAM:,Traditional Dev:,200
+  SOM:,Target:,5
+  SOM:,Future:,45
+  Target:,Bootstrap:,2
+  Target:,SMB:,3
 ```
 
 </div>
+
+### Market Flow Analysis
+
+The Sankey diagram above visualizes the market opportunity flow:
+
+- **$737B Total Market** → $250B flows to Development Services (our addressable market)
+- **$250B Development Services** → $50B flows to AI-Ready customers (our obtainable market)
+- **$50B AI-Ready Segment** → $5B flows to our Initial Target (bootstrap/SMB focus)
+- **$5B Initial Target** → Splits between Bootstrap Startups ($2B) and SMB Segment ($3B)
+
+The width of each flow represents the relative market size, clearly showing:
+- We're targeting 34% of the total software market
+- Within that, we focus on the 20% that are AI-ready
+- Our initial target represents a focused 10% entry point with massive expansion potential
 
 ## High-Impact Opportunity Areas
 
