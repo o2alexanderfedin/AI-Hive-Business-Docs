@@ -378,7 +378,7 @@ $300K project - $1.5K price = $298.5K value created
     'errorTextColor': '#000000'
   }
 }}%%
-graph TD
+graph LR
     A[AI Swarm Pricing Options] --> B[Pay as You Go<br/>$150-200/day]
     A --> C[Starter<br/>$100-300/day]
     A --> D[Growth<br/>$300-500/day]
@@ -577,7 +577,7 @@ This positioning analysis reveals AI Swarm's unique opportunity in the value lea
     'errorTextColor': '#000000'
   }
 }}%%
-graph LR
+graph TD
     A[Value Perception] --> B[Speed<br/>50x faster]
     A --> C[Quality<br/>80% coverage]
     A --> D[Scale<br/>Unlimited]
@@ -796,7 +796,7 @@ graph TD
     'errorTextColor': '#000000'
   }
 }}%%
-graph LR
+graph TD
     A[Price Point Analysis] --> B[Low: $100/day]
     A --> C[Mid: $300/day]
     A --> D[High: $500/day]
