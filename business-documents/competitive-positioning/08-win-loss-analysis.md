@@ -530,7 +530,7 @@ line
 **Last updated**: January 2025
 **Next review**: February 2025
 
-For questions or contributions, contact: competitive-intel@o2.services
+For questions or contributions, contact: af+competitive-intel@o2.services
 
 ---
 
