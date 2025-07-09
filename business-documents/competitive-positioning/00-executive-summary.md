@@ -130,7 +130,9 @@ See [Pricing Reference](data/pricing-reference.md) for complete pricing strategy
 
 ---
 
-**Contact**: Strategy Team | af+strategy@o2.services | +1 (425) 351-1652
+**Contact**: Alex Fedin<br/>
+**Email**: af+strategy@o2.services<br/>
+**Phone**: +1 (425) 351-1652
 
 **Last Updated**: January 2025
 

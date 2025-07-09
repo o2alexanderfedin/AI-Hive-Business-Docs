@@ -602,8 +602,8 @@ graph TD
 
 ---
 
-**Document maintained by**: Alex Fedin (af@o2.services)
-**Last updated**: January 2025
+**Document maintained by**: Alex Fedin (af@o2.services)<br/>
+**Last updated**: January 2025<br/>
 **Next review**: February 2025
 
 ---

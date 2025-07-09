@@ -135,8 +135,8 @@ This market analysis is maintained as a living document and updated quarterly wi
 
 For questions about this market analysis:
 
-**O2.services Market Intelligence Team**
-Email: af+market-research@o2.services
+**Alex Fedin**<br/>
+Email: af+market-research@o2.services<br/>
 Phone: +1 (425) 351-1652
 
 ---

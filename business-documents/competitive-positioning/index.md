@@ -102,8 +102,8 @@ For detailed metrics and competitive advantages, see our **[Core Advantages Refe
 
 ## 📞 Contact
 
-**O2.services Strategy Team**
-Email: af+strategy@o2.services
+**Alex Fedin**<br/>
+Email: af+strategy@o2.services<br/>
 Phone: +1 (425) 351-1652
 
 ---
