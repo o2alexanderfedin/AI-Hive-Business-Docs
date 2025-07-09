@@ -595,16 +595,16 @@ graph TD
 
 ### Quarterly Priorities
 
-- **Q1 2025**: Price objection handling transformation
-- **Q2 2025**: Incumbent displacement playbook rollout
-- **Q3 2025**: Feature gap closure acceleration
-- **Q4 2025**: Market position strengthening campaign
+- **Q3 2025**: Price objection handling transformation
+- **Q4 2025**: Incumbent displacement playbook rollout
+- **Q1 2026**: Feature gap closure acceleration
+- **Q2 2026**: Market position strengthening campaign
 
 ---
 
 **Document maintained by**: Alex Fedin (af@o2.services)<br/>
-**Last updated**: January 2025<br/>
-**Next review**: February 2025
+**Last updated**: July 2025<br/>
+**Next review**: August 2025
 
 ---
 

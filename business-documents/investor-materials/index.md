@@ -46,7 +46,7 @@ Phone: +1 (425) 351-1652
 
 ---
 
-**Last Updated**: January 2025<br/>
+**Last Updated**: July 2025<br/>
 **Document Status**: Investment Materials v1.0
 
 ---

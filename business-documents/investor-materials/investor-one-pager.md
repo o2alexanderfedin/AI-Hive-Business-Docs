@@ -69,7 +69,7 @@ graph LR
 ## Traction & Milestones
 
 - **Technology**: Production-ready platform supporting all major languages
-- **Market Entry**: Q1 2025 launch targeting bootstrapped startups
+- **Market Entry**: August 2025 launch targeting bootstrapped startups
 - **Scalability**: Architecture supports unlimited concurrent projects
 - **IP**: Proprietary autonomous agent orchestration technology
 
@@ -95,6 +95,8 @@ Email: af@o2.services<br/>
 Phone: +1 (425) 351-1652
 
 *Building the future where software creates itself.*
+
+**From start to ship in days, not months.**
 
 ---
 
