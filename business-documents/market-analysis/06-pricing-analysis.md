@@ -185,7 +185,7 @@ config:
 ---
 xychart-beta horizontal
     title "Annual Cost Breakdown for 500 Developers (in millions)"
-    x-axis ["Traditional", "GitHub Copilot", "Cursor Business", "AI Swarm"]
+    x-axis ["Traditional", "GitHub Copilot", "Cursor Business", "🟢 AI Swarm"]
     y-axis "Cost ($M)" 0 --> 55
     bar "Developer Costs" [50.00, 50.00, 50.00, 0]
     bar "Tool/Platform Costs" [0, 0.234, 0.12, 0.18]
@@ -194,8 +194,6 @@ xychart-beta horizontal
 </div>
 
 *Color Legend: 🔴 Red = Developer Costs, 🟡 Yellow = Tool/Platform Costs*
-
-*Note: AI Swarm is highlighted with 🟢 green emoji in the comparison table above due to xychart limitations for individual label colors.*
 
 ## Cost-per-Project Analysis
 
@@ -380,32 +378,52 @@ $300K project - $1.5K price = $298.5K value created
     'errorTextColor': '#000000'
   }
 }}%%
-graph TD
-    A[AI Swarm Pricing Tiers] --> B[Starter<br/>$100-300/day]
-    A --> C[Growth<br/>$300-500/day]
-    A --> D[Scale<br/>$500-1000/day]
-    A --> E[Enterprise<br/>Custom]
+graph LR
+    A[AI Swarm Pricing Options] --> B[Pay as You Go<br/>$150-200/day]
+    A --> C[Starter<br/>$100-300/day]
+    A --> D[Growth<br/>$300-500/day]
+    A --> E[Scale<br/>$500-1000/day]
+    A --> F[Enterprise<br/>Custom]
 
-    B --> B1[1-2 projects]
-    B --> B2[Basic features]
-    B --> B3[Community support]
+    B --> B1[Per-project billing]
+    B --> B2[No minimum commitment]
+    B --> B3[Perfect for occasional needs]
 
-    C --> C1[3-5 projects]
-    C --> C2[Advanced features]
-    C --> C3[Priority support]
+    C --> C1[1-2 projects/month]
+    C --> C2[Basic features]
+    C --> C3[Community support]
 
-    D --> D1[Unlimited projects]
-    D --> D2[All features]
-    D --> D3[Dedicated support]
+    D --> D1[3-5 projects/month]
+    D --> D2[Advanced features]
+    D --> D3[Priority support]
 
-    E --> E1[Custom limits]
-    E --> E2[SLAs]
-    E --> E3[White glove service]
+    E --> E1[Unlimited projects]
+    E --> E2[All features]
+    E --> E3[Dedicated support]
+
+    F --> F1[Custom limits]
+    F --> F2[SLAs]
+    F --> F3[White glove service]
 ```
 
 </div>
 
 ## Market Pricing Dynamics
+
+### Pay as You Go Model Benefits
+
+The Pay as You Go option addresses key market gaps:
+
+<div class="mermaid-diagram-wrapper">
+
+| Customer Type | Traditional Challenge | Pay as You Go Solution | Value Proposition |
+|---------------|----------------------|------------------------|-------------------|
+| **Occasional Users** | High monthly minimums | Only pay when needed | 60-80% cost savings |
+| **Seasonal Businesses** | Year-round subscriptions | Scale up/down as needed | Flexible budgeting |
+| **Test/Pilot Projects** | Long-term commitments | Try before committing | Risk-free evaluation |
+| **Budget-Conscious Startups** | Cash flow constraints | Predictable per-project costs | Preserve runway |
+
+</div>
 
 ### Price Sensitivity by Segment
 
@@ -413,6 +431,7 @@ graph TD
 
 | Segment | Price Sensitivity | Decision Factor | Sweet Spot |
 |---------|------------------|-----------------|------------|
+| **Occasional Users** | Very High | Flexibility | $150-200/day (Pay as You Go) |
 | **Startups** | Very High | Absolute cost | $100-300/day |
 | **SMBs** | High | ROI/Value | $300-500/day |
 | **Agencies** | Medium | Margin improvement | $500-1000/day |
@@ -428,79 +447,60 @@ graph TD
 %%{init: {
   'theme': 'base',
   'themeVariables': {
-    'primaryColor': '#A8B8D0',
+    'quadrant1Fill': '#E5F0FC',
+    'quadrant2Fill': '#F5E8D0',
+    'quadrant3Fill': '#E8E8F5',
+    'quadrant4Fill': '#E5F5E5',
+    'quadrant1TextFill': '#000000',
+    'quadrant2TextFill': '#000000',
+    'quadrant3TextFill': '#000000',
+    'quadrant4TextFill': '#000000',
+    'quadrantPointFill': '#000000',
+    'quadrantPointTextFill': '#000000',
+    'quadrantXAxisTextFill': '#000000',
+    'quadrantYAxisTextFill': '#000000',
+    'quadrantInternalBorderStrokeFill': '#B0C5D8',
+    'quadrantExternalBorderStrokeFill': '#8A9AB2',
+    'quadrantTitleFill': '#000000',
+    'primaryColor': '#C8D8E8',
     'primaryTextColor': '#000000',
-    'primaryBorderColor': '#8A9AB2',
-    'lineColor': '#8A9AB2',
-    'secondaryColor': '#5DBCB6',
-    'secondaryTextColor': '#000000',
-    'secondaryBorderColor': '#3D9A94',
-    'tertiaryColor': '#84D4F5',
-    'tertiaryTextColor': '#000000',
-    'tertiaryBorderColor': '#5ABCD8',
-    'background': '#F5F5F5',
-    'mainBkg': '#A8B8D0',
-    'secondBkg': '#5DBCB6',
-    'tertiaryBkg': '#84D4F5',
-    'mainContrastColor': '#000000',
+    'primaryBorderColor': '#B0C5D8',
+    'lineColor': '#B0C5D8',
+    'background': '#F8F8F8',
+    'mainBkg': '#C8D8E8',
     'darkMode': false,
     'fontFamily': 'Arial, sans-serif',
-    'fontSize': '14px',
-    'labelBackground': '#E8E8E8',
-    'textColor': '#000000',
-    'nodeBkg': '#B3B2D8',
-    'nodeTextColor': '#000000',
-    'nodeBorder': '#8A89C0',
-    'clusterBkg': '#E5C4CA',
-    'clusterBorder': '#CDA2AB',
-    'defaultLinkColor': '#8A9AB2',
-    'titleColor': '#000000',
-    'edgeLabelBackground': '#F5F5F5',
-    'actorBorder': '#8A9AB2',
-    'actorBkg': '#B3B2D8',
-    'actorTextColor': '#000000',
-    'actorLineColor': '#8A9AB2',
-    'signalColor': '#000000',
-    'signalTextColor': '#000000',
-    'activationBorderColor': '#8A9AB2',
-    'activationBkgColor': '#E5C4CA',
-    'sequenceNumberColor': '#000000',
-    'sectionBkgColor': '#FFD54F',
-    'altSectionBkgColor': '#FFB74D',
-    'sectionBkgColor2': '#E1B3C4',
-    'taskBorderColor': '#8A9AB2',
-    'taskBkgColor': '#B3B2D8',
-    'taskTextColor': '#000000',
-    'taskTextLightColor': '#000000',
-    'taskTextOutsideColor': '#000000',
-    'taskTextClickableColor': '#000000',
-    'activeTaskBorderColor': '#A8B8D0',
-    'activeTaskBkgColor': '#84D4F5',
-    'gridColor': '#C0C0C0',
-    'doneTaskBkgColor': '#5DBCB6',
-    'doneTaskBorderColor': '#3D9A94',
-    'critBorderColor': '#E27D00',
-    'critBkgColor': '#FFB74D',
-    'todayLineColor': '#E27D00',
-    'labelColor': '#000000',
-    'errorBkgColor': '#E1B3C4',
-    'errorTextColor': '#000000'
+    'fontSize': '14px'
   }
 }}%%
-scatter
-    title "Price vs Value Positioning"
-    x-axis "Low Value" --> "High Value"
-    y-axis "Low Price" --> "High Price"
+quadrantChart
+    title Competitive Price Positioning
+    x-axis Low Value --> High Value
+    y-axis Low Price --> High Price
 
-    "Freelancers": [30, 20]
-    "Offshore Teams": [40, 40]
-    "Onshore Teams": [60, 80]
-    "AI Tools": [50, 30]
-    "Consultancies": [70, 90]
-    "AI Swarm": [90, 15]
+    quadrant-1 Premium Solutions
+    quadrant-2 Overpriced
+    quadrant-3 Budget Options
+    quadrant-4 Value Leaders
+
+    "Freelancers": [0.30, 0.20]
+    "Offshore Teams": [0.40, 0.40]
+    "Onshore Teams": [0.60, 0.80]
+    "AI Tools": [0.50, 0.30]
+    "Consultancies": [0.70, 0.90]
+    "AI Swarm": [0.90, 0.15]
 ```
 
 </div>
+
+### Price-Value Quadrant Analysis
+
+- **Premium Solutions (High Value, High Price)** 🔵: Consultancies - High-value strategic services at premium pricing
+- **Overpriced (Low Value, High Price)** 🟡: Onshore Teams - Traditional pricing without proportional value
+- **Budget Options (Low Value, Low Price)** 🟣: Freelancers - Affordable but limited scope and quality
+- **Value Leaders (High Value, Low Price)** 🟢: AI Swarm - Maximum value delivery at disruptive pricing
+
+This positioning analysis reveals AI Swarm's unique opportunity in the value leaders quadrant, offering enterprise-grade capabilities at startup-friendly pricing.
 
 ## Pricing Psychology Insights
 
@@ -577,7 +577,7 @@ scatter
     'errorTextColor': '#000000'
   }
 }}%%
-graph LR
+graph TD
     A[Value Perception] --> B[Speed<br/>50x faster]
     A --> C[Quality<br/>80% coverage]
     A --> D[Scale<br/>Unlimited]
@@ -796,7 +796,7 @@ graph TD
     'errorTextColor': '#000000'
   }
 }}%%
-graph LR
+graph TD
     A[Price Point Analysis] --> B[Low: $100/day]
     A --> C[Mid: $300/day]
     A --> D[High: $500/day]
