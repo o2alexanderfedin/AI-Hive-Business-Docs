@@ -1,4 +1,4 @@
-[🏠 Home](../../README.md)
+[🏠 Home](../../README.md) | [➡️ Next: Executive Summary](executive-summary.md)
 
 <link rel="stylesheet" href="../../assets/css/styles.css">
 ---
@@ -136,4 +136,4 @@ xychart-beta
 
 ---
 
-[🏠 Home](../../README.md) | [📊 Executive Summary](executive-summary.md) | [💰 Cost Analysis](ai-vs-human-cost-analysis.md)
+[🏠 Home](../../README.md) | [➡️ Next: Executive Summary](executive-summary.md)
