@@ -23,6 +23,28 @@ This playbook provides comprehensive strategies for anticipating and responding 
 <div class="mermaid-diagram-wrapper">
 
 ```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#E0E8F0',
+    'primaryTextColor': '#000000',
+    'primaryBorderColor': '#B0C5D8',
+    'lineColor': '#B0C5D8',
+    'secondaryColor': '#D5E8E0',
+    'background': '#FFFFFF',
+    'mainBkg': '#F8F8F8',
+    'secondBkg': '#F0F0F0',
+    'darkMode': false,
+    'fontFamily': 'Arial, sans-serif',
+    'fontSize': '14px',
+    'textColor': '#000000',
+    'nodeBkg': '#F5F5F5',
+    'nodeBorder': '#B0C5D8',
+    'clusterBkg': '#FAFAFA',
+    'clusterBorder': '#B0C5D8',
+    'defaultLinkColor': '#B0C5D8'
+  }
+}}%%
 graph TD
     A[Competitor Lowers Price] --> B{Price Reduction Type?}
     B -->|Temporary Discount| C[Emphasize TCO]
@@ -64,6 +86,28 @@ graph TD
 <div class="mermaid-diagram-wrapper">
 
 ```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#E0E8F0',
+    'primaryTextColor': '#000000',
+    'primaryBorderColor': '#B0C5D8',
+    'lineColor': '#B0C5D8',
+    'secondaryColor': '#D5E8E0',
+    'background': '#FFFFFF',
+    'mainBkg': '#F8F8F8',
+    'secondBkg': '#F0F0F0',
+    'darkMode': false,
+    'fontFamily': 'Arial, sans-serif',
+    'fontSize': '14px',
+    'textColor': '#000000',
+    'nodeBkg': '#F5F5F5',
+    'nodeBorder': '#B0C5D8',
+    'clusterBkg': '#FAFAFA',
+    'clusterBorder': '#B0C5D8',
+    'defaultLinkColor': '#B0C5D8'
+  }
+}}%%
 graph LR
     A[FUD Attack] --> B[Identify Type]
     B --> C[Security Concerns]
@@ -290,6 +334,28 @@ graph LR
 <div class="mermaid-diagram-wrapper">
 
 ```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#E0E8F0',
+    'primaryTextColor': '#000000',
+    'primaryBorderColor': '#B0C5D8',
+    'lineColor': '#B0C5D8',
+    'secondaryColor': '#D5E8E0',
+    'background': '#FFFFFF',
+    'mainBkg': '#F8F8F8',
+    'secondBkg': '#F0F0F0',
+    'darkMode': false,
+    'fontFamily': 'Arial, sans-serif',
+    'fontSize': '14px',
+    'textColor': '#000000',
+    'nodeBkg': '#F5F5F5',
+    'nodeBorder': '#B0C5D8',
+    'clusterBkg': '#FAFAFA',
+    'clusterBorder': '#B0C5D8',
+    'defaultLinkColor': '#B0C5D8'
+  }
+}}%%
 graph TD
     A[Account at Risk] --> B{Risk Level?}
     B -->|High| C[Executive Engagement]
@@ -350,6 +416,28 @@ graph TD
 <div class="mermaid-diagram-wrapper">
 
 ```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#E0E8F0',
+    'primaryTextColor': '#000000',
+    'primaryBorderColor': '#B0C5D8',
+    'lineColor': '#B0C5D8',
+    'secondaryColor': '#D5E8E0',
+    'background': '#FFFFFF',
+    'mainBkg': '#F8F8F8',
+    'secondBkg': '#F0F0F0',
+    'darkMode': false,
+    'fontFamily': 'Arial, sans-serif',
+    'fontSize': '14px',
+    'textColor': '#000000',
+    'nodeBkg': '#F5F5F5',
+    'nodeBorder': '#B0C5D8',
+    'clusterBkg': '#FAFAFA',
+    'clusterBorder': '#B0C5D8',
+    'defaultLinkColor': '#B0C5D8'
+  }
+}}%%
 graph LR
     A[Competitor Type] --> B[Core Weakness]
     B --> C[Our Counter]
@@ -387,6 +475,28 @@ graph LR
 <div class="mermaid-diagram-wrapper">
 
 ```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#E0E8F0',
+    'primaryTextColor': '#000000',
+    'primaryBorderColor': '#B0C5D8',
+    'lineColor': '#B0C5D8',
+    'secondaryColor': '#D5E8E0',
+    'background': '#FFFFFF',
+    'mainBkg': '#F8F8F8',
+    'secondBkg': '#F0F0F0',
+    'darkMode': false,
+    'fontFamily': 'Arial, sans-serif',
+    'fontSize': '14px',
+    'textColor': '#000000',
+    'nodeBkg': '#F5F5F5',
+    'nodeBorder': '#B0C5D8',
+    'clusterBkg': '#FAFAFA',
+    'clusterBorder': '#B0C5D8',
+    'defaultLinkColor': '#B0C5D8'
+  }
+}}%%
 graph TD
     A[Competitive Threat] --> B{Threat Type?}
 
@@ -423,6 +533,28 @@ graph TD
 <div class="mermaid-diagram-wrapper">
 
 ```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#E0E8F0',
+    'primaryTextColor': '#000000',
+    'primaryBorderColor': '#B0C5D8',
+    'lineColor': '#B0C5D8',
+    'secondaryColor': '#D5E8E0',
+    'background': '#FFFFFF',
+    'mainBkg': '#F8F8F8',
+    'secondBkg': '#F0F0F0',
+    'darkMode': false,
+    'fontFamily': 'Arial, sans-serif',
+    'fontSize': '14px',
+    'textColor': '#000000',
+    'nodeBkg': '#F5F5F5',
+    'nodeBorder': '#B0C5D8',
+    'clusterBkg': '#FAFAFA',
+    'clusterBorder': '#B0C5D8',
+    'defaultLinkColor': '#B0C5D8'
+  }
+}}%%
 graph TD
     A[Customer Objection] --> B{Objection Category?}
 
