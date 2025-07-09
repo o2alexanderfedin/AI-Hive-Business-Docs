@@ -731,11 +731,15 @@ graph TD
 
 ### Competitive Advantages Summary
 
+<div class="mermaid-diagram-wrapper">
+
 | Moat Type | Key Advantages | Impact |
 |-----------|---------------|---------|
 | **Economic Moat** | • 99% cost reduction<br>• 90% margin structure<br>• No human labor costs | Impossible to match without destroying margins |
 | **Technical Moat** | • Full automation<br>• Multi-agent architecture<br>• Self-improving system | 3-5 years to replicate |
 | **Market Moat** | • First mover advantage<br>• Blue ocean positioning<br>• Network effects potential | Creates sustainable leadership |
+
+</div>
 
 ### Competitive Response Strategies
 

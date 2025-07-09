@@ -22,41 +22,69 @@ This document presents O2.services AI Hive's comprehensive pricing strategy, bas
 <div class="mermaid-diagram-wrapper">
 
 ```mermaid
-graph TD
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#B8C8D8',
+    'primaryTextColor': '#000000',
+    'primaryBorderColor': '#7890A8',
+    'lineColor': '#5A6A7A',
+    'secondaryColor': '#D5C8B0',
+    'tertiaryColor': '#C5D5C5',
+    'background': '#FFFFFF',
+    'mainBkg': '#D8D8D8',
+    'secondBkg': '#C8C8C8',
+    'tertiaryBkg': '#B8B8B8',
+    'primaryFontFamily': 'Arial, sans-serif',
+    'fontSize': '14px',
+    'darkMode': false,
+    'nodeBkg': '#D5D5D5',
+    'nodeBorder': '#7890A8',
+    'clusterBkg': '#E0E0E0',
+    'clusterBorder': '#5A6A7A',
+    'defaultLinkColor': '#5A6A7A',
+    'textColor': '#000000',
+    'labelTextColor': '#000000',
+    'actorTextColor': '#000000'
+  }
+}}%%
+graph LR
     subgraph "Traditional Development Costs"
-        TD1[Full-Time Developer: $8,000-$15,000/month]
-        TD2[Development Team: $40,000-$80,000/month]
-        TD3[Offshore Team: $15,000-$30,000/month]
+        TD1[Full-Time Developer:<br/> $8,000-$15,000/month]
+        TD2[Development Team:<br/> $40,000-$80,000/month]
+        TD3[Offshore Team:<br/> $15,000-$30,000/month]
     end
 
     subgraph "AI-Assisted Tools"
-        AI1[GitHub Copilot: $19-$39/user/month]
-        AI2[Cursor Pro: $20-$40/user/month]
-        AI3[Tabnine: $12-$39/user/month]
+        AI1[GitHub Copilot:<br/> $19-$39/user/month]
+        AI2[Cursor Pro:<br/> $20-$40/user/month]
+        AI3[Tabnine:<br/> $12-$39/user/month]
     end
 
     subgraph "Low-Code Platforms"
-        LC1[OutSystems: $1,500-$10,000/month]
-        LC2[Mendix: $2,000-$7,500/month]
-        LC3[Bubble: $25-$475/month]
+        LC1[OutSystems:<br/> $1,500-$10,000/month]
+        LC2[Mendix:<br/> $2,000-$7,500/month]
+        LC3[Bubble:<br/> $25-$475/month]
     end
 
     subgraph "AI Hive Pricing"
-        AS1[Starter: $299/month]
-        AS2[Professional: $999/month]
-        AS3[Enterprise: $2,999/month]
-        AS4[Custom: Contact Sales]
+        AS1[Starter:<br/> $299/month]
+        AS2[Professional:<br/> $999/month]
+        AS3[Enterprise:<br/> $2,999/month]
+        AS4[Custom:<br/> Contact Sales]
     end
 
-    style AS1 fill:#4CAF50,stroke:#333,stroke-width:2px
-    style AS2 fill:#4CAF50,stroke:#333,stroke-width:2px
-    style AS3 fill:#4CAF50,stroke:#333,stroke-width:2px
-    style AS4 fill:#4CAF50,stroke:#333,stroke-width:2px
+    style AS1 fill:#81C784,color:#000000,stroke:#333,stroke-width:2px
+    style AS2 fill:#81C784,color:#000000,stroke:#333,stroke-width:2px
+    style AS3 fill:#81C784,color:#000000,stroke:#333,stroke-width:2px
+    style AS4 fill:#81C784,color:#000000,stroke:#333,stroke-width:2px
 ```
 
 </div>
 
 ### Detailed Cost Comparison Table
+
+<div class="mermaid-diagram-wrapper">
 
 | Solution Type | Monthly Cost Range | Annual Cost | Hidden Costs | Total True Cost |
 |--------------|-------------------|-------------|--------------|-----------------|
@@ -67,6 +95,8 @@ graph TD
 | **Low-Code Platform** | $2,000-$10,000 | $24,000-$120,000 | Training, limitations, lock-in | $50,000-$200,000 |
 | **AI Hive** | $299-$2,999 | $3,588-$35,988 | None - all inclusive | $3,588-$35,988 |
 
+</div>
+
 ## 2. Our Pricing Strategy & Rationale
 
 ### Strategic Pricing Framework
@@ -74,6 +104,32 @@ graph TD
 <div class="mermaid-diagram-wrapper">
 
 ```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#B8C8D8',
+    'primaryTextColor': '#000000',
+    'primaryBorderColor': '#7890A8',
+    'lineColor': '#5A6A7A',
+    'secondaryColor': '#D5C8B0',
+    'tertiaryColor': '#C5D5C5',
+    'background': '#FFFFFF',
+    'mainBkg': '#D8D8D8',
+    'secondBkg': '#C8C8C8',
+    'tertiaryBkg': '#B8B8B8',
+    'primaryFontFamily': 'Arial, sans-serif',
+    'fontSize': '14px',
+    'darkMode': false,
+    'nodeBkg': '#D5D5D5',
+    'nodeBorder': '#7890A8',
+    'clusterBkg': '#E0E0E0',
+    'clusterBorder': '#5A6A7A',
+    'defaultLinkColor': '#5A6A7A',
+    'textColor': '#000000',
+    'labelTextColor': '#000000',
+    'actorTextColor': '#000000'
+  }
+}}%%
 graph LR
     subgraph "Value Creation"
         V1[10x Development Speed]
@@ -136,22 +192,38 @@ graph LR
 <div class="mermaid-diagram-wrapper">
 
 ```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryTextColor': '#000000',
+    'primaryColor': '#E8E8E8',
+    'primaryBorderColor': '#000000',
+    'lineColor': '#000000',
+    'textColor': '#000000',
+    'mainBkg': '#FFFFFF',
+    'secondBkg': '#F0F0F0',
+    'tertiaryTextColor': '#000000',
+    'fontFamily': 'Arial, sans-serif'
+  }
+}}%%
 sankey-beta
 
-"Customer Investment" --> "AI Hive Platform" 100
-"AI Hive Platform" --> "Time Saved (70%)" 35
-"AI Hive Platform" --> "Cost Reduced (25%)" 25
-"AI Hive Platform" --> "Quality Improved (20%)" 20
-"AI Hive Platform" --> "Risk Eliminated (20%)" 20
-"Time Saved (70%)" --> "Faster Revenue" 35
-"Cost Reduced (25%)" --> "Direct Savings" 25
-"Quality Improved (20%)" --> "Less Rework" 20
-"Risk Eliminated (20%)" --> "Predictable Outcomes" 20
+Customer Investment,AI Hive Platform,100
+AI Hive Platform,Time Saved (70%),35
+AI Hive Platform,Cost Reduced (25%),25
+AI Hive Platform,Quality Improved (20%),20
+AI Hive Platform,Risk Eliminated (20%),20
+Time Saved (70%),Faster Revenue,35
+Cost Reduced (25%),Direct Savings,25
+Quality Improved (20%),Less Rework,20
+Risk Eliminated (20%),Predictable Outcomes,20
 ```
 
 </div>
 
 ### Value Quantification Matrix
+
+<div class="mermaid-diagram-wrapper">
 
 | Value Driver | Traditional Cost | AI Hive Cost | Value Created | Customer Keeps |
 |-------------|-----------------|---------------|---------------|----------------|
@@ -161,6 +233,8 @@ sankey-beta
 | **Maintenance** | $100k/year | Included | $100,000 | 100% |
 | **Total First Year** | $530,000 | $11,988 | $518,012 | 97.7% |
 
+</div>
+
 ## 4. Price Positioning Maps
 
 ### Competitive Position Matrix
@@ -168,23 +242,52 @@ sankey-beta
 <div class="mermaid-diagram-wrapper">
 
 ```mermaid
-scatter
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'quadrant1Fill': '#E8E8F5',
+    'quadrant2Fill': '#E5F5E5',
+    'quadrant3Fill': '#F5E8D0',
+    'quadrant5Fill': '#E5F0FC',
+    'quadrant1TextFill': '#000000',
+    'quadrant2TextFill': '#000000',
+    'quadrant3TextFill': '#000000',
+    'quadrant4TextFill': '#000000',
+    'quadrantPointFill': '#000000',
+    'quadrantPointTextFill': '#000000',
+    'quadrantXAxisTextFill': '#000000',
+    'quadrantYAxisTextFill': '#000000',
+    'quadrantInternalBorderStrokeFill': '#B0C5D8',
+    'quadrantExternalBorderStrokeFill': '#8A9AB2',
+    'quadrantTitleFill': '#000000',
+    'primaryColor': '#C8D8E8',
+    'primaryTextColor': '#000000',
+    'primaryBorderColor': '#B0C5D8',
+    'lineColor': '#B0C5D8',
+    'background': '#F8F8F8',
+    'mainBkg': '#C8D8E8',
+    'darkMode': false,
+    'fontFamily': 'Arial, sans-serif',
+    'fontSize': '14px'
+  }
+}}%%
+quadrantChart
     title Price vs Value Positioning (2025 Market)
-    x-axis "Monthly Price ($)" 0 --> 100000
-    y-axis "Value Delivered (Features × Speed × Quality)" 0 --> 100
+    x-axis "Low Price" --> "High Price ($100K+/mo)"
+    y-axis "Low Value" --> "High Value (Speed × Quality × Features)"
     quadrant-1 "Premium Leaders"
     quadrant-2 "Value Leaders"
     quadrant-3 "Budget Options"
     quadrant-4 "Overpriced"
 
-    "AI Hive Starter": [299, 85]
-    "AI Hive Pro": [999, 92]
-    "AI Hive Enterprise": [2999, 98]
-    "Senior Developer": [15000, 60]
-    "Dev Team": [60000, 70]
-    "Offshore Team": [25000, 40]
-    "GitHub Copilot": [39, 20]
-    "Low-Code Platform": [5000, 45]
+    "AI Hive Starter": [0.1, 0.85]
+    "AI Hive Pro": [0.15, 0.92]
+    "AI Hive Enterprise": [0.2, 0.98]
+    "Senior Developer": [0.6, 0.6]
+    "Dev Team": [0.9, 0.7]
+    "Offshore Team": [0.7, 0.4]
+    "GitHub Copilot": [0.05, 0.2]
+    "Low-Code Platform": [0.4, 0.45]
 ```
 
 </div>
@@ -194,6 +297,32 @@ scatter
 <div class="mermaid-diagram-wrapper">
 
 ```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#B8C8D8',
+    'primaryTextColor': '#000000',
+    'primaryBorderColor': '#7890A8',
+    'lineColor': '#5A6A7A',
+    'secondaryColor': '#D5C8B0',
+    'tertiaryColor': '#C5D5C5',
+    'background': '#FFFFFF',
+    'mainBkg': '#D8D8D8',
+    'secondBkg': '#C8C8C8',
+    'tertiaryBkg': '#B8B8B8',
+    'primaryFontFamily': 'Arial, sans-serif',
+    'fontSize': '14px',
+    'darkMode': false,
+    'nodeBkg': '#D5D5D5',
+    'nodeBorder': '#7890A8',
+    'clusterBkg': '#E0E0E0',
+    'clusterBorder': '#5A6A7A',
+    'defaultLinkColor': '#5A6A7A',
+    'textColor': '#000000',
+    'labelTextColor': '#000000',
+    'actorTextColor': '#000000'
+  }
+}}%%
 graph TD
     subgraph "Enterprise Segment"
         E1[Traditional: $1M+/year]
@@ -217,9 +346,9 @@ graph TD
     M1 --> M2
     S1 --> S2
 
-    style E3 fill:#4CAF50
-    style M3 fill:#4CAF50
-    style S3 fill:#4CAF50
+    style E3 fill:#81C784,color:#000000
+    style M3 fill:#81C784,color:#000000
+    style S3 fill:#81C784,color:#000000
 ```
 
 </div>
@@ -231,6 +360,32 @@ graph TD
 <div class="mermaid-diagram-wrapper">
 
 ```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#B8C8D8',
+    'primaryTextColor': '#000000',
+    'primaryBorderColor': '#7890A8',
+    'lineColor': '#5A6A7A',
+    'secondaryColor': '#D5C8B0',
+    'tertiaryColor': '#C5D5C5',
+    'background': '#FFFFFF',
+    'mainBkg': '#D8D8D8',
+    'secondBkg': '#C8C8C8',
+    'tertiaryBkg': '#B8B8B8',
+    'primaryFontFamily': 'Arial, sans-serif',
+    'fontSize': '14px',
+    'darkMode': false,
+    'nodeBkg': '#D5D5D5',
+    'nodeBorder': '#7890A8',
+    'clusterBkg': '#E0E0E0',
+    'clusterBorder': '#5A6A7A',
+    'defaultLinkColor': '#5A6A7A',
+    'textColor': '#000000',
+    'labelTextColor': '#000000',
+    'actorTextColor': '#000000'
+  }
+}}%%
 graph LR
     subgraph "Week 1"
         W1[Investment: $299-$2,999<br/>First Project Started]
@@ -257,10 +412,10 @@ graph LR
     W4 --> M3
     M3 --> M6
 
-    style W2 fill:#90EE90
-    style W4 fill:#7CFC00
-    style M3 fill:#32CD32
-    style M6 fill:#228B22
+    style W2 fill:#A5D6A7,color:#000000
+    style W4 fill:#81C784,color:#000000
+    style M3 fill:#66BB6A,color:#000000
+    style M6 fill:#4CAF50,color:#000000
 ```
 
 </div>
@@ -295,6 +450,27 @@ graph LR
 <div class="mermaid-diagram-wrapper">
 
 ```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#B8C8D8',
+    'primaryTextColor': '#000000',
+    'primaryBorderColor': '#7890A8',
+    'lineColor': '#5A6A7A',
+    'secondaryColor': '#D5C8B0',
+    'tertiaryColor': '#C5D5C5',
+    'background': '#FFFFFF',
+    'mainBkg': '#D8D8D8',
+    'secondBkg': '#C8C8C8',
+    'tertiaryBkg': '#B8B8B8',
+    'primaryFontFamily': 'Arial, sans-serif',
+    'fontSize': '14px',
+    'darkMode': false,
+    'textColor': '#000000',
+    'labelTextColor': '#000000',
+    'actorTextColor': '#000000'
+  }
+}}%%
 timeline
     title AI Hive Pricing Evolution 2025-2027
 
@@ -353,6 +529,32 @@ timeline
 <div class="mermaid-diagram-wrapper">
 
 ```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#B8C8D8',
+    'primaryTextColor': '#000000',
+    'primaryBorderColor': '#7890A8',
+    'lineColor': '#5A6A7A',
+    'secondaryColor': '#D5C8B0',
+    'tertiaryColor': '#C5D5C5',
+    'background': '#FFFFFF',
+    'mainBkg': '#D8D8D8',
+    'secondBkg': '#C8C8C8',
+    'tertiaryBkg': '#B8B8B8',
+    'primaryFontFamily': 'Arial, sans-serif',
+    'fontSize': '14px',
+    'darkMode': false,
+    'nodeBkg': '#D5D5D5',
+    'nodeBorder': '#7890A8',
+    'clusterBkg': '#E0E0E0',
+    'clusterBorder': '#5A6A7A',
+    'defaultLinkColor': '#5A6A7A',
+    'textColor': '#000000',
+    'labelTextColor': '#000000',
+    'actorTextColor': '#000000'
+  }
+}}%%
 graph TD
     subgraph "Core Bundles"
         B1[Startup Bundle<br/>$299/mo<br/>Everything to launch]
@@ -438,6 +640,32 @@ graph TD
 <div class="mermaid-diagram-wrapper">
 
 ```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#B8C8D8',
+    'primaryTextColor': '#000000',
+    'primaryBorderColor': '#7890A8',
+    'lineColor': '#5A6A7A',
+    'secondaryColor': '#D5C8B0',
+    'tertiaryColor': '#C5D5C5',
+    'background': '#FFFFFF',
+    'mainBkg': '#D8D8D8',
+    'secondBkg': '#C8C8C8',
+    'tertiaryBkg': '#B8B8B8',
+    'primaryFontFamily': 'Arial, sans-serif',
+    'fontSize': '14px',
+    'darkMode': false,
+    'nodeBkg': '#D5D5D5',
+    'nodeBorder': '#7890A8',
+    'clusterBkg': '#E0E0E0',
+    'clusterBorder': '#5A6A7A',
+    'defaultLinkColor': '#5A6A7A',
+    'textColor': '#000000',
+    'labelTextColor': '#000000',
+    'actorTextColor': '#000000'
+  }
+}}%%
 graph TD
     subgraph "Year 1 Total Costs"
         T1[Traditional Team: $1,200,000]
@@ -469,7 +697,7 @@ graph TD
     T4 --> H4 --> I4
     T5 --> H5 --> I5
 
-    style I5 fill:#4CAF50,stroke:#333,stroke-width:3px
+    style I5 fill:#81C784,color:#000000,stroke:#333,stroke-width:3px
 ```
 
 </div>
@@ -479,15 +707,29 @@ graph TD
 <div class="mermaid-diagram-wrapper">
 
 ```mermaid
-radar
-    title Value Delivery Comparison (0-100 scale)
-    labels [Speed, Quality, Cost, Scalability, Reliability, Innovation]
-    series [AI Hive, Traditional Team, Offshore, Low-Code, Freelancers]
-    AI Hive [95, 90, 98, 100, 95, 100]
-    Traditional Team [40, 80, 20, 30, 70, 60]
-    Offshore [30, 50, 60, 40, 40, 30]
-    Low-Code [70, 60, 70, 50, 80, 40]
-    Freelancers [50, 65, 50, 20, 30, 50]
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#B8C8D8',
+    'primaryTextColor': '#000000',
+    'primaryBorderColor': '#7890A8',
+    'lineColor': '#5A6A7A',
+    'textColor': '#000000'
+  }
+}}%%
+radar-beta
+    title "Value Delivery Comparison (0-100 scale)"
+    axis speed["Speed"], quality["Quality"], cost["Cost"], scalability["Scalability"], reliability["Reliability"], innovation["Innovation"]
+    curve aihive["AI Hive"]{95, 90, 98, 100, 95, 100}
+    curve traditional["Traditional Team"]{40, 80, 20, 30, 70, 60}
+    curve offshore["Offshore"]{30, 50, 60, 40, 40, 30}
+    curve lowcode["Low-Code"]{70, 60, 70, 50, 80, 40}
+    curve freelancers["Freelancers"]{50, 65, 50, 20, 30, 50}
+    showLegend true
+    max 100
+    min 0
+    graticule polygon
+    ticks 5
 ```
 
 </div>

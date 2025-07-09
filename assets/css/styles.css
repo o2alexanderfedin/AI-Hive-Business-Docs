@@ -55,6 +55,29 @@
     height: auto;
 }
 
+/* Make all Mermaid diagram text black */
+.mermaid-diagram-wrapper .mermaid text {
+    fill: #000000 !important;
+}
+
+.mermaid-diagram-wrapper .mermaid .nodeLabel {
+    color: #000000 !important;
+}
+
+.mermaid-diagram-wrapper .mermaid .label {
+    color: #000000 !important;
+    fill: #000000 !important;
+}
+
+/* Specifically for Sankey diagrams */
+.mermaid-diagram-wrapper .mermaid .sankey-node-label {
+    fill: #000000 !important;
+}
+
+.mermaid-diagram-wrapper .mermaid .sankey-link-label {
+    fill: #000000 !important;
+}
+
 /* Add pseudo-element for additional depth */
 .mermaid-diagram-wrapper::before {
     content: "";
