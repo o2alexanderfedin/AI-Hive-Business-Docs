@@ -763,16 +763,16 @@ graph LR
 
 </div>
 
-### Sales Team Structure
+### Future Organizational Structure
 
 <div class="mermaid-diagram-wrapper">
 
-| Role | Focus | Quota | Compensation |
-|------|-------|-------|---------------|
-| **SDR** | Lead qualification | 50 MQLs/month | Base + MQL bonus |
-| **SMB AE** | Startups & Agencies | $50K MRR | Base + 20% commission |
-| **Enterprise AE** | Fortune 500 | $200K MRR | Base + 25% commission |
-| **Customer Success** | Retention & Growth | 95% retention | Base + NRR bonus |
+| Function | Focus Area | Key Metrics | Priority |
+|----------|------------|-------------|----------|
+| **Business Development** | Partnership & Channel | Partner pipeline | High |
+| **Customer Success** | Retention & Growth | 95% retention | Critical |
+| **Product Marketing** | Positioning & Content | Market awareness | High |
+| **Technical Support** | Implementation Success | Response time | Medium |
 
 </div>
 
@@ -1118,7 +1118,7 @@ xychart-beta
 
 ### Next Steps
 1. Finalize Q1 2025 campaign assets
-2. Recruit initial sales team
+2. Develop partnership strategy
 3. Launch partner program
 4. Begin startup outreach
 5. Establish success metrics tracking

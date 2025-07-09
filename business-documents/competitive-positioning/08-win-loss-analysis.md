@@ -50,11 +50,11 @@ graph LR
     B -->|Won| C[Win Analysis]
     B -->|Lost| D[Loss Analysis]
 
-    C --> E[Interview Sales Rep]
+    C --> E[Document Deal Details]
     C --> F[Customer Survey]
     C --> G[Deal Data Collection]
 
-    D --> H[Interview Sales Rep]
+    D --> H[Analyze Loss Reasons]
     D --> I[Prospect Feedback]
     D --> J[Competitive Intel]
 
@@ -78,10 +78,10 @@ graph LR
 | Metric Category | Data Points | Collection Method |
 |-----------------|-------------|-------------------|
 | **Deal Characteristics** | Size, duration, industry, use case | CRM automation |
-| **Competition** | Primary competitor, secondary alternatives | Sales interview |
+| **Competition** | Primary competitor, secondary alternatives | Deal analysis |
 | **Decision Criteria** | Top 3 factors, weightings | Customer survey |
 | **Process Factors** | Sales cycle length, stakeholders | Deal review |
-| **Technical Factors** | POC results, integration requirements | Technical team |
+| **Technical Factors** | POC results, integration requirements | POC analysis |
 | **Economic Factors** | Budget, ROI expectations, TCO | Proposal analysis |
 
 </div>
@@ -632,50 +632,7 @@ graph TB
 
 </div>
 
-### 8.2 Sales Team Performance
-
-<div class="mermaid-diagram-wrapper">
-
-```mermaid
-%%{init: {
-  'theme': 'base',
-  'themeVariables': {
-    'primaryColor': '#E0E8F0',
-    'primaryTextColor': '#000000',
-    'primaryBorderColor': '#B0C5D8',
-    'lineColor': '#B0C5D8',
-    'secondaryColor': '#D5E8E0',
-    'background': '#FFFFFF',
-    'mainBkg': '#F8F8F8',
-    'secondBkg': '#F0F0F0',
-    'darkMode': false,
-    'fontFamily': 'Arial, sans-serif',
-    'fontSize': '14px',
-    'textColor': '#000000',
-    'nodeBkg': '#F5F5F5',
-    'nodeBorder': '#B0C5D8',
-    'clusterBkg': '#FAFAFA',
-    'clusterBorder': '#B0C5D8',
-    'defaultLinkColor': '#B0C5D8'
-  }
-}}%%
-graph LR
-    subgraph "Team Performance"
-        A[Enterprise Team<br/>Win Rate: 72%]
-        B[Mid-Market Team<br/>Win Rate: 69%]
-        C[Strategic Team<br/>Win Rate: 64%]
-        D[Channel Team<br/>Win Rate: 61%]
-    end
-
-    A --> E[Top Performer:<br/>Sarah Chen 81%]
-    B --> F[Top Performer:<br/>Mike Rodriguez 77%]
-    C --> G[Top Performer:<br/>Lisa Park 71%]
-    D --> H[Top Performer:<br/>John Smith 68%]
-```
-
-</div>
-
-### 8.3 Improvement Impact Tracker
+### 8.2 Improvement Impact Tracker
 
 <div class="mermaid-diagram-wrapper">
 
@@ -738,7 +695,7 @@ line
 
 ---
 
-**Document maintained by**: Competitive Intelligence Team
+**Document maintained by**: Alex Fedin (af@o2.services)
 **Last updated**: January 2025
 **Next review**: February 2025
 
