@@ -35,7 +35,7 @@ Our AI Swarm delivers enterprise-grade software development at a fraction of the
 
 - **[Market Analysis](business-documents/market-analysis/index.md)** - Comprehensive analysis of the AI-augmented software development market
 - Business plans (coming soon)
-- Competitive positioning (coming soon)
+- **[Competitive Positioning](business-documents/competitive-positioning/)** - Detailed competitive analysis and positioning strategies for AI-augmented development
 - Financial projections (coming soon)
 
 ## 🎯 Project Vision
