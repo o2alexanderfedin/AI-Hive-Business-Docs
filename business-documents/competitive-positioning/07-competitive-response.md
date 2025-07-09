@@ -1,4 +1,4 @@
-[🏠 Home](../../README.md) | [📊 Market Analysis](../market-analysis/index.md) | [🎯 Positioning Strategy](01-positioning-strategy.md)
+[🏠 Home](../../README.md) | [⬆️ Up](index.md) | [⬅️ Previous](06-go-to-market-positioning.md) | [➡️ Next](08-win-loss-analysis.md)
 
 <link rel="stylesheet" href="../../assets/css/styles.css">
 ---
@@ -492,4 +492,8 @@ graph TD
 
 ---
 
-[Previous: Feature Comparison](04-feature-comparison.md) | [Back to Index](index.md) | [Next: Market Strategy](../market-analysis/07-market-opportunities.md)
+**Last Updated**: January 2025
+
+---
+
+[🏠 Home](../../README.md) | [⬆️ Up](index.md) | [⬅️ Previous](06-go-to-market-positioning.md) | [➡️ Next](08-win-loss-analysis.md)

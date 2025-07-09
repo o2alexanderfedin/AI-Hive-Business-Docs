@@ -10,12 +10,16 @@
 
 ### Market Segments
 
+<div class="mermaid-diagram-wrapper">
+
 | Segment | 2024 Size | 2028 Projection | CAGR | Our Opportunity |
 |---------|-----------|-----------------|------|------------------|
 | **AI-Powered Development** | $12.6B | $65B | 60% | Direct competition |
 | **Traditional Services** | $92.5B | $120B | 8% | Disruption target |
 | **Low-Code/No-Code** | $14.6B | $44.7B | 23% | Alternative market |
 | **Enterprise Software** | $617.3B | $507.5B | -5% | Adjacent market |
+
+</div>
 
 ### Sub-segment Breakdown
 
@@ -32,12 +36,16 @@
 
 ## Geographic Markets
 
+<div class="mermaid-diagram-wrapper">
+
 | Region | Market Size | Growth Rate | Key Players |
 |--------|-------------|-------------|-------------|
 | North America | $280B | 12% | Microsoft, Google, Meta |
 | Europe | $180B | 10% | SAP, local consultancies |
 | Asia Pacific | $200B | 15% | TCS, Infosys, Alibaba |
 | Rest of World | $77.2B | 18% | Emerging markets |
+
+</div>
 
 ## Customer Segments
 

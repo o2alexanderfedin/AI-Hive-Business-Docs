@@ -36,6 +36,8 @@
 - **Immediate support for new technologies** - no waiting for updates
 - **No vendor lock-in** - use the best tool for each job
 
+<div class="mermaid-diagram-wrapper">
+
 | Aspect | Traditional | AI-Assisted | AI Hive |
 |--------|------------|-------------|---------|
 | **Human Dependency** | 100% human | Still needs developers | Fully autonomous |
@@ -43,6 +45,8 @@
 | **Availability** | Business hours | Business hours | 24/7/365 |
 | **Scaling** | Hire more people | Buy more licenses | Instant unlimited |
 | **Quality Consistency** | Variable | Variable | Guaranteed standards |
+
+</div>
 
 ## Competitive Positioning
 

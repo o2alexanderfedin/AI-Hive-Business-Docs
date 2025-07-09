@@ -1,4 +1,4 @@
-[🏠 Home](../../README.md) | [📊 Market Analysis](../market-analysis/index.md)
+[🏠 Home](../../README.md) | [⬆️ Up](index.md) | [➡️ Next](01-positioning-strategy.md)
 
 <link rel="stylesheet" href="../../assets/css/styles.css">
 ---
@@ -28,12 +28,16 @@ For detailed metrics, see [Core Advantages Reference](data/core-advantages.md) a
 
 ### 3. Competitive Landscape
 
+<div class="mermaid-diagram-wrapper">
+
 | Competitor Type | Market Size | Our Advantage | Disruption Level |
 |-----------------|-------------|---------------|------------------|
 | Traditional Development | $500B | 99% cost reduction | Very High |
 | AI-Assisted Tools | $180B | Full autonomy vs assistance | High |
 | Low-Code Platforms | $57B | No limitations, real code | Medium |
 | Offshore Teams | $45B | 10x cheaper, 50x faster | Very High |
+
+</div>
 
 ## Strategic Priorities
 
@@ -68,12 +72,16 @@ For detailed analysis, see [Win/Loss Analysis](08-win-loss-analysis.md) and [Com
 
 ## Pricing Strategy
 
+<div class="mermaid-diagram-wrapper">
+
 | Tier | Price | Target | Value Prop |
 |------|-------|--------|------------|
 | **Bootstrap** | $200-500 | Pre-revenue startups | Launch for less than a laptop |
 | **Startup** | $500-1,500 | Funded startups | 10x runway extension |
 | **Scale** | $1,500-5,000 | Growing companies | Team replacement |
 | **Enterprise** | $5,000-20,000 | Large organizations | Innovation acceleration |
+
+</div>
 
 See [Pricing Reference](data/pricing-reference.md) for complete pricing strategy.
 
@@ -125,3 +133,7 @@ See [Pricing Reference](data/pricing-reference.md) for complete pricing strategy
 **Contact**: Strategy Team | af+strategy@o2.services | +1 (425) 351-1652
 
 **Last Updated**: January 2025
+
+---
+
+[🏠 Home](../../README.md) | [⬆️ Up](index.md) | [➡️ Next](01-positioning-strategy.md)

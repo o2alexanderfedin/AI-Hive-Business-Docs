@@ -1,4 +1,4 @@
-[🏠 Home](../../README.md) | [📊 Market Analysis](../market-analysis/index.md) | [🎯 Positioning Strategy](01-positioning-strategy.md)
+[🏠 Home](../../README.md) | [⬆️ Up](index.md) | [⬅️ Previous](04-feature-comparison.md) | [➡️ Next](06-go-to-market-positioning.md)
 
 <link rel="stylesheet" href="../../assets/css/styles.css">
 ---
@@ -534,48 +534,8 @@ radar
 ---
 
 <div class="navigation-footer">
-    <div class="nav-previous">
-        <a href="04-feature-comparison.md">← Previous: Feature Comparison</a>
-    </div>
-    <div class="nav-home">
-        <a href="index.md">🎯 Competitive Positioning Home</a>
-    </div>
-    <div class="nav-next">
-        <a href="../market-analysis/index.md">Next: Market Analysis →</a>
-    </div>
-</div>
+**Last Updated**: January 2025
 
-<style>
-    .navigation-footer {
-        display: flex;
-        justify-content: space-between;
-        margin-top: 40px;
-        padding-top: 20px;
-        border-top: 1px solid #e1e4e8;
-    }
-    .mermaid-diagram-wrapper {
-        background: #f6f8fa;
-        border-radius: 8px;
-        padding: 20px;
-        margin: 20px 0;
-        overflow-x: auto;
-    }
-    table {
-        width: 100%;
-        margin: 20px 0;
-        border-collapse: collapse;
-    }
-    th {
-        background: #f6f8fa;
-        padding: 12px;
-        text-align: left;
-        font-weight: 600;
-    }
-    td {
-        padding: 12px;
-        border-bottom: 1px solid #e1e4e8;
-    }
-    strong {
-        color: #0366d6;
-    }
-</style>
+---
+
+[🏠 Home](../../README.md) | [⬆️ Up](index.md) | [⬅️ Previous](04-feature-comparison.md) | [➡️ Next](06-go-to-market-positioning.md)
