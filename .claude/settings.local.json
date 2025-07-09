@@ -45,7 +45,10 @@
       "WebFetch(domain:mermaid.js.org)",
       "Bash(cat:*)",
       "Bash(GIT_MERGE_AUTOEDIT=no git flow release finish -m \"Release v1.41.0 - Navigation updates and table formatting\" v1.41.0)",
-      "Bash(GIT_MERGE_AUTOEDIT=no git flow release finish -m \"v1.41.0\" v1.41.0)"
+      "Bash(GIT_MERGE_AUTOEDIT=no git flow release finish -m \"v1.41.0\" v1.41.0)",
+      "Bash(awk:*)",
+      "Bash(for:*)",
+      "Bash(do echo \"=== Checking $file ===\")"
     ],
     "deny": []
   }
