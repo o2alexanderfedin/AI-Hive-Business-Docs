@@ -178,7 +178,7 @@ The width of each flow represents the relative market size, clearly showing:
     'errorTextColor': '#000000'
   }
 }}%%
-graph LR
+graph TD
     A[Current State] --> A1[Need $2-5M to start]
     A --> A2[Give up 20-40% equity]
     A --> A3[18-month runway pressure]
@@ -391,7 +391,7 @@ graph TD
     'errorTextColor': '#000000'
   }
 }}%%
-graph LR
+graph TD
     A[Partners] --> B[Tech Consultancies<br/>500K globally]
     A --> C[Digital Agencies<br/>1M+ globally]
     A --> D[System Integrators<br/>10K globally]
@@ -408,11 +408,25 @@ graph LR
 #### Partner Economics
 <div class="mermaid-diagram-wrapper">
 
-| Partner Type | Current Margin | With AI Swarm | Revenue Uplift |
-|--------------|----------------|---------------|----------------|
-| Consultancy | 40% | 80% | 2x |
-| Digital Agency | 25% | 70% | 2.8x |
-| Freelancer | 60% | 90% | 1.5x |
+| Partner Type | Current Margin | With AI Swarm* | Full Automation** | Profit Multiplier |
+|--------------|----------------|----------------|-------------------|-------------------|
+| **Consultancy** | 40% | 80% | 95% | 2-6x |
+| **Digital Agency** | 25% | 70% | 93% | 3-9x |
+| **Freelancer** | 60% | 90% | 97% | 1.5-4x |
+
+</div>
+
+*With AI Swarm: Includes overhead, management, and business operations costs
+**Full Automation: AI Swarm costs only (3-7% of project value)
+
+##### Example: $100K Project Economics
+<div class="mermaid-diagram-wrapper">
+
+| Scenario | Development Cost | Other Costs | AI Swarm Cost | Total Profit | Margin |
+|----------|------------------|-------------|---------------|--------------|--------|
+| **Traditional Agency** | $60K | $15K | $0 | $25K | 25% |
+| **With AI Swarm** | $0 | $27K | $3K | $70K | 70% |
+| **Full Automation** | $0 | $4K | $3K | $93K | 93% |
 
 </div>
 
