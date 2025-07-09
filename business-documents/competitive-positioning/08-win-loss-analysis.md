@@ -23,6 +23,28 @@ This comprehensive win/loss analysis provides data-driven insights into O2.servi
 <div class="mermaid-diagram-wrapper">
 
 ```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#E0E8F0',
+    'primaryTextColor': '#000000',
+    'primaryBorderColor': '#B0C5D8',
+    'lineColor': '#B0C5D8',
+    'secondaryColor': '#D5E8E0',
+    'background': '#FFFFFF',
+    'mainBkg': '#F8F8F8',
+    'secondBkg': '#F0F0F0',
+    'darkMode': false,
+    'fontFamily': 'Arial, sans-serif',
+    'fontSize': '14px',
+    'textColor': '#000000',
+    'nodeBkg': '#F5F5F5',
+    'nodeBorder': '#B0C5D8',
+    'clusterBkg': '#FAFAFA',
+    'clusterBorder': '#B0C5D8',
+    'defaultLinkColor': '#B0C5D8'
+  }
+}}%%
 graph LR
     A[Opportunity Closed] --> B{Outcome}
     B -->|Won| C[Win Analysis]
@@ -78,6 +100,28 @@ graph LR
 <div class="mermaid-diagram-wrapper">
 
 ```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#E0E8F0',
+    'primaryTextColor': '#000000',
+    'primaryBorderColor': '#B0C5D8',
+    'lineColor': '#B0C5D8',
+    'secondaryColor': '#D5E8E0',
+    'background': '#FFFFFF',
+    'mainBkg': '#F8F8F8',
+    'secondBkg': '#F0F0F0',
+    'darkMode': false,
+    'fontFamily': 'Arial, sans-serif',
+    'fontSize': '14px',
+    'textColor': '#000000',
+    'nodeBkg': '#F5F5F5',
+    'nodeBorder': '#B0C5D8',
+    'clusterBkg': '#FAFAFA',
+    'clusterBorder': '#B0C5D8',
+    'defaultLinkColor': '#B0C5D8'
+  }
+}}%%
 pie title Win Factors Distribution (n=127 deals)
     "Speed of Deployment" : 32
     "Technical Superiority" : 24
@@ -137,6 +181,28 @@ pie title Win Factors Distribution (n=127 deals)
 <div class="mermaid-diagram-wrapper">
 
 ```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#E0E8F0',
+    'primaryTextColor': '#000000',
+    'primaryBorderColor': '#B0C5D8',
+    'lineColor': '#B0C5D8',
+    'secondaryColor': '#D5E8E0',
+    'background': '#FFFFFF',
+    'mainBkg': '#F8F8F8',
+    'secondBkg': '#F0F0F0',
+    'darkMode': false,
+    'fontFamily': 'Arial, sans-serif',
+    'fontSize': '14px',
+    'textColor': '#000000',
+    'nodeBkg': '#F5F5F5',
+    'nodeBorder': '#B0C5D8',
+    'clusterBkg': '#FAFAFA',
+    'clusterBorder': '#B0C5D8',
+    'defaultLinkColor': '#B0C5D8'
+  }
+}}%%
 graph TD
     A[Industry Win Rates] --> B[Financial Services: 74%]
     A --> C[Healthcare: 71%]
@@ -162,6 +228,28 @@ graph TD
 <div class="mermaid-diagram-wrapper">
 
 ```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#E0E8F0',
+    'primaryTextColor': '#000000',
+    'primaryBorderColor': '#B0C5D8',
+    'lineColor': '#B0C5D8',
+    'secondaryColor': '#D5E8E0',
+    'background': '#FFFFFF',
+    'mainBkg': '#F8F8F8',
+    'secondBkg': '#F0F0F0',
+    'darkMode': false,
+    'fontFamily': 'Arial, sans-serif',
+    'fontSize': '14px',
+    'textColor': '#000000',
+    'nodeBkg': '#F5F5F5',
+    'nodeBorder': '#B0C5D8',
+    'clusterBkg': '#FAFAFA',
+    'clusterBorder': '#B0C5D8',
+    'defaultLinkColor': '#B0C5D8'
+  }
+}}%%
 pie title Loss Factors Distribution (n=59 deals)
     "Price/Budget Constraints" : 21
     "Incumbent Advantage" : 16
@@ -238,6 +326,28 @@ pie title Loss Factors Distribution (n=59 deals)
 <div class="mermaid-diagram-wrapper">
 
 ```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#E0E8F0',
+    'primaryTextColor': '#000000',
+    'primaryBorderColor': '#B0C5D8',
+    'lineColor': '#B0C5D8',
+    'secondaryColor': '#D5E8E0',
+    'background': '#FFFFFF',
+    'mainBkg': '#F8F8F8',
+    'secondBkg': '#F0F0F0',
+    'darkMode': false,
+    'fontFamily': 'Arial, sans-serif',
+    'fontSize': '14px',
+    'textColor': '#000000',
+    'nodeBkg': '#F5F5F5',
+    'nodeBorder': '#B0C5D8',
+    'clusterBkg': '#FAFAFA',
+    'clusterBorder': '#B0C5D8',
+    'defaultLinkColor': '#B0C5D8'
+  }
+}}%%
 graph TD
     subgraph "Market Position"
         A[High Performance/High Price]
@@ -276,6 +386,28 @@ graph TD
 <div class="mermaid-diagram-wrapper">
 
 ```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#E0E8F0',
+    'primaryTextColor': '#000000',
+    'primaryBorderColor': '#B0C5D8',
+    'lineColor': '#B0C5D8',
+    'secondaryColor': '#D5E8E0',
+    'background': '#FFFFFF',
+    'mainBkg': '#F8F8F8',
+    'secondBkg': '#F0F0F0',
+    'darkMode': false,
+    'fontFamily': 'Arial, sans-serif',
+    'fontSize': '14px',
+    'textColor': '#000000',
+    'nodeBkg': '#F5F5F5',
+    'nodeBorder': '#B0C5D8',
+    'clusterBkg': '#FAFAFA',
+    'clusterBorder': '#B0C5D8',
+    'defaultLinkColor': '#B0C5D8'
+  }
+}}%%
 graph LR
     subgraph "2023"
         A1[1. Features]
@@ -342,6 +474,28 @@ graph LR
 <div class="mermaid-diagram-wrapper">
 
 ```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#E0E8F0',
+    'primaryTextColor': '#000000',
+    'primaryBorderColor': '#B0C5D8',
+    'lineColor': '#B0C5D8',
+    'secondaryColor': '#D5E8E0',
+    'background': '#FFFFFF',
+    'mainBkg': '#F8F8F8',
+    'secondBkg': '#F0F0F0',
+    'darkMode': false,
+    'fontFamily': 'Arial, sans-serif',
+    'fontSize': '14px',
+    'textColor': '#000000',
+    'nodeBkg': '#F5F5F5',
+    'nodeBorder': '#B0C5D8',
+    'clusterBkg': '#FAFAFA',
+    'clusterBorder': '#B0C5D8',
+    'defaultLinkColor': '#B0C5D8'
+  }
+}}%%
 gantt
     title Win Rate Improvement Roadmap
     dateFormat  YYYY-MM-DD
@@ -407,6 +561,28 @@ gantt
 <div class="mermaid-diagram-wrapper">
 
 ```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#E0E8F0',
+    'primaryTextColor': '#000000',
+    'primaryBorderColor': '#B0C5D8',
+    'lineColor': '#B0C5D8',
+    'secondaryColor': '#D5E8E0',
+    'background': '#FFFFFF',
+    'mainBkg': '#F8F8F8',
+    'secondBkg': '#F0F0F0',
+    'darkMode': false,
+    'fontFamily': 'Arial, sans-serif',
+    'fontSize': '14px',
+    'textColor': '#000000',
+    'nodeBkg': '#F5F5F5',
+    'nodeBorder': '#B0C5D8',
+    'clusterBkg': '#FAFAFA',
+    'clusterBorder': '#B0C5D8',
+    'defaultLinkColor': '#B0C5D8'
+  }
+}}%%
 graph TD
     A[Overall Win Rate] --> B[Current: 68%]
     B --> C[Target: 75%]
@@ -455,6 +631,28 @@ graph TD
 <div class="mermaid-diagram-wrapper">
 
 ```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#E0E8F0',
+    'primaryTextColor': '#000000',
+    'primaryBorderColor': '#B0C5D8',
+    'lineColor': '#B0C5D8',
+    'secondaryColor': '#D5E8E0',
+    'background': '#FFFFFF',
+    'mainBkg': '#F8F8F8',
+    'secondBkg': '#F0F0F0',
+    'darkMode': false,
+    'fontFamily': 'Arial, sans-serif',
+    'fontSize': '14px',
+    'textColor': '#000000',
+    'nodeBkg': '#F5F5F5',
+    'nodeBorder': '#B0C5D8',
+    'clusterBkg': '#FAFAFA',
+    'clusterBorder': '#B0C5D8',
+    'defaultLinkColor': '#B0C5D8'
+  }
+}}%%
 graph TB
     subgraph "Q4 2024 Performance"
         A[Win Rate: 68%<br/>+8% QoQ]
@@ -485,6 +683,28 @@ graph TB
 <div class="mermaid-diagram-wrapper">
 
 ```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#E0E8F0',
+    'primaryTextColor': '#000000',
+    'primaryBorderColor': '#B0C5D8',
+    'lineColor': '#B0C5D8',
+    'secondaryColor': '#D5E8E0',
+    'background': '#FFFFFF',
+    'mainBkg': '#F8F8F8',
+    'secondBkg': '#F0F0F0',
+    'darkMode': false,
+    'fontFamily': 'Arial, sans-serif',
+    'fontSize': '14px',
+    'textColor': '#000000',
+    'nodeBkg': '#F5F5F5',
+    'nodeBorder': '#B0C5D8',
+    'clusterBkg': '#FAFAFA',
+    'clusterBorder': '#B0C5D8',
+    'defaultLinkColor': '#B0C5D8'
+  }
+}}%%
 graph LR
     subgraph "Team Performance"
         A[Enterprise Team<br/>Win Rate: 72%]
@@ -506,6 +726,28 @@ graph LR
 <div class="mermaid-diagram-wrapper">
 
 ```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#E0E8F0',
+    'primaryTextColor': '#000000',
+    'primaryBorderColor': '#B0C5D8',
+    'lineColor': '#B0C5D8',
+    'secondaryColor': '#D5E8E0',
+    'background': '#FFFFFF',
+    'mainBkg': '#F8F8F8',
+    'secondBkg': '#F0F0F0',
+    'darkMode': false,
+    'fontFamily': 'Arial, sans-serif',
+    'fontSize': '14px',
+    'textColor': '#000000',
+    'nodeBkg': '#F5F5F5',
+    'nodeBorder': '#B0C5D8',
+    'clusterBkg': '#FAFAFA',
+    'clusterBorder': '#B0C5D8',
+    'defaultLinkColor': '#B0C5D8'
+  }
+}}%%
 line
     title Win Rate Improvement Trajectory
     x-axis ["Q1-23", "Q2-23", "Q3-23", "Q4-23", "Q1-24", "Q2-24", "Q3-24", "Q4-24"]
