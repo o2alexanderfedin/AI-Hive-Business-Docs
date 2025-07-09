@@ -41,7 +41,7 @@ For detailed metrics, see [Core Advantages Reference](data/core-advantages.md) a
 
 ## Strategic Priorities
 
-### Immediate (Q1 2025)
+### Immediate (Q3 2025)
 1. **Lock in Cursor's dissatisfied users** - Capitalize on pricing backlash
 2. **Dominate bootstrap startup segment** - No competition at our price point
 3. **Build case study library** - Prove value with concrete examples

@@ -46,34 +46,34 @@ Our GTM strategy is built on three core principles:
 timeline
     title Market Entry Sequence 2025-2027
 
-    Q1 2025 : Bootstrapped Startups
+    Q3 2025 : Bootstrapped Startups
             : Direct Sales Launch
             : $1.5K MVP Campaign
 
-    Q2 2025 : Funded Startups
+    Q4 2025 : Funded Startups
             : Speed-to-Market Focus
             : Partnership Program
 
-    Q3 2025 : Dev Agencies
+    Q1 2026 : Dev Agencies
             : White-Label Launch
             : Margin Enhancement
 
-    Q4 2025 : Tech Consultancies
+    Q2 2026 : Tech Consultancies
             : Enterprise Pilots
             : Innovation Labs
 
-    Q1 2026 : SMB Market
+    Q3 2026 : SMB Market
             : Channel Partners
             : Self-Service Platform
 
-    Q2 2026 : Enterprise
+    Q4 2026 : Enterprise
             : Strategic Accounts
             : Compliance Ready
 ```
 
 </div>
 
-### Phase 1: Bootstrapped Startups (Q1 2025)
+### Phase 1: Bootstrapped Startups (Q3 2025)
 
 #### Entry Strategy
 - **Beachhead**: Non-technical founders with validated ideas
@@ -131,7 +131,7 @@ graph LR
 - Develop case studies
 - Measure satisfaction
 
-### Phase 2: Funded Startups (Q2 2025)
+### Phase 2: Funded Startups (Q4 2025)
 
 #### Entry Strategy
 - **Positioning**: "Extend Your Runway by 10x"
@@ -152,7 +152,7 @@ graph LR
 
 </div>
 
-### Phase 3: Development Agencies (Q3 2025)
+### Phase 3: Development Agencies (Q1 2026)
 
 #### Entry Strategy
 - **Positioning**: "Your Secret Weapon for 90% Margins"
@@ -208,7 +208,7 @@ graph TD
 
 </div>
 
-### Phase 4: Enterprise Innovation Labs (Q4 2025)
+### Phase 4: Enterprise Innovation Labs (Q2 2026)
 
 #### Entry Strategy
 - **Positioning**: "Innovation at Enterprise Scale"
