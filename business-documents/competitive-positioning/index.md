@@ -63,24 +63,61 @@ O2.services AI Hive represents a paradigm shift in software development, positio
 <div class="mermaid-diagram-wrapper">
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#A8B8D0', 'primaryTextColor': '#000000', 'primaryBorderColor': '#8A9AB2', 'lineColor': '#8A9AB2', 'secondaryColor': '#5DBCB6', 'tertiaryColor': '#84D4F5', 'background': '#F5F5F5', 'mainBkg': '#A8B8D0', 'fontFamily': 'Arial, sans-serif'}}}%%
-graph TD
-    A[Traditional Development] --> B[AI-Assisted Development]
-    B --> C[AI Hive Autonomous Development]
-
-    A1[Human Teams] --> A
-    A2[$300K+ per project] --> A
-    A3[3-6 months] --> A
-
-    B1[Human + AI Tools] --> B
-    B2[$150K+ per project] --> B
-    B3[2-3 months] --> B
-
-    C1[Autonomous AI Hive] --> C
-    C2[$200-1500 per project] --> C
-    C3[2-3 days] --> C
-
-    style C fill:#4CAF50,color:#fff
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#E2E8F0',
+    'primaryTextColor': '#000000',
+    'primaryBorderColor': '#D5DDE6',
+    'lineColor': '#D5DDE6',
+    'secondaryColor': '#D0EDE8',
+    'secondaryTextColor': '#000000',
+    'secondaryBorderColor': '#C0E2DC',
+    'tertiaryColor': '#F5E0E0',
+    'tertiaryTextColor': '#000000',
+    'tertiaryBorderColor': '#E5CCCC',
+    'background': '#FAFAFA',
+    'mainBkg': '#E2E8F0',
+    'secondBkg': '#D0EDE8',
+    'tertiaryBkg': '#F5E0E0',
+    'mainContrastColor': '#000000',
+    'darkMode': false,
+    'fontFamily': 'Arial, sans-serif',
+    'fontSize': '14px',
+    'labelBackground': '#F5F5F5',
+    'textColor': '#000000',
+    'nodeBkg': '#E8E6F2',
+    'nodeTextColor': '#000000',
+    'nodeBorder': '#DDD9E8',
+    'clusterBkg': '#F2E5E9',
+    'clusterBorder': '#E8D5DB',
+    'defaultLinkColor': '#C5D0DD',
+    'titleColor': '#000000',
+    'edgeLabelBackground': '#FAFAFA'
+  }
+}}%%
+mindmap
+  root((Market Disruption))
+    AI Hive Revolution
+      Autonomous AI Hive
+      $200-1500 per project
+      2-3 days delivery
+      Unlimited scale
+      Zero human dependency
+      24/7 operation
+      Guaranteed quality
+    AI-Assisted Development
+      Human + AI Tools
+      $150K+ per project
+      2-3 months delivery
+      Productivity gains
+      Still human-dependent
+    Traditional Development
+      Human Teams
+      $300K+ per project
+      3-6 months delivery
+      Limited scalability
+      High overhead
 ```
 
 </div>
