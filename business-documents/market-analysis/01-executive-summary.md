@@ -52,26 +52,27 @@ Based on adoption barriers analysis, our go-to-market prioritizes:
 4. **Enterprises** (Highest Barrier): Innovation lab pilots
 
 ### Revenue Projections
+*Note: AI Swarm launched in May 2025 (2 months ago). Projections below are from current position.*
 
 #### Conservative Scenario (Startup Focus Only)
 Limited to bootstrap market with minimal enterprise adoption:
-- **Year 1**: $2-5M (100 startups at $20-50K/year)
-- **Year 3**: $20-50M (1,000 startups at $20-50K/year)
-- **Year 5**: $100-250M (5,000 startups at $20-50K/year)
+- **Year 1 (by May 2026)**: $2-5M (100 startups at $20-50K/year)
+- **Year 3 (by May 2028)**: $20-50M (1,000 startups at $20-50K/year)
+- **Year 5 (by May 2030)**: $100-250M (5,000 startups at $20-50K/year)
 
 #### Realistic Scenario (Multi-Segment Adoption)
 Progressive adoption across startups, agencies, consultancies, and government:
-- **Year 1**: $5-15M
+- **Year 1 (by May 2026)**: $5-15M
   - Startups: $3M (150 × $20K)
   - Agencies: $2M (20 × $100K)
   - Consultancies: Early pilots
   - Government: Security assessments
-- **Year 3**: $75-150M
+- **Year 3 (by May 2028)**: $75-150M
   - Startups: $25M (1,000 × $25K)
   - Agencies: $30M (200 × $150K)
   - Consultancies: $20M (40 × $500K)
   - Government: $5M (10 agencies × $500K)
-- **Year 5**: $400-650M
+- **Year 5 (by May 2030)**: $400-650M
   - Startups: $100M (4,000 × $25K)
   - Agencies: $150M (750 × $200K)
   - Consultancies: $100M (100 × $1M)
@@ -80,14 +81,14 @@ Progressive adoption across startups, agencies, consultancies, and government:
 
 #### Optimistic Scenario (Market Leadership)
 Rapid adoption across all segments including enterprise and government:
-- **Year 1**: $15-30M (aggressive startup acquisition + early enterprise/gov pilots)
-- **Year 3**: $200-450M
+- **Year 1 (by May 2026)**: $15-30M (aggressive startup acquisition + early enterprise/gov pilots)
+- **Year 3 (by May 2028)**: $200-450M
   - Startups: $50M (2,000 × $25K)
   - Agencies: $75M (500 × $150K)
   - Consultancies: $50M (100 × $500K)
   - Enterprise: $25M (25 × $1M)
   - Government: $25M (Federal pilot programs)
-- **Year 5**: $1-2.5B
+- **Year 5 (by May 2030)**: $1-2.5B
   - Startups: $200M (8,000 × $25K)
   - Agencies: $300M (1,500 × $200K)
   - Consultancies: $300M (300 × $1M)

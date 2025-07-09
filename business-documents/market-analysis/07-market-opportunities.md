@@ -597,16 +597,17 @@ graph TD
 gantt
     title Market Entry Timeline
     dateFormat  YYYY-MM-DD
-    section Phase 1
-    Startup Pilots          :2024-01-01, 60d
-    Success Stories         :2024-02-01, 90d
-    Community Building      :2024-01-15, 180d
-    section Phase 2
-    Agency Partnerships     :2024-04-01, 120d
-    White-label Launch      :2024-05-01, 150d
-    section Phase 3
-    Enterprise Pilots       :2024-07-01, 180d
-    Compliance Certs        :2024-08-01, 120d
+    section Phase 1 (Months 1-6)
+    Initial Development     :done, 2025-05-01, 60d
+    Startup Pilots          :active, 2025-07-01, 60d
+    Success Stories         :2025-08-01, 90d
+    Community Building      :2025-07-15, 180d
+    section Phase 2 (Months 6-12)
+    Agency Partnerships     :2025-10-01, 120d
+    White-label Launch      :2025-11-01, 150d
+    section Phase 3 (Year 2)
+    Enterprise Pilots       :2026-01-01, 180d
+    Compliance Certs        :2026-02-01, 120d
 ```
 
 </div>

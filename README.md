@@ -187,10 +187,10 @@ When contributing to this repository:
 ## 🗺️ Roadmap
 
 ### Completed ✅
-- Q3 2024: Initial pitch deck "From Team to Agents"
-- Q4 2024: Proven AI capabilities with real projects (OCRChecksServer, angular-cas-disot)
-- Q1 2025: Market analysis showing $5.7B TAM opportunity
-- Q2 2025: Comprehensive pricing comparisons across global markets
+- May 2025: Company founded and initial AI Swarm development
+- June 2025: Initial pitch deck "From Team to Agents" created
+- June 2025: First AI capabilities demonstrated with pilot projects
+- July 2025: Comprehensive market analysis completed ($5B initial target market)
 
 ### In Progress 🚀
 - Q3 2025: Enterprise pilot programs with Fortune 500 companies
