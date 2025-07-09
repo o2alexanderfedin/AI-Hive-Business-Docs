@@ -18,6 +18,7 @@ O2.services AI Hive has created a new market category - **Autonomous Development
 - **Competitive Advantage**: No human developers needed (vs. all competitors)
 
 ### 2. Core Metrics
+- **Technology Coverage**: Language & framework agnostic - works with ANY technology
 - **Cost Advantage**: 47-1,612x cheaper than alternatives
 - **Speed Advantage**: 2-3 days vs 3-6 months delivery
 - **Quality Guarantee**: 80%+ test coverage on all projects
@@ -42,7 +43,7 @@ For detailed metrics, see [Core Advantages Reference](data/core-advantages.md) a
 3. **Build case study library** - Prove value with concrete examples
 
 ### Near-term (2025)
-1. **Expand language/framework support** - From 10 to 25+ languages
+1. **Optimize framework performance** - Already supports ALL languages
 2. **Launch partner program** - White-label for agencies
 3. **Enterprise features** - Security, compliance, custom workflows
 
