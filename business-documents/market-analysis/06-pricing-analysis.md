@@ -154,7 +154,7 @@ pie title "Development Pricing Models Usage 2024"
 | Traditional Team | $0 | $50,000,000 | **$50,000,000** | Baseline |
 | GitHub Copilot | $234,000 | $50,000,000 | **$50,234,000** | -0.5% |
 | Cursor Business | $120,000 | $50,000,000 | **$50,120,000** | -0.2% |
-| **AI Swarm** | **$36,500-182,500** | **$0** | **$36,500-182,500** | **99.6%** |
+| **🟢 AI Swarm** | **$36,500-182,500** | **$0** | **$36,500-182,500** | **99.6%** |
 
 </div>
 
@@ -170,8 +170,8 @@ config:
   themeVariables:
     xyChart:
       backgroundColor: transparent
-      plotColorPalette: "#E57373, #FFD93D, #6BCF7F"
-      plotBorderColor: "#D32F2F, #E6C230, #4CAF50"
+      plotColorPalette: "#E5A3A3, #FFD93D, #6BCF7F"
+      plotBorderColor: "#000000, #E6C230, #4CAF50"
       plotBorderWidth: 2
       titleColor: "#000000"
       xAxisLabelColor: "#000000"
@@ -179,7 +179,7 @@ config:
       xAxisTickColor: "#000000"
       xAxisLineColor: "#000000"
       yAxisLabelColor: "#000000"
-      yAxisTitleColor: "#000000"
+      yAxisTitleColor: "#A00000"
       yAxisTickColor: "#000000"
       yAxisLineColor: "#000000"
 ---
@@ -193,7 +193,9 @@ xychart-beta horizontal
 
 </div>
 
-*Color Legend: 🔴 Red = Developer Costs, 🟡 Yellow = Tool/Platform Costs, 🟢 Green = AI Swarm (no developers needed)*
+*Color Legend: 🔴 Red = Developer Costs, 🟡 Yellow = Tool/Platform Costs*
+
+*Note: AI Swarm is highlighted with 🟢 green emoji in the comparison table above due to xychart limitations for individual label colors.*
 
 ## Cost-per-Project Analysis
 
