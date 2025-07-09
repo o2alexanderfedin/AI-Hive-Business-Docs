@@ -185,7 +185,7 @@ This competitive positioning analysis is maintained as a living document and upd
 - Technology advancements
 - Strategic adjustments
 
-**Last Updated**: January 2025
+**Last Updated**: January 2025<br/>
 **Next Update**: February 2025
 
 ---
@@ -194,8 +194,8 @@ This competitive positioning analysis is maintained as a living document and upd
 
 For questions about competitive positioning:
 
-**O2.services Strategy Team**
-Email: strategy@o2.services
+**O2.services Strategy Team**<br/>
+Email: af+strategy@o2.services<br/>
 Phone: +1 (425) 351-1652
 
 ---
