@@ -58,48 +58,80 @@ Our positioning strategy leverages three core disruption vectors:
     'edgeLabelBackground': '#F5F5F5'
   }
 }}%%
-graph LR
-    subgraph "Customer Jobs"
-        A1[Build Software Products]
-        A2[Launch MVPs Quickly]
-        A3[Scale Development]
-        A4[Control Costs]
-        A5[Ensure Quality]
+graph TB
+    subgraph VP[" "]
+        subgraph CP["CUSTOMER PROFILE"]
+            direction TB
+
+            subgraph Jobs["Customer Jobs"]
+                J1[Build software products]
+                J2[Launch MVPs rapidly]
+                J3[Scale development capacity]
+                J4[Control project costs]
+                J5[Ensure code quality]
+                J6[Meet tight deadlines]
+            end
+
+            subgraph Pains["Pain Points"]
+                P1[$300K+ project costs]
+                P2[3-6 month timelines]
+                P3[Developer shortage]
+                P4[Quality inconsistency]
+                P5[Scaling bottlenecks]
+                P6[Hiring challenges]
+            end
+
+            subgraph Gains["Desired Gains"]
+                G1[10x cost reduction]
+                G2[Days not months]
+                G3[Unlimited capacity]
+                G4[Predictable quality]
+                G5[Zero management]
+                G6[24/7 availability]
+            end
+        end
+
+        subgraph VM["VALUE MAP"]
+            direction TB
+
+            subgraph Products["Products & Services"]
+                S1[AI Hive Platform]
+                S2[Autonomous Agents]
+                S3[Full SDLC Coverage]
+                S4[Quality Automation]
+                S5[Instant Deployment]
+                S6[Living Documentation]
+            end
+
+            subgraph Relievers["Pain Relievers"]
+                R1[$1.5K vs $300K]
+                R2[2-3 days delivery]
+                R3[No hiring needed]
+                R4[80%+ test coverage]
+                R5[Infinite scaling]
+                R6[Zero maintenance]
+            end
+
+            subgraph Creators["Gain Creators"]
+                C1[99.5% cost savings]
+                C2[50x speed increase]
+                C3[Instant team ready]
+                C4[Guaranteed quality]
+                C5[Focus on business]
+                C6[Bootstrap enabler]
+            end
+        end
     end
 
-    subgraph "Pain Points"
-        B1[High Development Costs]
-        B2[Long Time to Market]
-        B3[Developer Shortage]
-        B4[Quality Issues]
-        B5[Scaling Challenges]
-    end
-
-    subgraph "AI Hive Solutions"
-        C1[99% Cost Reduction]
-        C2[50x Faster Delivery]
-        C3[Unlimited AI Agents]
-        C4[80% Test Coverage]
-        C5[Instant Scaling]
-    end
-
-    A1 --> C1
-    A2 --> C2
-    A3 --> C3
-    A4 --> C1
-    A5 --> C4
-
-    B1 --> C1
-    B2 --> C2
-    B3 --> C3
-    B4 --> C4
-    B5 --> C5
-
-    style C1 fill:#4CAF50,color:#fff
-    style C2 fill:#4CAF50,color:#fff
-    style C3 fill:#4CAF50,color:#fff
-    style C4 fill:#4CAF50,color:#fff
-    style C5 fill:#4CAF50,color:#fff
+    style VP fill:#FAFAFA,stroke:#E0E0E0,stroke-width:0px
+    style CP fill:#F5E0E0,stroke:#E5CCCC,stroke-width:2px
+    style VM fill:#E2E8F0,stroke:#D5DDE6,stroke-width:2px
+    style Jobs fill:#F8E8E8,stroke:#EDDADA,stroke-width:1px
+    style Pains fill:#F5E0E0,stroke:#E8D0D0,stroke-width:1px
+    style Gains fill:#F2E5E5,stroke:#E5D5D5,stroke-width:1px
+    style Products fill:#EBF0F7,stroke:#DEE5EF,stroke-width:1px
+    style Relievers fill:#E8EDF5,stroke:#DBE2ED,stroke-width:1px
+    style Creators fill:#E5EBF3,stroke:#D8E0EB,stroke-width:1px
 ```
 
 </div>
@@ -309,7 +341,7 @@ graph LR
     'tertiaryBkg': '#84D4F5'
   }
 }}%%
-graph TD
+graph LR
     subgraph "Capability Comparison"
         A[Capability] --> B[Traditional Teams]
         A --> C[GitHub Copilot]
