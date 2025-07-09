@@ -185,7 +185,7 @@ config:
 ---
 xychart-beta horizontal
     title "Annual Cost Breakdown for 500 Developers (in millions)"
-    x-axis ["Traditional", "GitHub Copilot", "Cursor Business", "AI Swarm"]
+    x-axis ["Traditional", "GitHub Copilot", "Cursor Business", "🟢 AI Swarm"]
     y-axis "Cost ($M)" 0 --> 55
     bar "Developer Costs" [50.00, 50.00, 50.00, 0]
     bar "Tool/Platform Costs" [0, 0.234, 0.12, 0.18]
@@ -194,8 +194,6 @@ xychart-beta horizontal
 </div>
 
 *Color Legend: 🔴 Red = Developer Costs, 🟡 Yellow = Tool/Platform Costs*
-
-*Note: AI Swarm is highlighted with 🟢 green emoji in the comparison table above due to xychart limitations for individual label colors.*
 
 ## Cost-per-Project Analysis
 
