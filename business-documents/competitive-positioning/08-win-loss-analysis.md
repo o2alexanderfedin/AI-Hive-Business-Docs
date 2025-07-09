@@ -410,21 +410,21 @@ graph TD
 }}%%
 graph LR
     subgraph "2023"
-        A1[1. Features]
-        A2[2. Price]
-        A3[3. Brand]
+        A1[Features - #1]
+        A2[Price - #2]
+        A3[Brand - #3]
     end
 
     subgraph "2024"
-        B1[1. Time to Value]
-        B2[2. Total Cost]
-        B3[3. Reliability]
+        B1[Time to Value - #1]
+        B2[Total Cost - #2]
+        B3[Reliability - #3]
     end
 
     subgraph "2025 Projection"
-        C1[1. Business Outcomes]
-        C2[2. Autonomous Capability]
-        C3[3. Ecosystem]
+        C1[Business Outcomes - #1]
+        C2[Autonomous Capability - #2]
+        C3[Ecosystem - #3]
     end
 
     A1 --> B1
@@ -470,52 +470,6 @@ graph LR
 ## 6. Improvement Recommendations
 
 ### 6.1 Strategic Improvements
-
-<div class="mermaid-diagram-wrapper">
-
-```mermaid
-%%{init: {
-  'theme': 'base',
-  'themeVariables': {
-    'primaryColor': '#E0E8F0',
-    'primaryTextColor': '#000000',
-    'primaryBorderColor': '#B0C5D8',
-    'lineColor': '#B0C5D8',
-    'secondaryColor': '#D5E8E0',
-    'background': '#FFFFFF',
-    'mainBkg': '#F8F8F8',
-    'secondBkg': '#F0F0F0',
-    'darkMode': false,
-    'fontFamily': 'Arial, sans-serif',
-    'fontSize': '14px',
-    'textColor': '#000000',
-    'nodeBkg': '#F5F5F5',
-    'nodeBorder': '#B0C5D8',
-    'clusterBkg': '#FAFAFA',
-    'clusterBorder': '#B0C5D8',
-    'defaultLinkColor': '#B0C5D8'
-  }
-}}%%
-gantt
-    title Win Rate Improvement Roadmap
-    dateFormat  YYYY-MM-DD
-    section Quick Wins
-    Enhance POC Process           :2024-01-01, 30d
-    Value Calculator Tool         :2024-01-15, 45d
-    Competitive Battle Cards      :2024-02-01, 30d
-
-    section Medium Term
-    Industry Solutions            :2024-03-01, 90d
-    Pricing Flexibility           :2024-04-01, 60d
-    Reference Program             :2024-05-01, 60d
-
-    section Long Term
-    Feature Gap Closure           :2024-06-01, 120d
-    Partner Ecosystem             :2024-07-01, 90d
-    Market Positioning            :2024-09-01, 60d
-```
-
-</div>
 
 ### 6.2 Tactical Actions by Loss Reason
 
