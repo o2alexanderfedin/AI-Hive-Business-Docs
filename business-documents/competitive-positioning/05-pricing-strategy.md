@@ -7,7 +7,7 @@
 
 ## Executive Summary
 
-This document presents O2.services AI Swarm's comprehensive pricing strategy, based on latest 2025 market data and competitive intelligence. Our value-based pricing model demonstrates **70-90% cost savings** compared to traditional development approaches while delivering **10x faster time-to-market**. The analysis reveals optimal price positioning that captures value while maintaining competitive advantage across all market segments.
+This document presents O2.services AI Hive's comprehensive pricing strategy, based on latest 2025 market data and competitive intelligence. Our value-based pricing model demonstrates **70-90% cost savings** compared to traditional development approaches while delivering **10x faster time-to-market**. The analysis reveals optimal price positioning that captures value while maintaining competitive advantage across all market segments.
 
 **Key Strategic Insights:**
 - **$299-$2,999/month** pricing tiers capture 85% of addressable market
@@ -41,7 +41,7 @@ graph TD
         LC3[Bubble: $25-$475/month]
     end
 
-    subgraph "AI Swarm Pricing"
+    subgraph "AI Hive Pricing"
         AS1[Starter: $299/month]
         AS2[Professional: $999/month]
         AS3[Enterprise: $2,999/month]
@@ -65,7 +65,7 @@ graph TD
 | **Offshore Team** | $20,000-$40,000 | $240,000-$480,000 | Communication, quality issues | $300,000-$600,000 |
 | **AI Copilot Tools** | $100-$500 | $1,200-$6,000 | Still need developers | $145,000-$246,000 |
 | **Low-Code Platform** | $2,000-$10,000 | $24,000-$120,000 | Training, limitations, lock-in | $50,000-$200,000 |
-| **AI Swarm** | $299-$2,999 | $3,588-$35,988 | None - all inclusive | $3,588-$35,988 |
+| **AI Hive** | $299-$2,999 | $3,588-$35,988 | None - all inclusive | $3,588-$35,988 |
 
 ## 2. Our Pricing Strategy & Rationale
 
@@ -138,11 +138,11 @@ graph LR
 ```mermaid
 sankey-beta
 
-"Customer Investment" --> "AI Swarm Platform" 100
-"AI Swarm Platform" --> "Time Saved (70%)" 35
-"AI Swarm Platform" --> "Cost Reduced (25%)" 25
-"AI Swarm Platform" --> "Quality Improved (20%)" 20
-"AI Swarm Platform" --> "Risk Eliminated (20%)" 20
+"Customer Investment" --> "AI Hive Platform" 100
+"AI Hive Platform" --> "Time Saved (70%)" 35
+"AI Hive Platform" --> "Cost Reduced (25%)" 25
+"AI Hive Platform" --> "Quality Improved (20%)" 20
+"AI Hive Platform" --> "Risk Eliminated (20%)" 20
 "Time Saved (70%)" --> "Faster Revenue" 35
 "Cost Reduced (25%)" --> "Direct Savings" 25
 "Quality Improved (20%)" --> "Less Rework" 20
@@ -153,7 +153,7 @@ sankey-beta
 
 ### Value Quantification Matrix
 
-| Value Driver | Traditional Cost | AI Swarm Cost | Value Created | Customer Keeps |
+| Value Driver | Traditional Cost | AI Hive Cost | Value Created | Customer Keeps |
 |-------------|-----------------|---------------|---------------|----------------|
 | **Development Time** | 6 months @ $60k/mo = $360k | 2 weeks @ $999 = $999 | $359,001 | 99.7% |
 | **Quality Assurance** | $50k testing budget | Included | $50,000 | 100% |
@@ -177,9 +177,9 @@ scatter
     quadrant-3 "Budget Options"
     quadrant-4 "Overpriced"
 
-    "AI Swarm Starter": [299, 85]
-    "AI Swarm Pro": [999, 92]
-    "AI Swarm Enterprise": [2999, 98]
+    "AI Hive Starter": [299, 85]
+    "AI Hive Pro": [999, 92]
+    "AI Hive Enterprise": [2999, 98]
     "Senior Developer": [15000, 60]
     "Dev Team": [60000, 70]
     "Offshore Team": [25000, 40]
@@ -197,19 +197,19 @@ scatter
 graph TD
     subgraph "Enterprise Segment"
         E1[Traditional: $1M+/year]
-        E2[AI Swarm: $36k/year]
+        E2[AI Hive: $36k/year]
         E3[96% Savings]
     end
 
     subgraph "Mid-Market Segment"
         M1[Traditional: $500k/year]
-        M2[AI Swarm: $12k/year]
+        M2[AI Hive: $12k/year]
         M3[97% Savings]
     end
 
     subgraph "SMB Segment"
         S1[Traditional: $200k/year]
-        S2[AI Swarm: $3.6k/year]
+        S2[AI Hive: $3.6k/year]
         S3[98% Savings]
     end
 
@@ -296,7 +296,7 @@ graph LR
 
 ```mermaid
 timeline
-    title AI Swarm Pricing Evolution 2025-2027
+    title AI Hive Pricing Evolution 2025-2027
 
     2025 Q1 : Launch Pricing
             : Starter $299
@@ -444,7 +444,7 @@ graph TD
         T2[Offshore Team: $480,000]
         T3[Freelancers: $240,000]
         T4[Low-Code: $120,000]
-        T5[AI Swarm Pro: $11,988]
+        T5[AI Hive Pro: $11,988]
     end
 
     subgraph "Hidden Costs"
@@ -460,7 +460,7 @@ graph TD
         I2[Offshore: $580,000]
         I3[Freelance: $320,000]
         I4[Low-Code: $170,000]
-        I5[AI Swarm: $11,988]
+        I5[AI Hive: $11,988]
     end
 
     T1 --> H1 --> I1
@@ -482,8 +482,8 @@ graph TD
 radar
     title Value Delivery Comparison (0-100 scale)
     labels [Speed, Quality, Cost, Scalability, Reliability, Innovation]
-    series [AI Swarm, Traditional Team, Offshore, Low-Code, Freelancers]
-    AI Swarm [95, 90, 98, 100, 95, 100]
+    series [AI Hive, Traditional Team, Offshore, Low-Code, Freelancers]
+    AI Hive [95, 90, 98, 100, 95, 100]
     Traditional Team [40, 80, 20, 30, 70, 60]
     Offshore [30, 50, 60, 40, 40, 30]
     Low-Code [70, 60, 70, 50, 80, 40]

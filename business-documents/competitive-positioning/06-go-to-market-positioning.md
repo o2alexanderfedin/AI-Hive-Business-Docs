@@ -3,11 +3,11 @@
 <link rel="stylesheet" href="../../assets/css/styles.css">
 ---
 
-# AI Swarm Go-to-Market Positioning
+# AI Hive Go-to-Market Positioning
 
 ## Executive Summary
 
-This document outlines AI Swarm's comprehensive go-to-market positioning strategy, defining how we will enter and dominate each market segment, position our revolutionary autonomous development platform, and execute multi-channel strategies to achieve rapid market penetration and sustainable competitive advantage.
+This document outlines AI Hive's comprehensive go-to-market positioning strategy, defining how we will enter and dominate each market segment, position our revolutionary autonomous development platform, and execute multi-channel strategies to achieve rapid market penetration and sustainable competitive advantage.
 
 Our GTM strategy is built on three core principles:
 1. **Segment-Specific Entry**: Tailored approaches for each customer type
@@ -785,7 +785,7 @@ graph TD
   }
 }}%%
 graph LR
-    A[From] --> B[To AI Swarm]
+    A[From] --> B[To AI Hive]
 
     A --> C[Dev Team]
     A --> D[AI Tools]
