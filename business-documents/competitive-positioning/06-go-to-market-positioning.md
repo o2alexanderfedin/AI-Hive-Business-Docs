@@ -24,17 +24,23 @@ Our GTM strategy is built on three core principles:
 %%{init: {
   'theme': 'base',
   'themeVariables': {
-    'primaryColor': '#A8B8D0',
+    'primaryColor': '#E0E8F0',
     'primaryTextColor': '#000000',
-    'primaryBorderColor': '#8A9AB2',
-    'lineColor': '#8A9AB2',
-    'secondaryColor': '#5DBCB6',
+    'primaryBorderColor': '#B0C5D8',
+    'lineColor': '#B0C5D8',
+    'secondaryColor': '#D5E8E0',
     'secondaryTextColor': '#000000',
-    'secondaryBorderColor': '#3D9A94',
-    'tertiaryColor': '#84D4F5',
+    'secondaryBorderColor': '#A0C5B8',
+    'tertiaryColor': '#E0F0F8',
     'tertiaryTextColor': '#000000',
-    'tertiaryBorderColor': '#5ABCD8',
-    'background': '#F5F5F5'
+    'tertiaryBorderColor': '#B0D5E8',
+    'background': '#FFFFFF',
+    'mainBkg': '#F8F8F8',
+    'secondBkg': '#F0F0F0',
+    'darkMode': false,
+    'fontFamily': 'Arial, sans-serif',
+    'fontSize': '14px',
+    'textColor': '#000000'
   }
 }}%%
 timeline
@@ -82,13 +88,19 @@ timeline
 %%{init: {
   'theme': 'base',
   'themeVariables': {
-    'primaryColor': '#A8B8D0',
+    'primaryColor': '#E0E8F0',
     'primaryTextColor': '#000000',
-    'primaryBorderColor': '#8A9AB2',
-    'lineColor': '#8A9AB2',
-    'secondaryColor': '#5DBCB6',
-    'tertiaryColor': '#84D4F5',
-    'background': '#F5F5F5'
+    'primaryBorderColor': '#B0C5D8',
+    'lineColor': '#B0C5D8',
+    'secondaryColor': '#D5E8E0',
+    'tertiaryColor': '#E0F0F8',
+    'background': '#FFFFFF',
+    'mainBkg': '#F8F8F8',
+    'secondBkg': '#F0F0F0',
+    'darkMode': false,
+    'fontFamily': 'Arial, sans-serif',
+    'fontSize': '14px',
+    'textColor': '#000000'
   }
 }}%%
 graph LR
@@ -108,7 +120,7 @@ graph LR
     D --> D2[Office Hours]
     D --> D3[Peer Network]
 
-    style A fill:#4CAF50,color:#fff
+    style A fill:#81C784,color:#000000
 ```
 
 </div>
@@ -155,13 +167,19 @@ graph LR
 %%{init: {
   'theme': 'base',
   'themeVariables': {
-    'primaryColor': '#A8B8D0',
+    'primaryColor': '#E0E8F0',
     'primaryTextColor': '#000000',
-    'primaryBorderColor': '#8A9AB2',
-    'lineColor': '#8A9AB2',
-    'secondaryColor': '#5DBCB6',
-    'tertiaryColor': '#84D4F5',
-    'background': '#F5F5F5'
+    'primaryBorderColor': '#B0C5D8',
+    'lineColor': '#B0C5D8',
+    'secondaryColor': '#D5E8E0',
+    'tertiaryColor': '#E0F0F8',
+    'background': '#FFFFFF',
+    'mainBkg': '#F8F8F8',
+    'secondBkg': '#F0F0F0',
+    'darkMode': false,
+    'fontFamily': 'Arial, sans-serif',
+    'fontSize': '14px',
+    'textColor': '#000000'
   }
 }}%%
 graph TD
@@ -185,7 +203,7 @@ graph TD
 
     style E fill:#FFD700,color:#000
     style D fill:#C0C0C0,color:#000
-    style C fill:#CD7F32,color:#fff
+    style C fill:#D4A574,color:#000000
 ```
 
 </div>
@@ -220,16 +238,22 @@ graph TD
 %%{init: {
   'theme': 'base',
   'themeVariables': {
-    'primaryColor': '#A8B8D0',
+    'primaryColor': '#E0E8F0',
     'primaryTextColor': '#000000',
-    'primaryBorderColor': '#8A9AB2',
-    'lineColor': '#8A9AB2',
-    'secondaryColor': '#5DBCB6',
-    'tertiaryColor': '#84D4F5',
-    'background': '#F5F5F5'
+    'primaryBorderColor': '#B0C5D8',
+    'lineColor': '#B0C5D8',
+    'secondaryColor': '#D5E8E0',
+    'tertiaryColor': '#E0F0F8',
+    'background': '#FFFFFF',
+    'mainBkg': '#F8F8F8',
+    'secondBkg': '#F0F0F0',
+    'darkMode': false,
+    'fontFamily': 'Arial, sans-serif',
+    'fontSize': '14px',
+    'textColor': '#000000'
   }
 }}%%
-graph LR
+graph TD
     subgraph "Bootstrapped Startups"
         A1[Pain: No budget for dev]
         A2[Position: Affordable MVP]
@@ -259,10 +283,10 @@ graph LR
     C1 --> C2 --> C3
     D1 --> D2 --> D3
 
-    style A3 fill:#4CAF50,color:#fff
-    style B3 fill:#4CAF50,color:#fff
-    style C3 fill:#4CAF50,color:#fff
-    style D3 fill:#4CAF50,color:#fff
+    style A3 fill:#81C784,color:#000000
+    style B3 fill:#81C784,color:#000000
+    style C3 fill:#81C784,color:#000000
+    style D3 fill:#81C784,color:#000000
 ```
 
 </div>
@@ -289,13 +313,19 @@ graph LR
 %%{init: {
   'theme': 'base',
   'themeVariables': {
-    'primaryColor': '#A8B8D0',
+    'primaryColor': '#E0E8F0',
     'primaryTextColor': '#000000',
-    'primaryBorderColor': '#8A9AB2',
-    'lineColor': '#8A9AB2',
-    'secondaryColor': '#5DBCB6',
-    'tertiaryColor': '#84D4F5',
-    'background': '#F5F5F5'
+    'primaryBorderColor': '#B0C5D8',
+    'lineColor': '#B0C5D8',
+    'secondaryColor': '#D5E8E0',
+    'tertiaryColor': '#E0F0F8',
+    'background': '#FFFFFF',
+    'mainBkg': '#F8F8F8',
+    'secondBkg': '#F0F0F0',
+    'darkMode': false,
+    'fontFamily': 'Arial, sans-serif',
+    'fontSize': '14px',
+    'textColor': '#000000'
   }
 }}%%
 graph TD
@@ -332,13 +362,19 @@ graph TD
 %%{init: {
   'theme': 'base',
   'themeVariables': {
-    'primaryColor': '#A8B8D0',
+    'primaryColor': '#E0E8F0',
     'primaryTextColor': '#000000',
-    'primaryBorderColor': '#8A9AB2',
-    'lineColor': '#8A9AB2',
-    'secondaryColor': '#5DBCB6',
-    'tertiaryColor': '#84D4F5',
-    'background': '#F5F5F5'
+    'primaryBorderColor': '#B0C5D8',
+    'lineColor': '#B0C5D8',
+    'secondaryColor': '#D5E8E0',
+    'tertiaryColor': '#E0F0F8',
+    'background': '#FFFFFF',
+    'mainBkg': '#F8F8F8',
+    'secondBkg': '#F0F0F0',
+    'darkMode': false,
+    'fontFamily': 'Arial, sans-serif',
+    'fontSize': '14px',
+    'textColor': '#000000'
   }
 }}%%
 graph LR
@@ -363,7 +399,7 @@ graph LR
     E --> E2[Startup Networks]
     E --> E3[Open Source]
 
-    style A fill:#4CAF50,color:#fff
+    style A fill:#81C784,color:#000000
 ```
 
 </div>
@@ -392,13 +428,19 @@ graph LR
 %%{init: {
   'theme': 'base',
   'themeVariables': {
-    'primaryColor': '#A8B8D0',
+    'primaryColor': '#E0E8F0',
     'primaryTextColor': '#000000',
-    'primaryBorderColor': '#8A9AB2',
-    'lineColor': '#8A9AB2',
-    'secondaryColor': '#5DBCB6',
-    'tertiaryColor': '#84D4F5',
-    'background': '#F5F5F5'
+    'primaryBorderColor': '#B0C5D8',
+    'lineColor': '#B0C5D8',
+    'secondaryColor': '#D5E8E0',
+    'tertiaryColor': '#E0F0F8',
+    'background': '#FFFFFF',
+    'mainBkg': '#F8F8F8',
+    'secondBkg': '#F0F0F0',
+    'darkMode': false,
+    'fontFamily': 'Arial, sans-serif',
+    'fontSize': '14px',
+    'textColor': '#000000'
   }
 }}%%
 graph TD
@@ -418,9 +460,9 @@ graph TD
     D --> D2[Shopify App]
     D --> D3[WordPress Plugin]
 
-    style B1 fill:#FF9900,color:#fff
-    style B2 fill:#0078D4,color:#fff
-    style B3 fill:#4285F4,color:#fff
+    style B1 fill:#FFCC80,color:#000000
+    style B2 fill:#90CAF9,color:#000000
+    style B3 fill:#90CAF9,color:#000000
 ```
 
 </div>
@@ -448,13 +490,19 @@ graph TD
 %%{init: {
   'theme': 'base',
   'themeVariables': {
-    'primaryColor': '#A8B8D0',
+    'primaryColor': '#E0E8F0',
     'primaryTextColor': '#000000',
-    'primaryBorderColor': '#8A9AB2',
-    'lineColor': '#8A9AB2',
-    'secondaryColor': '#5DBCB6',
-    'tertiaryColor': '#84D4F5',
-    'background': '#F5F5F5'
+    'primaryBorderColor': '#B0C5D8',
+    'lineColor': '#B0C5D8',
+    'secondaryColor': '#D5E8E0',
+    'tertiaryColor': '#E0F0F8',
+    'background': '#FFFFFF',
+    'mainBkg': '#F8F8F8',
+    'secondBkg': '#F0F0F0',
+    'darkMode': false,
+    'fontFamily': 'Arial, sans-serif',
+    'fontSize': '14px',
+    'textColor': '#000000'
   }
 }}%%
 graph TD
@@ -479,7 +527,7 @@ graph TD
     E --> E2[Referral Program]
     E --> E3[Community Building]
 
-    style A fill:#4CAF50,color:#fff
+    style A fill:#81C784,color:#000000
 ```
 
 </div>
@@ -492,13 +540,19 @@ graph TD
 %%{init: {
   'theme': 'base',
   'themeVariables': {
-    'primaryColor': '#A8B8D0',
+    'primaryColor': '#E0E8F0',
     'primaryTextColor': '#000000',
-    'primaryBorderColor': '#8A9AB2',
-    'lineColor': '#8A9AB2',
-    'secondaryColor': '#5DBCB6',
-    'tertiaryColor': '#84D4F5',
-    'background': '#F5F5F5',
+    'primaryBorderColor': '#B0C5D8',
+    'lineColor': '#B0C5D8',
+    'secondaryColor': '#D5E8E0',
+    'tertiaryColor': '#E0F0F8',
+    'background': '#FFFFFF',
+    'mainBkg': '#F8F8F8',
+    'secondBkg': '#F0F0F0',
+    'darkMode': false,
+    'fontFamily': 'Arial, sans-serif',
+    'fontSize': '14px',
+    'textColor': '#000000',
     'ganttTitleColor': '#000000',
     'ganttTaskTextColor': '#000000',
     'ganttTaskTextOutsideColor': '#000000',
@@ -556,13 +610,19 @@ gantt
 %%{init: {
   'theme': 'base',
   'themeVariables': {
-    'primaryColor': '#A8B8D0',
+    'primaryColor': '#E0E8F0',
     'primaryTextColor': '#000000',
-    'primaryBorderColor': '#8A9AB2',
-    'lineColor': '#8A9AB2',
-    'secondaryColor': '#5DBCB6',
-    'tertiaryColor': '#84D4F5',
-    'background': '#F5F5F5'
+    'primaryBorderColor': '#B0C5D8',
+    'lineColor': '#B0C5D8',
+    'secondaryColor': '#D5E8E0',
+    'tertiaryColor': '#E0F0F8',
+    'background': '#FFFFFF',
+    'mainBkg': '#F8F8F8',
+    'secondBkg': '#F0F0F0',
+    'darkMode': false,
+    'fontFamily': 'Arial, sans-serif',
+    'fontSize': '14px',
+    'textColor': '#000000'
   }
 }}%%
 graph LR
@@ -587,7 +647,7 @@ graph LR
     E --> E2[Before/After]
     E --> E3[Video Testimonials]
 
-    style A fill:#4CAF50,color:#fff
+    style A fill:#81C784,color:#000000
 ```
 
 </div>
@@ -602,13 +662,19 @@ graph LR
 %%{init: {
   'theme': 'base',
   'themeVariables': {
-    'primaryColor': '#A8B8D0',
+    'primaryColor': '#E0E8F0',
     'primaryTextColor': '#000000',
-    'primaryBorderColor': '#8A9AB2',
-    'lineColor': '#8A9AB2',
-    'secondaryColor': '#5DBCB6',
-    'tertiaryColor': '#84D4F5',
-    'background': '#F5F5F5'
+    'primaryBorderColor': '#B0C5D8',
+    'lineColor': '#B0C5D8',
+    'secondaryColor': '#D5E8E0',
+    'tertiaryColor': '#E0F0F8',
+    'background': '#FFFFFF',
+    'mainBkg': '#F8F8F8',
+    'secondBkg': '#F0F0F0',
+    'darkMode': false,
+    'fontFamily': 'Arial, sans-serif',
+    'fontSize': '14px',
+    'textColor': '#000000'
   }
 }}%%
 graph TD
@@ -633,7 +699,7 @@ graph TD
     E --> E2[Onboarding]
     E --> E3[Success Metrics]
 
-    style A fill:#4CAF50,color:#fff
+    style A fill:#81C784,color:#000000
 ```
 
 </div>
@@ -660,13 +726,19 @@ graph TD
 %%{init: {
   'theme': 'base',
   'themeVariables': {
-    'primaryColor': '#A8B8D0',
+    'primaryColor': '#E0E8F0',
     'primaryTextColor': '#000000',
-    'primaryBorderColor': '#8A9AB2',
-    'lineColor': '#8A9AB2',
-    'secondaryColor': '#5DBCB6',
-    'tertiaryColor': '#84D4F5',
-    'background': '#F5F5F5'
+    'primaryBorderColor': '#B0C5D8',
+    'lineColor': '#B0C5D8',
+    'secondaryColor': '#D5E8E0',
+    'tertiaryColor': '#E0F0F8',
+    'background': '#FFFFFF',
+    'mainBkg': '#F8F8F8',
+    'secondBkg': '#F0F0F0',
+    'darkMode': false,
+    'fontFamily': 'Arial, sans-serif',
+    'fontSize': '14px',
+    'textColor': '#000000'
   }
 }}%%
 graph LR
@@ -686,7 +758,7 @@ graph LR
     D --> D2[Contract Options]
     D --> D3[Success Plans]
 
-    style A fill:#4CAF50,color:#fff
+    style A fill:#81C784,color:#000000
 ```
 
 </div>
@@ -714,13 +786,19 @@ graph LR
 %%{init: {
   'theme': 'base',
   'themeVariables': {
-    'primaryColor': '#A8B8D0',
+    'primaryColor': '#E0E8F0',
     'primaryTextColor': '#000000',
-    'primaryBorderColor': '#8A9AB2',
-    'lineColor': '#8A9AB2',
-    'secondaryColor': '#5DBCB6',
-    'tertiaryColor': '#84D4F5',
-    'background': '#F5F5F5'
+    'primaryBorderColor': '#B0C5D8',
+    'lineColor': '#B0C5D8',
+    'secondaryColor': '#D5E8E0',
+    'tertiaryColor': '#E0F0F8',
+    'background': '#FFFFFF',
+    'mainBkg': '#F8F8F8',
+    'secondBkg': '#F0F0F0',
+    'darkMode': false,
+    'fontFamily': 'Arial, sans-serif',
+    'fontSize': '14px',
+    'textColor': '#000000'
   }
 }}%%
 graph TD
@@ -745,10 +823,10 @@ graph TD
     E --> E2[Message: 50x faster]
     E --> E3[Proof: Test coverage]
 
-    style B1 fill:#FF6B6B,color:#fff
-    style C1 fill:#FF6B6B,color:#fff
-    style D1 fill:#FF6B6B,color:#fff
-    style E1 fill:#FF6B6B,color:#fff
+    style B1 fill:#FFAB91,color:#000000
+    style C1 fill:#FFAB91,color:#000000
+    style D1 fill:#FFAB91,color:#000000
+    style E1 fill:#FFAB91,color:#000000
 ```
 
 </div>
@@ -775,13 +853,19 @@ graph TD
 %%{init: {
   'theme': 'base',
   'themeVariables': {
-    'primaryColor': '#A8B8D0',
+    'primaryColor': '#E0E8F0',
     'primaryTextColor': '#000000',
-    'primaryBorderColor': '#8A9AB2',
-    'lineColor': '#8A9AB2',
-    'secondaryColor': '#5DBCB6',
-    'tertiaryColor': '#84D4F5',
-    'background': '#F5F5F5'
+    'primaryBorderColor': '#B0C5D8',
+    'lineColor': '#B0C5D8',
+    'secondaryColor': '#D5E8E0',
+    'tertiaryColor': '#E0F0F8',
+    'background': '#FFFFFF',
+    'mainBkg': '#F8F8F8',
+    'secondBkg': '#F0F0F0',
+    'darkMode': false,
+    'fontFamily': 'Arial, sans-serif',
+    'fontSize': '14px',
+    'textColor': '#000000'
   }
 }}%%
 graph LR
@@ -800,9 +884,9 @@ graph LR
     F --> F2[No migration needed]
     F --> F3[Keep existing code]
 
-    style F1 fill:#4CAF50,color:#fff
-    style F2 fill:#4CAF50,color:#fff
-    style F3 fill:#4CAF50,color:#fff
+    style F1 fill:#81C784,color:#000000
+    style F2 fill:#81C784,color:#000000
+    style F3 fill:#81C784,color:#000000
 ```
 
 </div>
@@ -817,13 +901,19 @@ graph LR
 %%{init: {
   'theme': 'base',
   'themeVariables': {
-    'primaryColor': '#A8B8D0',
+    'primaryColor': '#E0E8F0',
     'primaryTextColor': '#000000',
-    'primaryBorderColor': '#8A9AB2',
-    'lineColor': '#8A9AB2',
-    'secondaryColor': '#5DBCB6',
-    'tertiaryColor': '#84D4F5',
-    'background': '#F5F5F5'
+    'primaryBorderColor': '#B0C5D8',
+    'lineColor': '#B0C5D8',
+    'secondaryColor': '#D5E8E0',
+    'tertiaryColor': '#E0F0F8',
+    'background': '#FFFFFF',
+    'mainBkg': '#F8F8F8',
+    'secondBkg': '#F0F0F0',
+    'darkMode': false,
+    'fontFamily': 'Arial, sans-serif',
+    'fontSize': '14px',
+    'textColor': '#000000'
   }
 }}%%
 graph TD
@@ -841,7 +931,7 @@ graph TD
     E --> E1[20% - Proposal sent]
     F --> F1[30% - Become advocates]
 
-    style F fill:#4CAF50,color:#fff
+    style F fill:#81C784,color:#000000
     style G fill:#FFD700,color:#000
 ```
 
@@ -855,16 +945,22 @@ graph TD
 %%{init: {
   'theme': 'base',
   'themeVariables': {
-    'primaryColor': '#A8B8D0',
+    'primaryColor': '#E0E8F0',
     'primaryTextColor': '#000000',
-    'primaryBorderColor': '#8A9AB2',
-    'lineColor': '#8A9AB2',
-    'secondaryColor': '#5DBCB6',
-    'tertiaryColor': '#84D4F5',
-    'background': '#F5F5F5'
+    'primaryBorderColor': '#B0C5D8',
+    'lineColor': '#B0C5D8',
+    'secondaryColor': '#D5E8E0',
+    'tertiaryColor': '#E0F0F8',
+    'background': '#FFFFFF',
+    'mainBkg': '#F8F8F8',
+    'secondBkg': '#F0F0F0',
+    'darkMode': false,
+    'fontFamily': 'Arial, sans-serif',
+    'fontSize': '14px',
+    'textColor': '#000000'
   }
 }}%%
-graph LR
+graph TD
     subgraph "Startup Funnel"
         A1[Calculator: 10K] --> A2[Demo: 2K]
         A2 --> A3[Trial: 500]
@@ -883,9 +979,9 @@ graph LR
         C3 --> C4[Contract: 10]
     end
 
-    style A4 fill:#4CAF50,color:#fff
-    style B4 fill:#4CAF50,color:#fff
-    style C4 fill:#4CAF50,color:#fff
+    style A4 fill:#81C784,color:#000000
+    style B4 fill:#81C784,color:#000000
+    style C4 fill:#81C784,color:#000000
 ```
 
 </div>
@@ -898,13 +994,19 @@ graph LR
 %%{init: {
   'theme': 'base',
   'themeVariables': {
-    'primaryColor': '#A8B8D0',
+    'primaryColor': '#E0E8F0',
     'primaryTextColor': '#000000',
-    'primaryBorderColor': '#8A9AB2',
-    'lineColor': '#8A9AB2',
-    'secondaryColor': '#5DBCB6',
-    'tertiaryColor': '#84D4F5',
-    'background': '#F5F5F5',
+    'primaryBorderColor': '#B0C5D8',
+    'lineColor': '#B0C5D8',
+    'secondaryColor': '#D5E8E0',
+    'tertiaryColor': '#E0F0F8',
+    'background': '#FFFFFF',
+    'mainBkg': '#F8F8F8',
+    'secondBkg': '#F0F0F0',
+    'darkMode': false,
+    'fontFamily': 'Arial, sans-serif',
+    'fontSize': '14px',
+    'textColor': '#000000',
     'ganttTitleColor': '#000000',
     'ganttTaskTextColor': '#000000',
     'ganttTaskTextOutsideColor': '#000000',
@@ -948,13 +1050,19 @@ gantt
 %%{init: {
   'theme': 'base',
   'themeVariables': {
-    'primaryColor': '#A8B8D0',
+    'primaryColor': '#E0E8F0',
     'primaryTextColor': '#000000',
-    'primaryBorderColor': '#8A9AB2',
-    'lineColor': '#8A9AB2',
-    'secondaryColor': '#5DBCB6',
-    'tertiaryColor': '#84D4F5',
-    'background': '#F5F5F5',
+    'primaryBorderColor': '#B0C5D8',
+    'lineColor': '#B0C5D8',
+    'secondaryColor': '#D5E8E0',
+    'tertiaryColor': '#E0F0F8',
+    'background': '#FFFFFF',
+    'mainBkg': '#F8F8F8',
+    'secondBkg': '#F0F0F0',
+    'darkMode': false,
+    'fontFamily': 'Arial, sans-serif',
+    'fontSize': '14px',
+    'textColor': '#000000',
     'xyChart': {
       'backgroundColor': '#F5F5F5',
       'titleColor': '#000000',
