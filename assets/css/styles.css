@@ -15,6 +15,11 @@
         inset 0 -2px 0 rgba(255, 255, 255, 0.7);
     border: 1px solid #c0c0c0;
     position: relative;
+    display: table;
+    width: auto;
+    min-width: min-content;
+    max-width: 100%;
+    overflow-x: auto;
 }
 
 /* Make all table text black */
@@ -29,6 +34,25 @@
 
 .mermaid-diagram-wrapper table * {
     color: #000000 !important;
+}
+
+/* Ensure Mermaid diagrams have adequate space */
+.mermaid-diagram-wrapper .mermaid {
+    min-width: 600px;
+    width: 100%;
+    overflow-x: auto;
+}
+
+.mermaid-diagram-wrapper pre.mermaid {
+    min-width: 600px;
+    width: 100%;
+}
+
+/* For actual rendered Mermaid SVGs */
+.mermaid-diagram-wrapper svg {
+    min-width: 600px;
+    width: 100%;
+    height: auto;
 }
 
 /* Add pseudo-element for additional depth */
@@ -65,4 +89,9 @@
         inset 0 -3px 0 rgba(255, 255, 255, 0.8),
         0 2px 4px rgba(255, 255, 255, 0.4);
     border: 1px solid #b5b5b5;
+    display: table;
+    width: auto;
+    min-width: min-content;
+    max-width: 100%;
+    overflow-x: auto;
 }
