@@ -1,4 +1,4 @@
-[🏠 Home](../../README.md) | [⬆️ Performance Analysis](index.md) | [➡️ Next: Cost Analysis](ai-vs-human-cost-analysis.md)
+[🏠 Home](../../README.md) | [⬆️ Performance Analysis](index.md) | [➡️ Cost Analysis](ai-vs-human-cost-analysis.md)
 
 <link rel="stylesheet" href="../../assets/css/styles.css">
 ---
@@ -161,4 +161,4 @@ Every document, every diagram, every strategic insight in this repository was cr
 
 ---
 
-[🏠 Home](../../README.md) | [⬆️ Performance Analysis](index.md) | [⬅️ Previous](index.md) | [➡️ Next: Cost Analysis](ai-vs-human-cost-analysis.md)
+[🏠 Home](../../README.md) | [⬆️ Performance Analysis](index.md) | [⬅️ Index](index.md) | [➡️ Cost Analysis](ai-vs-human-cost-analysis.md)
