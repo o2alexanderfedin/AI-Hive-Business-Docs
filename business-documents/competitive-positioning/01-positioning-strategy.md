@@ -1,4 +1,4 @@
-[🏠 Home](../../README.md) | [📊 Market Analysis](../market-analysis/index.md)
+[🏠 Home](../../README.md) | [⬆️ Up](index.md) | [⬅️ Previous](00-executive-summary.md) | [➡️ Next](02-competitive-landscape.md)
 
 <link rel="stylesheet" href="../../assets/css/styles.css">
 ---
@@ -26,6 +26,8 @@ O2.services AI Hive represents a fundamental paradigm shift in software developm
 ### Category Creation Strategy
 We're not competing in existing categories - we're creating a new one:
 
+<div class="mermaid-diagram-wrapper">
+
 | Traditional Categories | Our New Category |
 |------------------------|------------------|
 | Software Development Services | ❌ Not a service company |
@@ -34,9 +36,13 @@ We're not competing in existing categories - we're creating a new one:
 | Offshore Development | ❌ Not human-dependent |
 | **Autonomous Development** | ✅ **New category we own** |
 
+</div>
+
 ## 2. Value Proposition Canvas
 
 ### Customer Profile
+
+<div class="mermaid-diagram-wrapper">
 
 | Dimension | Details |
 |-----------|---------|
@@ -44,13 +50,19 @@ We're not competing in existing categories - we're creating a new one:
 | **Pain Points** | • $300K+ project costs<br>• 3-6 month timelines<br>• Developer shortage<br>• Quality inconsistency<br>• Scaling bottlenecks<br>• Hiring challenges |
 | **Desired Gains** | • 10x cost reduction<br>• Days not months delivery<br>• Unlimited capacity<br>• Predictable quality<br>• Zero management overhead<br>• 24/7 availability |
 
+</div>
+
 ### Value Map
+
+<div class="mermaid-diagram-wrapper">
 
 | Dimension | Details |
 |-----------|---------|
 | **Products & Services** | • AI Hive autonomous platform<br>• Multi-agent orchestration<br>• Full SDLC automation<br>• Quality enforcement<br>• Instant deployment<br>• Living documentation |
 | **Pain Relievers** | • $1.5K vs $300K projects<br>• 2-3 days vs 3-6 months<br>• No hiring needed<br>• 80%+ test coverage<br>• Infinite scaling<br>• Zero maintenance |
 | **Gain Creators** | • 99.5% cost savings<br>• 50x speed increase<br>• Instant team ready<br>• Guaranteed quality<br>• Focus on business<br>• Bootstrap enabler |
+
+</div>
 
 ## 3. Differentiation Strategy
 
@@ -162,4 +174,6 @@ For detailed competitive strategies, see [Competitive Response Playbook](07-comp
 
 **Last Updated**: January 2025
 
-[🏠 Home](../../README.md) | [📊 Market Analysis](../market-analysis/index.md)
+---
+
+[🏠 Home](../../README.md) | [⬆️ Up](index.md) | [⬅️ Previous](00-executive-summary.md) | [➡️ Next](02-competitive-landscape.md)

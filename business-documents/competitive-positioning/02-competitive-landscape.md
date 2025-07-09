@@ -1,4 +1,4 @@
-[🏠 Home](../../README.md) | [⬅️ Previous](01-positioning-strategy.md) | [📊 Market Analysis](../market-analysis/index.md)
+[🏠 Home](../../README.md) | [⬆️ Up](index.md) | [⬅️ Previous](01-positioning-strategy.md) | [➡️ Next](04-feature-comparison.md)
 
 <link rel="stylesheet" href="../../assets/css/styles.css">
 ---
@@ -21,12 +21,16 @@ Key findings:
 ### Software Development Market Breakdown
 **Total Market Size**: $737B (2024)
 
+<div class="mermaid-diagram-wrapper">
+
 | Segment | Size | % of Market | Sub-segments |
 |---------|------|-------------|---------------|
 | **AI-Powered Tools** | $12.6B | 17% | • Code Assistants: $4.2B<br>• AI IDEs: $3.8B<br>• Testing Tools: $2.1B<br>• Other AI Dev: $2.5B |
 | **Traditional Services** | $92.5B | 13% | • Outsourcing: $45B<br>• Consultancies: $35B<br>• Freelance: $12.5B |
 | **Low-Code/No-Code** | $14.6B | 20% | • Enterprise Platforms: $9.5B<br>• SMB Solutions: $5.1B |
 | **Other Software** | $617.3B | 50% | • Enterprise software, SaaS, etc. |
+
+</div>
 
 ### Category Analysis
 
@@ -514,19 +518,15 @@ graph TD
 
 <div class="mermaid-diagram-wrapper">
 
-```mermaid
-%%{init: {
-  'theme': 'base',
-  'themeVariables': {
-    'primaryColor': '#A8B8D0',
-    'primaryTextColor': '#000000',
-    'primaryBorderColor': '#8A9AB2',
-    'lineColor': '#8A9AB2'
-  }
-}}%%
-heatmap x-axis ["Cost", "Speed", "Quality", "Autonomy", "Scale", "Flexibility"] y-axis ["GitHub Copilot", "Cursor", "Replit", "Devin", "Low-Code", "Outsourcing", "AI Hive"]
-    [[2, 3, 2, 1, 4, 4], [2, 3, 3, 2, 4, 4], [3, 4, 2, 2, 3, 4], [1, 4, 4, 5, 3, 3], [3, 3, 2, 3, 2, 2], [1, 1, 3, 1, 3, 3], [5, 5, 5, 5, 5, 5]]
-```
+| Competitor | Cost | Speed | Quality | Autonomy | Scale | Flexibility | **Total Score** |
+|------------|------|-------|---------|----------|-------|-------------|-----------------|
+| **GitHub Copilot** | 2/5 | 3/5 | 2/5 | 1/5 | 4/5 | 4/5 | **16/30** |
+| **Cursor** | 2/5 | 3/5 | 3/5 | 2/5 | 4/5 | 4/5 | **18/30** |
+| **Replit** | 3/5 | 4/5 | 2/5 | 2/5 | 3/5 | 4/5 | **18/30** |
+| **Devin** | 1/5 | 4/5 | 4/5 | 5/5 | 3/5 | 3/5 | **20/30** |
+| **Low-Code** | 3/5 | 3/5 | 2/5 | 3/5 | 2/5 | 2/5 | **15/30** |
+| **Outsourcing** | 1/5 | 1/5 | 3/5 | 1/5 | 3/5 | 3/5 | **12/30** |
+| **🏆 AI Hive** | **5/5** | **5/5** | **5/5** | **5/5** | **5/5** | **5/5** | **30/30** |
 
 </div>
 
@@ -551,11 +551,15 @@ heatmap x-axis ["Cost", "Speed", "Quality", "Autonomy", "Scale", "Flexibility"] 
 
 ### Threat Assessment
 
+<div class="mermaid-diagram-wrapper">
+
 | Timeframe | Threats | Impact | Our Response |
 |-----------|---------|--------|---------------|
 | **Immediate** (0-6 months) | • Cursor pricing adjustment<br>• Copilot automation features<br>• New entrants with funding | High | Lock in early customers |
 | **Medium-term** (6-18 months) | • Microsoft acquisition spree<br>• Open source alternatives<br>• Platform consolidation | Medium | Build moats & partnerships |
 | **Long-term** (18+ months) | • Big Tech autonomous tools<br>• Commoditization of AI<br>• Regulatory constraints | Low | Establish market leadership |
+
+</div>
 
 ### Opportunity Analysis
 
@@ -575,12 +579,13 @@ heatmap x-axis ["Cost", "Speed", "Quality", "Autonomy", "Scale", "Flexibility"] 
 
 ### Core Technology Stack Comparison
 
+<div class="mermaid-diagram-wrapper">
+
 | Category | Technology | Context Scope | Output | Human Involvement |
 |----------|------------|---------------|--------|-------------------|
 | **Code Assistants** | LLM + IDE Plugin | Current file | Code suggestions | Required (developer needed) |
 | **AI IDEs** | LLM + Custom IDE | Project files | Code edits | Guided (developer supervises) |
 | **Autonomous Platforms** | Multi-Agent System | Full SDLC | Complete apps | **None (fully autonomous)** |
-```
 
 </div>
 
@@ -694,6 +699,8 @@ graph TD
 
 **Automation vs. Cost Efficiency Matrix**
 
+<div class="mermaid-diagram-wrapper">
+
 | Solution | Automation Level | Cost Efficiency | Market Position |
 |----------|------------------|-----------------|------------------|
 | **AI Hive** | Very High (95%) | Very Low Cost (95%) | **Disruptive Innovation Leader** |
@@ -703,7 +710,11 @@ graph TD
 | **Offshore Teams** | Low (25%) | Lower Cost | Traditional Budget |
 | **In-house/Consultancies** | Very Low (15-20%) | Very High Cost | Traditional Premium |
 
+</div>
+
 ### Innovation vs. Market Readiness
+
+<div class="mermaid-diagram-wrapper">
 
 | Solution | Innovation Level | Market Readiness | Strategic Position |
 |----------|------------------|------------------|---------------------|
@@ -713,6 +724,8 @@ graph TD
 | **GitHub Copilot** | Medium (50%) | High (80%) | Established Player |
 | **Low-Code** | Low (30%) | High (70%) | Mature Market |
 | **Traditional** | Very Low (10%) | Very High (90%) | Legacy Approach |
+
+</div>
 
 ## 10. Strategic Implications & Recommendations
 
@@ -807,4 +820,4 @@ timeline
 
 ---
 
-[🏠 Home](../../README.md) | [⬅️ Previous](01-positioning-strategy.md) | [📊 Market Analysis](../market-analysis/index.md)
+[🏠 Home](../../README.md) | [⬆️ Up](index.md) | [⬅️ Previous](01-positioning-strategy.md) | [➡️ Next](04-feature-comparison.md)

@@ -1,4 +1,4 @@
-[🏠 Home](../../README.md) | [📊 Market Analysis](../market-analysis/index.md)
+[🏠 Home](../../README.md) | [⬆️ Up](index.md) | [⬅️ Previous](05-pricing-strategy.md) | [➡️ Next](07-competitive-response.md)
 
 <link rel="stylesheet" href="../../assets/css/styles.css">
 ---
@@ -1017,4 +1017,8 @@ xychart-beta
 
 ---
 
-[🏠 Home](../../README.md) | [📊 Market Analysis](../market-analysis/index.md)
+**Last Updated**: January 2025
+
+---
+
+[🏠 Home](../../README.md) | [⬆️ Up](index.md) | [⬅️ Previous](05-pricing-strategy.md) | [➡️ Next](07-competitive-response.md)

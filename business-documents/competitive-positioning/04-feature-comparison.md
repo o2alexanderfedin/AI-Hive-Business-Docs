@@ -1,4 +1,4 @@
-[🏠 Home](../../README.md) | [📊 Market Analysis](../market-analysis/index.md) | [🎯 Positioning Strategy](01-positioning-strategy.md)
+[🏠 Home](../../README.md) | [⬆️ Up](index.md) | [⬅️ Previous](02-competitive-landscape.md) | [➡️ Next](05-pricing-strategy.md)
 
 <link rel="stylesheet" href="../../assets/css/styles.css">
 ---
@@ -619,17 +619,18 @@ timeline
     'background': '#F5F5F5'
   }
 }}%%
-radar
-    title Quality Metrics Comparison
-    AI Hive, Traditional, AI Tools, Low-Code
-    Test Coverage, 95, 40, 30, 20
-    Code Quality, 95, 75, 70, 50
-    Documentation, 100, 40, 20, 60
-    Security, 90, 60, 50, 70
-    Performance, 90, 70, 65, 40
-    Maintainability, 95, 65, 60, 45
-    Scalability, 100, 50, 55, 30
-    Reliability, 95, 70, 65, 75
+radar-beta
+    title "Quality Metrics Comparison"
+    axis tc["Test Coverage"], cq["Code Quality"], doc["Documentation"], sec["Security"], perf["Performance"], maint["Maintainability"], scale["Scalability"], rel["Reliability"]
+    curve aihive["AI Hive"]{95, 95, 100, 90, 90, 95, 100, 95}
+    curve traditional["Traditional"]{40, 75, 40, 60, 70, 65, 50, 70}
+    curve aitools["AI Tools"]{30, 70, 20, 50, 65, 60, 55, 65}
+    curve lowcode["Low-Code"]{20, 50, 60, 70, 40, 45, 30, 75}
+    showLegend true
+    max 100
+    min 0
+    graticule polygon
+    ticks 5
 ```
 
 </div>
@@ -729,8 +730,8 @@ AI Hive doesn't compete with existing solutions – it makes them obsolete. By r
 ## Next Steps
 
 For detailed pricing information, see our [Pricing Strategy Analysis](05-pricing-strategy.md).
-For market positioning details, see our [Go-to-Market Positioning](06-gtm-positioning.md).
+For market positioning details, see our [Go-to-Market Positioning](06-go-to-market-positioning.md).
 
 ---
 
-[🏠 Home](../../README.md) | [📊 Market Analysis](../market-analysis/index.md) | [🎯 Positioning Strategy](01-positioning-strategy.md)
+[🏠 Home](../../README.md) | [⬆️ Up](index.md) | [⬅️ Previous](02-competitive-landscape.md) | [➡️ Next](05-pricing-strategy.md)

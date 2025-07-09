@@ -4,12 +4,17 @@
 ## Official Pricing Tiers
 
 ### Monthly Subscription Pricing
+
+<div class="mermaid-diagram-wrapper">
+
 | Tier | Monthly Price | Annual Price | Target Customer |
 |------|---------------|--------------|-----------------|
 | **Starter** | $299 | $3,588 | Solopreneurs, early-stage startups |
 | **Professional** | $999 | $11,988 | Growing companies, SMBs |
 | **Enterprise** | $2,999 | $35,988 | Large organizations, complex needs |
 | **Custom** | Contact Sales | Contact Sales | Special requirements |
+
+</div>
 
 ### Daily Rate Reference
 - **Range**: $100-500/day (varies by workload intensity)
@@ -18,6 +23,9 @@
 ## Cost Comparisons
 
 ### Per Project Cost (3-month typical project)
+
+<div class="mermaid-diagram-wrapper">
+
 | Solution | Cost | AI Hive Savings |
 |----------|------|-----------------|
 | US Team | $322,500 | 99.5% |
@@ -25,6 +33,8 @@
 | Vietnam Team | $71,100 | 98.0% |
 | India Team | $71,000 | 97.9% |
 | **AI Hive** | **$200-1,500** | - |
+
+</div>
 
 ### Cost Reduction Metrics
 - **Per Time Period**: 8-35x cheaper than global teams

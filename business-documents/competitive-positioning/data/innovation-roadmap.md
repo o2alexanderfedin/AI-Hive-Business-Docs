@@ -35,12 +35,16 @@
 
 ## Key Innovation Metrics
 
+<div class="mermaid-diagram-wrapper">
+
 | Milestone | Current | 6 Months | 12 Months | Impact |
 |-----------|---------|----------|-----------|---------|
 | Languages Supported | ALL | ALL | ALL | Universal coverage |
 | Delivery Speed | 2-3 days | 1-2 days | Same day | Unmatched advantage |
 | Platform Coverage | Web only | +Mobile | +IoT/Embedded | Full stack leader |
 | AI Capabilities | Text | +Voice | +Vision | Unique position |
+
+</div>
 
 ## Competitive Advantages Through Innovation
 

@@ -1,4 +1,4 @@
-[🏠 Home](../../README.md) | [📊 Market Analysis](../market-analysis/index.md) | [🎯 Positioning Strategy](01-positioning-strategy.md)
+[🏠 Home](../../README.md) | [⬆️ Up](index.md) | [⬅️ Previous](07-competitive-response.md)
 
 <link rel="stylesheet" href="../../assets/css/styles.css">
 ---
@@ -51,6 +51,8 @@ graph LR
 
 ### 1.2 Key Metrics Tracked
 
+<div class="mermaid-diagram-wrapper">
+
 | Metric Category | Data Points | Collection Method |
 |-----------------|-------------|-------------------|
 | **Deal Characteristics** | Size, duration, industry, use case | CRM automation |
@@ -59,6 +61,8 @@ graph LR
 | **Process Factors** | Sales cycle length, stakeholders | Deal review |
 | **Technical Factors** | POC results, integration requirements | Technical team |
 | **Economic Factors** | Budget, ROI expectations, TCO | Proposal analysis |
+
+</div>
 
 ### 1.3 Analysis Cadence
 
@@ -217,6 +221,8 @@ pie title Loss Factors Distribution (n=59 deals)
 
 ### 4.1 Competitor Win/Loss Matrix
 
+<div class="mermaid-diagram-wrapper">
+
 | Competitor | Wins Against | Losses To | Win Rate | Key Battlegrounds |
 |------------|--------------|-----------|----------|-------------------|
 | **Google Vertex AI** | 34 | 12 | 74% | Enterprise features, support |
@@ -224,6 +230,8 @@ pie title Loss Factors Distribution (n=59 deals)
 | **Microsoft Azure AI** | 31 | 18 | 63% | Multi-cloud, flexibility |
 | **OpenAI Enterprise** | 23 | 8 | 74% | Production readiness, scale |
 | **Anthropic Claude** | 19 | 3 | 86% | Platform vs. API approach |
+
+</div>
 
 ### 4.2 Competitive Positioning Map
 
@@ -299,12 +307,16 @@ graph LR
 
 ### 5.2 Decision Maker Analysis
 
+<div class="mermaid-diagram-wrapper">
+
 | Stakeholder | Primary Concerns | Influence | Win Strategy |
 |-------------|------------------|-----------|--------------|
 | **CTO/Technical** | Architecture, scalability, security | 35% | Technical deep dive, POC |
 | **CFO/Economic** | ROI, TCO, risk | 30% | Business case, guarantees |
 | **Business Leader** | Outcomes, speed, competitive advantage | 25% | Success stories, vision |
 | **End Users** | Ease of use, productivity | 10% | Demo, trial experience |
+
+</div>
 
 ### 5.3 Evaluation Criteria Weighting
 
@@ -413,6 +425,8 @@ graph TD
 
 ### 7.2 Leading Indicators Dashboard
 
+<div class="mermaid-diagram-wrapper">
+
 | Metric | Current | Target | Trend | Action |
 |--------|---------|--------|-------|---------|
 | **POC-to-Win Rate** | 78% | 85% | ↑ | Enhance POC process |
@@ -421,6 +435,8 @@ graph TD
 | **Price Objection Rate** | 43% | 30% | ↓ | Value selling focus |
 | **Sales Cycle (days)** | 127 | 90 | ↓ | Streamline process |
 | **Multi-stakeholder Deals** | 71% | 80% | ↑ | Expand engagement |
+
+</div>
 
 ### 7.3 Competitive Performance Tracking
 
@@ -529,6 +545,10 @@ line
 **Document maintained by**: Competitive Intelligence Team
 **Last updated**: January 2025
 **Next review**: February 2025
+
+---
+
+[🏠 Home](../../README.md) | [⬆️ Up](index.md) | [⬅️ Previous](07-competitive-response.md)
 
 For questions or contributions, contact: af+competitive-intel@o2.services
 

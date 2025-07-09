@@ -40,7 +40,12 @@
       "Bash(do echo \"=== $file ===\")",
       "Bash(done)",
       "Bash(python:*)",
-      "Bash(tree:*)"
+      "Bash(tree:*)",
+      "Bash(GIT_MERGE_AUTOEDIT=no git flow release finish -m \"Release v1.39.0 - Competitive positioning consolidation\" v1.39.0)",
+      "WebFetch(domain:mermaid.js.org)",
+      "Bash(cat:*)",
+      "Bash(GIT_MERGE_AUTOEDIT=no git flow release finish -m \"Release v1.41.0 - Navigation updates and table formatting\" v1.41.0)",
+      "Bash(GIT_MERGE_AUTOEDIT=no git flow release finish -m \"v1.41.0\" v1.41.0)"
     ],
     "deny": []
   }
