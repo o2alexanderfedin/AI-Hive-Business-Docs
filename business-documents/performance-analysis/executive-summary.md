@@ -49,7 +49,7 @@ graph LR
 
 ### Speed Performance
 - **99.2% Time Reduction**: From 90 days to 28 hours
-- **90x Faster Delivery**: 1.2 days vs 3-4 months
+- **75x Faster Delivery**: 1.2 days vs 3 months
 - **1.6 Documents per Hour**: vs 0.08 for humans
 
 ### Quality Performance
@@ -101,7 +101,7 @@ This analysis is based on **actual performance data** from creating this reposit
 ### For Enterprises
 - **Before**: 3-4 month documentation cycles
 - **After**: 1-2 day turnaround
-- **Impact**: 90x faster time-to-market
+- **Impact**: 75x faster time-to-market
 
 ### For Agencies
 - **Before**: $2,668 per document cost
@@ -157,7 +157,7 @@ Every document, every diagram, every strategic insight in this repository was cr
 
 ### Key Takeaway
 
-> **AI Hive delivers $66 of value for every $1 spent, 90x faster than humans.**
+> **AI Hive delivers $66 of value for every $1 spent, 75x faster than humans.**
 
 ---
 
