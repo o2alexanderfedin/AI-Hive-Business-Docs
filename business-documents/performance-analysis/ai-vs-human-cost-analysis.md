@@ -1,3 +1,8 @@
+[🏠 Home](../../README.md) | [⬆️ Performance Analysis](index.md) | [⬅️ Executive Summary](executive-summary.md) | [➡️ Performance Metrics](performance-metrics.md)
+
+<link rel="stylesheet" href="../../assets/css/styles.css">
+---
+
 # AI vs Human Cost Analysis: Business Documentation Creation
 
 ## Executive Summary
@@ -172,4 +177,4 @@ Can handle **unlimited parallel projects** without additional overhead.
 
 ---
 
-[🏠 Home](../../README.md) | [📊 View Performance Metrics](performance-metrics.md)
+[🏠 Home](../../README.md) | [⬆️ Performance Analysis](index.md) | [⬅️ Executive Summary](executive-summary.md) | [➡️ Performance Metrics](performance-metrics.md)

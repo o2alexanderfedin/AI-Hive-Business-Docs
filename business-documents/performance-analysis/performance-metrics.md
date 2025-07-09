@@ -1,3 +1,8 @@
+[🏠 Home](../../README.md) | [⬆️ Performance Analysis](index.md) | [⬅️ Cost Analysis](ai-vs-human-cost-analysis.md)
+
+<link rel="stylesheet" href="../../assets/css/styles.css">
+---
+
 # AI Hive Performance Metrics: Repository Creation Analysis
 
 ## Timeline Analysis
@@ -275,4 +280,4 @@ At this performance level, AI Hive could theoretically:
 
 ---
 
-[🏠 Home](../../README.md) | [💰 Cost Analysis](ai-vs-human-cost-analysis.md) | [📊 Executive Summary](executive-summary.md)
+[🏠 Home](../../README.md) | [⬆️ Performance Analysis](index.md) | [⬅️ Cost Analysis](ai-vs-human-cost-analysis.md)

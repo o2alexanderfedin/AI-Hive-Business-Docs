@@ -1,3 +1,8 @@
+[🏠 Home](../../README.md) | [⬆️ Performance Analysis](index.md) | [➡️ Cost Analysis](ai-vs-human-cost-analysis.md)
+
+<link rel="stylesheet" href="../../assets/css/styles.css">
+---
+
 # Executive Summary: AI Hive Performance Analysis
 
 ## The Numbers That Kill
@@ -156,4 +161,4 @@ Every document, every diagram, every strategic insight in this repository was cr
 
 ---
 
-[🏠 Home](../../README.md) | [💰 Detailed Cost Analysis](ai-vs-human-cost-analysis.md) | [📊 Performance Metrics](performance-metrics.md)
+[🏠 Home](../../README.md) | [⬆️ Performance Analysis](index.md) | [⬅️ Index](index.md) | [➡️ Cost Analysis](ai-vs-human-cost-analysis.md)
