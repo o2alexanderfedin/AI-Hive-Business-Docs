@@ -18,52 +18,15 @@ Key findings:
 
 ## 1. Market Structure & Competitive Categories
 
-<div class="mermaid-diagram-wrapper">
+### Software Development Market Breakdown
+**Total Market Size**: $737B (2024)
 
-```mermaid
-%%{init: {
-  'theme': 'base',
-  'themeVariables': {
-    'primaryColor': '#A8B8D0',
-    'primaryTextColor': '#000000',
-    'primaryBorderColor': '#8A9AB2',
-    'lineColor': '#8A9AB2',
-    'secondaryColor': '#5DBCB6',
-    'secondaryTextColor': '#000000',
-    'secondaryBorderColor': '#3D9A94',
-    'tertiaryColor': '#84D4F5',
-    'tertiaryTextColor': '#000000',
-    'tertiaryBorderColor': '#5ABCD8',
-    'background': '#F5F5F5',
-    'mainBkg': '#A8B8D0',
-    'secondBkg': '#5DBCB6',
-    'tertiaryBkg': '#84D4F5'
-  }
-}}%%
-graph TD
-    A[Software Development Market<br/>$737B Total] --> B[AI-Powered Tools<br/>$12.6B | 17%]
-    A --> C[Traditional Services<br/>$92.5B | 13%]
-    A --> D[Low-Code/No-Code<br/>$14.6B | 20%]
-    A --> E[Other Software<br/>$617.3B | 50%]
-
-    B --> B1[Code Assistants<br/>$4.2B]
-    B --> B2[AI IDEs<br/>$3.8B]
-    B --> B3[Testing Tools<br/>$2.1B]
-    B --> B4[Other AI Dev<br/>$2.5B]
-
-    C --> C1[Outsourcing<br/>$45B]
-    C --> C2[Consultancies<br/>$35B]
-    C --> C3[Freelance<br/>$12.5B]
-
-    D --> D1[Enterprise Platforms<br/>$9.5B]
-    D --> D2[SMB Solutions<br/>$5.1B]
-
-    style B fill:#84D4F5,color:#000
-    style C fill:#FFB74D,color:#000
-    style D fill:#5DBCB6,color:#000
-```
-
-</div>
+| Segment | Size | % of Market | Sub-segments |
+|---------|------|-------------|---------------|
+| **AI-Powered Tools** | $12.6B | 17% | • Code Assistants: $4.2B<br>• AI IDEs: $3.8B<br>• Testing Tools: $2.1B<br>• Other AI Dev: $2.5B |
+| **Traditional Services** | $92.5B | 13% | • Outsourcing: $45B<br>• Consultancies: $35B<br>• Freelance: $12.5B |
+| **Low-Code/No-Code** | $14.6B | 20% | • Enterprise Platforms: $9.5B<br>• SMB Solutions: $5.1B |
+| **Other Software** | $617.3B | 50% | • Enterprise software, SaaS, etc. |
 
 ### Category Analysis
 
@@ -91,20 +54,14 @@ graph TD
 - **Backing**: Unlimited Microsoft resources
 
 #### Market Position & Metrics
-<div class="mermaid-diagram-wrapper">
 
-```mermaid
-%%{init: {'theme': 'base', 'themeVariables': {'pie1': '#6B7F95', 'pie2': '#5DBCB6', 'pie3': '#84D4F5', 'pie4': '#B3B2D8', 'pieTextColor': '#000000', 'pieTitleTextColor': '#000000'}}}%%
-pie title "AI Code Assistant Market Share (2024)"
-    "GitHub Copilot" : 44
-    "Cursor" : 18
-    "Tabnine" : 12
-    "Codeium" : 8
-    "Amazon CodeWhisperer" : 6
-    "Others" : 12
-```
-
-</div>
+**AI Code Assistant Market Share (2024)**:
+- **GitHub Copilot**: 44% - Market leader
+- **Cursor**: 18% - Fast-growing challenger
+- **Tabnine**: 12% - Privacy-focused option
+- **Codeium**: 8% - Free alternative
+- **Amazon CodeWhisperer**: 6% - AWS ecosystem
+- **Others**: 12% - Various smaller players
 
 **Key Metrics**:
 - Users: 1.3M+ paid subscribers
@@ -594,44 +551,11 @@ heatmap x-axis ["Cost", "Speed", "Quality", "Autonomy", "Scale", "Flexibility"] 
 
 ### Threat Assessment
 
-<div class="mermaid-diagram-wrapper">
-
-```mermaid
-%%{init: {
-  'theme': 'base',
-  'themeVariables': {
-    'primaryColor': '#A8B8D0',
-    'primaryTextColor': '#000000',
-    'primaryBorderColor': '#8A9AB2',
-    'lineColor': '#8A9AB2',
-    'secondaryColor': '#5DBCB6',
-    'tertiaryColor': '#84D4F5',
-    'background': '#F5F5F5'
-  }
-}}%%
-graph TD
-    A[Competitive Threats] --> B[Immediate<br/>0-6 months]
-    A --> C[Medium-term<br/>6-18 months]
-    A --> D[Long-term<br/>18+ months]
-
-    B --> B1[Cursor pricing adjustment]
-    B --> B2[Copilot automation features]
-    B --> B3[New entrants with funding]
-
-    C --> C1[Microsoft acquisition spree]
-    C --> C2[Open source alternatives]
-    C --> C3[Platform consolidation]
-
-    D --> D1[Big Tech autonomous tools]
-    D --> D2[Commoditization of AI]
-    D --> D3[Regulatory constraints]
-
-    style B fill:#E74C3C,color:#fff
-    style C fill:#F39C12,color:#fff
-    style D fill:#F1C40F,color:#000
-```
-
-</div>
+| Timeframe | Threats | Impact | Our Response |
+|-----------|---------|--------|---------------|
+| **Immediate** (0-6 months) | • Cursor pricing adjustment<br>• Copilot automation features<br>• New entrants with funding | High | Lock in early customers |
+| **Medium-term** (6-18 months) | • Microsoft acquisition spree<br>• Open source alternatives<br>• Platform consolidation | Medium | Build moats & partnerships |
+| **Long-term** (18+ months) | • Big Tech autonomous tools<br>• Commoditization of AI<br>• Regulatory constraints | Low | Establish market leadership |
 
 ### Opportunity Analysis
 
@@ -651,45 +575,11 @@ graph TD
 
 ### Core Technology Stack Comparison
 
-<div class="mermaid-diagram-wrapper">
-
-```mermaid
-%%{init: {
-  'theme': 'base',
-  'themeVariables': {
-    'primaryColor': '#A8B8D0',
-    'primaryTextColor': '#000000',
-    'primaryBorderColor': '#8A9AB2',
-    'lineColor': '#8A9AB2',
-    'secondaryColor': '#5DBCB6',
-    'tertiaryColor': '#84D4F5',
-    'background': '#F5F5F5'
-  }
-}}%%
-graph LR
-    subgraph "Code Assistants"
-        A1[LLM + IDE Plugin]
-        A2[Context: Current file]
-        A3[Output: Suggestions]
-    end
-
-    subgraph "AI IDEs"
-        B1[LLM + Custom IDE]
-        B2[Context: Project files]
-        B3[Output: Code edits]
-    end
-
-    subgraph "Autonomous Platforms"
-        C1[Multi-Agent System]
-        C2[Context: Full SDLC]
-        C3[Output: Complete apps]
-    end
-
-    A1 --> Traditional[Human Required]
-    B1 --> Assisted[Human Guided]
-    C1 --> Autonomous[No Human Needed]
-
-    style Autonomous fill:#4CAF50,color:#fff
+| Category | Technology | Context Scope | Output | Human Involvement |
+|----------|------------|---------------|--------|-------------------|
+| **Code Assistants** | LLM + IDE Plugin | Current file | Code suggestions | Required (developer needed) |
+| **AI IDEs** | LLM + Custom IDE | Project files | Code edits | Guided (developer supervises) |
+| **Autonomous Platforms** | Multi-Agent System | Full SDLC | Complete apps | **None (fully autonomous)** |
 ```
 
 </div>
@@ -802,127 +692,37 @@ graph TD
 
 ### Multi-Dimensional Competitive Landscape
 
-<div class="mermaid-diagram-wrapper">
+**Automation vs. Cost Efficiency Matrix**
 
-```mermaid
-%%{init: {
-  'theme': 'base',
-  'themeVariables': {
-    'quadrant1Fill': '#E5F0FC',
-    'quadrant2Fill': '#F5E8D0',
-    'quadrant3Fill': '#E8E8F5',
-    'quadrant4Fill': '#E5F5E5',
-    'quadrant1TextFill': '#000000',
-    'quadrant2TextFill': '#000000',
-    'quadrant3TextFill': '#000000',
-    'quadrant4TextFill': '#000000',
-    'quadrantPointFill': '#000000',
-    'quadrantPointTextFill': '#000000'
-  }
-}}%%
-quadrantChart
-    title Automation vs. Cost Efficiency Matrix
-    x-axis Low Automation --> High Automation
-    y-axis High Cost --> Low Cost
+| Solution | Automation Level | Cost Efficiency | Market Position |
+|----------|------------------|-----------------|------------------|
+| **AI Hive** | Very High (95%) | Very Low Cost (95%) | **Disruptive Innovation Leader** |
+| **Devin** | High (85%) | Medium Cost | Future Potential |
+| **Cursor/Copilot** | Medium (40-45%) | Medium-High Cost | Current Market |
+| **Low-Code** | Low-Medium (35%) | Medium Cost | Limited Scope |
+| **Offshore Teams** | Low (25%) | Lower Cost | Traditional Budget |
+| **In-house/Consultancies** | Very Low (15-20%) | Very High Cost | Traditional Premium |
 
-    quadrant-1 Future Leaders
-    quadrant-2 Traditional Premium
-    quadrant-3 Budget Manual
-    quadrant-4 Disruptive Innovation
+### Innovation vs. Market Readiness
 
-    "Accenture": [0.15, 0.90]
-    "In-house Teams": [0.20, 0.85]
-    "Offshore Teams": [0.25, 0.60]
-    "Freelancers": [0.10, 0.30]
-    "GitHub Copilot": [0.40, 0.65]
-    "Cursor": [0.45, 0.70]
-    "Replit": [0.50, 0.45]
-    "Low-Code": [0.35, 0.55]
-    "Devin": [0.85, 0.80]
-    "AI Hive": [0.95, 0.10]
-```
-
-</div>
-
-### Innovation vs. Market Maturity
-
-<div class="mermaid-diagram-wrapper">
-
-```mermaid
-%%{init: {
-  'theme': 'base',
-  'themeVariables': {
-    'quadrant1Fill': '#E5F0FC',
-    'quadrant2Fill': '#F5E8D0',
-    'quadrant3Fill': '#E8E8F5',
-    'quadrant4Fill': '#E5F5E5',
-    'quadrant1TextFill': '#000000',
-    'quadrant2TextFill': '#000000',
-    'quadrant3TextFill': '#000000',
-    'quadrant4TextFill': '#000000'
-  }
-}}%%
-quadrantChart
-    title Innovation vs. Market Readiness
-    x-axis Low Innovation --> High Innovation
-    y-axis Low Market Ready --> High Market Ready
-
-    quadrant-1 Breakthrough Leaders
-    quadrant-2 Established Players
-    quadrant-3 Laggards
-    quadrant-4 Emerging Innovators
-
-    "Traditional Outsourcing": [0.10, 0.90]
-    "GitHub Copilot": [0.50, 0.80]
-    "Low-Code Platforms": [0.30, 0.70]
-    "Cursor": [0.70, 0.60]
-    "Replit": [0.60, 0.65]
-    "Devin": [0.90, 0.20]
-    "AI Hive": [0.95, 0.40]
-```
-
-</div>
+| Solution | Innovation Level | Market Readiness | Strategic Position |
+|----------|------------------|------------------|---------------------|
+| **AI Hive** | Very High (95%) | Growing (40%) | **Emerging Innovator** - First mover advantage |
+| **Devin** | Very High (90%) | Low (20%) | Early Stage - Unproven |
+| **Cursor** | High (70%) | Medium (60%) | Rising Challenger |
+| **GitHub Copilot** | Medium (50%) | High (80%) | Established Player |
+| **Low-Code** | Low (30%) | High (70%) | Mature Market |
+| **Traditional** | Very Low (10%) | Very High (90%) | Legacy Approach |
 
 ## 10. Strategic Implications & Recommendations
 
 ### Competitive Advantages Summary
 
-<div class="mermaid-diagram-wrapper">
-
-```mermaid
-%%{init: {
-  'theme': 'base',
-  'themeVariables': {
-    'primaryColor': '#A8B8D0',
-    'primaryTextColor': '#000000',
-    'primaryBorderColor': '#8A9AB2',
-    'lineColor': '#8A9AB2',
-    'secondaryColor': '#5DBCB6',
-    'tertiaryColor': '#84D4F5',
-    'background': '#F5F5F5'
-  }
-}}%%
-graph TD
-    A[AI Hive Competitive Advantages] --> B[Economic Moat]
-    A --> C[Technical Moat]
-    A --> D[Market Moat]
-
-    B --> B1[99% cost reduction]
-    B --> B2[90% margin structure]
-    B --> B3[No human labor costs]
-
-    C --> C1[Full automation]
-    C --> C2[Multi-agent architecture]
-    C --> C3[Self-improving system]
-
-    D --> D1[First mover advantage]
-    D --> D2[Blue ocean positioning]
-    D --> D3[Network effects potential]
-
-    style A fill:#4CAF50,color:#fff
-```
-
-</div>
+| Moat Type | Key Advantages | Impact |
+|-----------|---------------|---------|
+| **Economic Moat** | • 99% cost reduction<br>• 90% margin structure<br>• No human labor costs | Impossible to match without destroying margins |
+| **Technical Moat** | • Full automation<br>• Multi-agent architecture<br>• Self-improving system | 3-5 years to replicate |
+| **Market Moat** | • First mover advantage<br>• Blue ocean positioning<br>• Network effects potential | Creates sustainable leadership |
 
 ### Competitive Response Strategies
 
