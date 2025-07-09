@@ -7,7 +7,7 @@
 
 ## Executive Summary
 
-This playbook provides comprehensive strategies for anticipating and responding to competitive threats in the AI development market. It equips sales teams with battle-tested frameworks, objection handling techniques, and counter-positioning tactics to maintain O2.services AI Swarm's market leadership position.
+This playbook provides comprehensive strategies for anticipating and responding to competitive threats in the AI development market. It equips sales teams with battle-tested frameworks, objection handling techniques, and counter-positioning tactics to maintain O2.services AI Hive's market leadership position.
 
 **Key Components:**
 - **8 competitor reaction scenarios** with tailored response strategies
@@ -103,7 +103,7 @@ graph LR
 1. **Define complexity** - Break down what makes projects complex
 2. **Show capability mapping**:
    ```
-   Complex Project Elements → AI Swarm Capabilities
+   Complex Project Elements → AI Hive Capabilities
    - Multi-service architecture → Microservices expertise
    - Integration requirements → API orchestration
    - Scalability needs → Cloud-native design
@@ -171,7 +171,7 @@ graph LR
    - Quality assurance
    - Maintenance burden
    - Opportunity cost of delays
-4. **Show math** - AI Swarm delivers 10x lower TCO
+4. **Show math** - AI Hive delivers 10x lower TCO
 
 </div>
 

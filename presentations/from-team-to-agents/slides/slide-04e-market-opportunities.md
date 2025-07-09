@@ -33,7 +33,7 @@
 **Traditional Path:**
 1. Great idea → Need team → Seek funding → Give up equity → Build MVP
 
-**AI Swarm Path:**
+**AI Hive Path:**
 1. Great idea → Start building immediately → Revenue in weeks → Keep 100% equity
 
 ---

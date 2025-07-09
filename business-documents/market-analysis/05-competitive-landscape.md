@@ -234,7 +234,7 @@ graph TD
 - Educational focus
 - Collaborative coding
 
-#### Limitations vs AI Swarm
+#### Limitations vs AI Hive
 - Still requires coding knowledge
 - Limited to web applications
 - Performance constraints
@@ -318,7 +318,7 @@ graph TD
     A --> A2[AI assists/suggests]
     A --> A3[Human reviews/fixes]
 
-    B[Devin/AI Swarm<br/>Contractor Model] --> B1[Human describes need]
+    B[Devin/AI Hive<br/>Contractor Model] --> B1[Human describes need]
     B --> B2[AI plans/builds/tests]
     B --> B3[Human approves result]
 
@@ -372,7 +372,7 @@ pie title "Global IT Outsourcing Market Share"
 #### Traditional Model Weaknesses
 <div class="mermaid-diagram-wrapper">
 
-| Factor | Traditional | AI Swarm | Advantage |
+| Factor | Traditional | AI Hive | Advantage |
 |--------|------------|----------|-----------|
 | Ramp-up time | 2-3 months | Instant | 60-90 days saved |
 | Minimum team | 5-10 people | Unlimited | No minimums |
@@ -432,7 +432,7 @@ quadrantChart
     "Cursor": [0.45, 0.60]
     "Low-Code Platforms": [0.35, 0.70]
     "Cognition (Devin)": [0.85, 0.80]
-    "AI Swarm": [0.90, 0.20]
+    "AI Hive": [0.90, 0.20]
 ```
 
 </div>
@@ -442,11 +442,11 @@ quadrantChart
 - **Leaders (High Automation, High Price)** 🔵: Cognition (Devin) - Premium autonomous solutions
 - **Challengers (Low Automation, High Price)** 🟡: Traditional outsourcing, Low-Code platforms - Expensive but limited automation
 - **Cost Players (Low Automation, Low Price)** 🟣: Freelancers - Cheap but manual labor
-- **Disruptors (High Automation, Low Price)** 🟢: AI Swarm - Revolutionary value proposition with full automation at minimal cost
+- **Disruptors (High Automation, Low Price)** 🟢: AI Hive - Revolutionary value proposition with full automation at minimal cost
 
 ## Competitive Advantages Analysis
 
-### O2.services AI Swarm Differentiators
+### O2.services AI Hive Differentiators
 
 #### 1. Full-Stack Automation
 <div class="mermaid-diagram-wrapper">
@@ -522,7 +522,7 @@ graph LR
     E --> F[Maintenance]
 
     G[Competitors] -.-> C
-    H[AI Swarm] ==> A
+    H[AI Hive] ==> A
     H ==> B
     H ==> C
     H ==> D
@@ -545,7 +545,7 @@ graph LR
 | Traditional Team | $100K+ | $300K+ | 3 months |
 | Offshore Team | $30K+ | $90K+ | 3 months |
 | Freelancers | $20K+ | $60K+ | 2-4 months |
-| **AI Swarm** | **$3-15K** | **$200-1500** | **2-3 days** |
+| **AI Hive** | **$3-15K** | **$200-1500** | **2-3 days** |
 
 </div>
 

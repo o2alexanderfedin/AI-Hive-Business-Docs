@@ -230,11 +230,11 @@ graph LR
 | | Cursor IDE | Trial | $20 | Custom | N/A |
 | **Low-Code** | Bubble | $25 | $125 | $500 | N/A |
 | | OutSystems | - | $75 | $10K+ | N/A |
-| **AI Swarm** | O2.services | - | - | - | $200-1500 |
+| **AI Hive** | O2.services | - | - | - | $200-1500 |
 
 </div>
 
-*AI Swarm is the only solution with per-project pricing
+*AI Hive is the only solution with per-project pricing
 
 ## F. Market Growth Drivers
 

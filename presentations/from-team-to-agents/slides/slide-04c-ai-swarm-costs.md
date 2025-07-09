@@ -20,17 +20,17 @@
 - **Poland Team**: $420,000/year
 - **Vietnam Team**: $284,400/year
 - **India Team**: $283,800/year
-- **AI Swarm**: $36,500-182,500/year* (~120 projects vs 4)
+- **AI Hive**: $36,500-182,500/year* (~120 projects vs 4)
 
 ## Cost per Project (3-month typical project)
 - **US Team**: $322,500
 - **Poland Team**: $105,000
 - **Vietnam Team**: $71,100
 - **India Team**: $71,000
-- **AI Swarm**: $200-1,500 (completes in 2-3 days)
+- **AI Hive**: $200-1,500 (completes in 2-3 days)
 
 ### 🚀 Key Insight: 47-1,612x Cost Reduction Per Project
-AI Swarm delivers the same results for a fraction of the cost AND time
+AI Hive delivers the same results for a fraction of the cost AND time
 
 ---
 

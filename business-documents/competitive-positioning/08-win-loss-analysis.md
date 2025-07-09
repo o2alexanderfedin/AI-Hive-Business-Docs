@@ -7,7 +7,7 @@
 
 ## Executive Summary
 
-This comprehensive win/loss analysis provides data-driven insights into O2.services AI Swarm's competitive performance, identifying patterns in successful deals and areas for improvement. By systematically analyzing won and lost opportunities, we can optimize our competitive positioning and increase win rates.
+This comprehensive win/loss analysis provides data-driven insights into O2.services AI Hive's competitive performance, identifying patterns in successful deals and areas for improvement. By systematically analyzing won and lost opportunities, we can optimize our competitive positioning and increase win rates.
 
 **Key Insights:**
 - **68% win rate** against primary competitors (up from 52% YoY)
@@ -238,7 +238,7 @@ graph TD
         D[Low Performance/Low Price]
     end
 
-    A --> E[O2.services AI Swarm]
+    A --> E[O2.services AI Hive]
     A --> F[Microsoft Azure AI]
     B --> G[Google Vertex AI]
     C --> H[Legacy Vendors]

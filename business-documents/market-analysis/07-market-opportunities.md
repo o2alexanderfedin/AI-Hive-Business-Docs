@@ -183,7 +183,7 @@ graph TD
     A --> A2[Give up 20-40% equity]
     A --> A3[18-month runway pressure]
 
-    B[With AI Swarm] --> B1[Need $10-50K to start]
+    B[With AI Hive] --> B1[Need $10-50K to start]
     B --> B2[Keep 100% equity]
     B --> B3[Profitable from day 1]
 
@@ -208,7 +208,7 @@ graph TD
 #### Underserved Needs
 <div class="mermaid-diagram-wrapper">
 
-| Need | Current Solution | Cost | AI Swarm Solution | Cost |
+| Need | Current Solution | Cost | AI Hive Solution | Cost |
 |------|------------------|------|-------------------|------|
 | E-commerce site | Agency/Freelancer | $25K | 2-day build | $500 |
 | Mobile app | Dev shop | $75K | 3-day build | $1000 |
@@ -408,7 +408,7 @@ graph TD
 #### Partner Economics
 <div class="mermaid-diagram-wrapper">
 
-| Partner Type | Current Margin | With AI Swarm* | Full Automation** | Profit Multiplier |
+| Partner Type | Current Margin | With AI Hive* | Full Automation** | Profit Multiplier |
 |--------------|----------------|----------------|-------------------|-------------------|
 | **Consultancy** | 40% | 80% | 95% | 2-6x |
 | **Digital Agency** | 25% | 70% | 93% | 3-9x |
@@ -416,16 +416,16 @@ graph TD
 
 </div>
 
-*With AI Swarm: Includes overhead, management, and business operations costs
-**Full Automation: AI Swarm costs only (3-7% of project value)
+*With AI Hive: Includes overhead, management, and business operations costs
+**Full Automation: AI Hive costs only (3-7% of project value)
 
 ##### Example: $100K Project Economics
 <div class="mermaid-diagram-wrapper">
 
-| Scenario | Development Cost | Other Costs | AI Swarm Cost | Total Profit | Margin |
+| Scenario | Development Cost | Other Costs | AI Hive Cost | Total Profit | Margin |
 |----------|------------------|-------------|---------------|--------------|--------|
 | **Traditional Agency** | $60K | $15K | $0 | $25K | 25% |
-| **With AI Swarm** | $0 | $27K | $3K | $70K | 70% |
+| **With AI Hive** | $0 | $27K | $3K | $70K | 70% |
 | **Full Automation** | $0 | $4K | $3K | $93K | 93% |
 
 </div>

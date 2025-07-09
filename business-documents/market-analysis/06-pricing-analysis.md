@@ -85,7 +85,7 @@ graph TD
     C --> C2[Cursor: $20/user]
     C --> C3[Enterprise: $200+/user]
 
-    D --> D1[AI Swarm: $100-500/day]
+    D --> D1[AI Hive: $100-500/day]
 ```
 
 </div>
@@ -154,11 +154,11 @@ pie title "Development Pricing Models Usage 2024"
 | Traditional Team | $0 | $50,000,000 | **$50,000,000** | Baseline |
 | GitHub Copilot | $234,000 | $50,000,000 | **$50,234,000** | -0.5% |
 | Cursor Business | $120,000 | $50,000,000 | **$50,120,000** | -0.2% |
-| **🟢 AI Swarm** | **$36,500-182,500** | **$0** | **$36,500-182,500** | **99.6%** |
+| **🟢 AI Hive** | **$36,500-182,500** | **$0** | **$36,500-182,500** | **99.6%** |
 
 </div>
 
-**Key Insight**: AI coding assistants (Copilot, Cursor) are just tools that still require full development teams. The tool cost is less than 0.5% of total expenses. Only AI Swarm eliminates the need for human developers entirely.
+**Key Insight**: AI coding assistants (Copilot, Cursor) are just tools that still require full development teams. The tool cost is less than 0.5% of total expenses. Only AI Hive eliminates the need for human developers entirely.
 
 ### Visual Cost Comparison
 
@@ -185,7 +185,7 @@ config:
 ---
 xychart-beta horizontal
     title "Annual Cost Breakdown for 500 Developers (in millions)"
-    x-axis ["Traditional", "GitHub Copilot", "Cursor Business", "🟢 AI Swarm"]
+    x-axis ["Traditional", "GitHub Copilot", "Cursor Business", "🟢 AI Hive"]
     y-axis "Cost ($M)" 0 --> 55
     bar "Developer Costs" [50.00, 50.00, 50.00, 0]
     bar "Tool/Platform Costs" [0, 0.234, 0.12, 0.18]
@@ -197,11 +197,11 @@ xychart-beta horizontal
 
 ## Cost-per-Project Analysis
 
-### Traditional vs AI Swarm
+### Traditional vs AI Hive
 
 <div class="mermaid-diagram-wrapper">
 
-| Project Type | Traditional Cost | Time | AI Swarm Cost | Time | Savings |
+| Project Type | Traditional Cost | Time | AI Hive Cost | Time | Savings |
 |--------------|------------------|------|---------------|------|---------|
 | **Simple Website** | $10K-25K | 4 weeks | $200-500 | 1-2 days | 95-98% |
 | **Mobile App** | $50K-150K | 3 months | $500-1500 | 2-3 days | 99% |
@@ -282,7 +282,7 @@ graph TD
     A --> A2[Time: 3 months]
     A --> A3[Team: 10 people]
 
-    B[AI Swarm] --> B1[Cost: $1.5K]
+    B[AI Hive] --> B1[Cost: $1.5K]
     B --> B2[Time: 3 days]
     B --> B3[Team: Unlimited AI]
 
@@ -305,7 +305,7 @@ Developer Cost + Overhead + Margin = Price
 $100/hr + $30/hr + $20/hr = $150/hr
 ```
 
-#### AI Swarm Value Model
+#### AI Hive Value Model
 ```
 Customer Value - Competitive Price = Value Gap
 $300K project - $1.5K price = $298.5K value created
@@ -379,7 +379,7 @@ $300K project - $1.5K price = $298.5K value created
   }
 }}%%
 graph LR
-    A[AI Swarm Pricing Options] --> B[Pay as You Go<br/>$150-200/day]
+    A[AI Hive Pricing Options] --> B[Pay as You Go<br/>$150-200/day]
     A --> C[Starter<br/>$100-300/day]
     A --> D[Growth<br/>$300-500/day]
     A --> E[Scale<br/>$500-1000/day]
@@ -488,7 +488,7 @@ quadrantChart
     "Onshore Teams": [0.60, 0.80]
     "AI Tools": [0.50, 0.30]
     "Consultancies": [0.70, 0.90]
-    "AI Swarm": [0.90, 0.15]
+    "AI Hive": [0.90, 0.15]
 ```
 
 </div>
@@ -498,9 +498,9 @@ quadrantChart
 - **Premium Solutions (High Value, High Price)** 🔵: Consultancies - High-value strategic services at premium pricing
 - **Overpriced (Low Value, High Price)** 🟡: Onshore Teams - Traditional pricing without proportional value
 - **Budget Options (Low Value, Low Price)** 🟣: Freelancers - Affordable but limited scope and quality
-- **Value Leaders (High Value, Low Price)** 🟢: AI Swarm - Maximum value delivery at disruptive pricing
+- **Value Leaders (High Value, Low Price)** 🟢: AI Hive - Maximum value delivery at disruptive pricing
 
-This positioning analysis reveals AI Swarm's unique opportunity in the value leaders quadrant, offering enterprise-grade capabilities at startup-friendly pricing.
+This positioning analysis reveals AI Hive's unique opportunity in the value leaders quadrant, offering enterprise-grade capabilities at startup-friendly pricing.
 
 ## Pricing Psychology Insights
 
@@ -508,7 +508,7 @@ This positioning analysis reveals AI Swarm's unique opportunity in the value lea
 
 1. **Traditional Project**: $300,000 (anchor)
 2. **Offshore Option**: $90,000 (seems reasonable)
-3. **AI Swarm**: $1,500 (seems incredible)
+3. **AI Hive**: $1,500 (seems incredible)
 
 ### Value Perception Drivers
 
@@ -832,7 +832,7 @@ graph TD
 1. **Massive Arbitrage**: 47-1,612x price difference creates huge opportunity
 2. **Value Pricing Works**: Customers pay for outcomes, not time
 3. **Segment Variation**: 10x price difference acceptable across segments
-4. **Anchor Effect**: Traditional pricing makes AI Swarm seem miraculous
+4. **Anchor Effect**: Traditional pricing makes AI Hive seem miraculous
 5. **Volume Play**: Lower prices drive 100x more volume
 
 ## Recommended Pricing Strategy
@@ -843,7 +843,7 @@ graph TD
 4. **Usage Incentives**: Encourage multiple projects
 5. **Partner Pricing**: Enable channel growth
 
-The pricing strategy should emphasize value creation rather than cost competition, positioning AI Swarm as a business enabler rather than just a cheaper alternative.
+The pricing strategy should emphasize value creation rather than cost competition, positioning AI Hive as a business enabler rather than just a cheaper alternative.
 
 ---
 

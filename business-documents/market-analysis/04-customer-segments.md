@@ -114,7 +114,7 @@ graph TD
 
 #### Opportunity
 - **Current State**: Forced to seek VC funding for basic development
-- **With AI Swarm**: Bootstrap with $3-15K/month instead of $100K+
+- **With AI Hive**: Bootstrap with $3-15K/month instead of $100K+
 - **Market Impact**: Enable 10x more startups to launch
 
 #### Success Metrics
@@ -142,7 +142,7 @@ graph TD
 
 </div>
 
-#### Current vs. AI Swarm Model
+#### Current vs. AI Hive Model
 <div class="mermaid-diagram-wrapper">
 
 ```mermaid
@@ -213,7 +213,7 @@ graph TD
     A --> A2[Low Margins<br/>15-25%]
     A --> A3[Scaling Issues<br/>Hiring bottleneck]
 
-    B[AI Swarm Model] --> B1[Value Delivery<br/>Fixed price]
+    B[AI Hive Model] --> B1[Value Delivery<br/>Fixed price]
     B --> B2[High Margins<br/>70-85%]
     B --> B3[Instant Scale<br/>Unlimited capacity]
 ```

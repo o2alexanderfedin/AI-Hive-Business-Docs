@@ -24,7 +24,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Updated README with accurate metrics from slide deck
 - Reorganized target markets prioritizing startups (lowest barrier to entry)
-- Enhanced README with AI Swarm capabilities and proven projects
+- Enhanced README with AI Hive capabilities and proven projects
 - Updated slide 8 conclusion with accurate metrics (up to 50x faster, 30x more projects)
 - Added nested bullets for time-based vs per-project cost reductions
 
@@ -71,9 +71,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Restructured slide-04 with detailed team cost breakdowns
 - Standardized all teams to 10 people for fair comparison
-- Updated AI Swarm pricing to $100-500/day (was $200-500)
-- Added workload dependency note for AI Swarm pricing
-- Emphasized AI Swarm works ~50x faster than human teams
+- Updated AI Hive pricing to $100-500/day (was $200-500)
+- Added workload dependency note for AI Hive pricing
+- Emphasized AI Hive works ~50x faster than human teams
 - Highlighted 24x7x365 availability with no downtime
 
 ## [1.0.7] - 2025-07-08

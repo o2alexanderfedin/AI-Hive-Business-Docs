@@ -43,7 +43,7 @@
 **GitHub:** [o2alexanderfedin/ai-audio-notes-market-analysis](https://github.com/o2alexanderfedin/ai-audio-notes-market-analysis)
 
 - **Type:** Comprehensive market research project
-- **Purpose:** AI Swarm analyzing business opportunity
+- **Purpose:** AI Hive analyzing business opportunity
 - **Scope:** $5.7B TAM, 5 segments, 7 markets
 - **Deliverables:** 350 user personas, pricing strategy
 - **Agent Contribution:**

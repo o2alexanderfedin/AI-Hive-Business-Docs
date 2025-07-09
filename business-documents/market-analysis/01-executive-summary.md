@@ -35,7 +35,7 @@ The AI-augmented software development market represents one of the most transfor
 
 ### Our Strategic Position
 
-O2.services AI Swarm addresses critical market gaps:
+O2.services AI Hive addresses critical market gaps:
 
 1. **Cost Revolution**: 47-1,612x cheaper per project than traditional teams
 2. **Speed Advantage**: Up to 50x faster delivery (2-3 days vs 3 months)
@@ -52,7 +52,7 @@ Based on adoption barriers analysis, our go-to-market prioritizes:
 4. **Enterprises** (Highest Barrier): Innovation lab pilots
 
 ### Revenue Projections
-*Note: AI Swarm launched in May 2025 (2 months ago). Projections below are from current position.*
+*Note: AI Hive launched in May 2025 (2 months ago). Projections below are from current position.*
 
 #### Conservative Scenario (Startup Focus Only)
 Limited to bootstrap market with minimal enterprise adoption:
