@@ -79,11 +79,74 @@ Based on the work performed, the following specialists would be needed:
 - **Total Cost**: **$120,065**
 - **Timeline**: 3-4 months (typical for this scope)
 
-### AI Hive Approach
+### AI Hive Approach (With Human Oversight)
 - **AI Usage Cost**: ~$300 (based on API usage)
 - **Human Oversight**: 10 hours @ $150/hr = $1,500
 - **Total Cost**: **$1,800**
 - **Timeline**: 28 hours (1.2 days)
+
+### AI Hive Approach (Unsupervised)
+- **AI Usage Cost**: ~$300 (based on API usage)
+- **Human Oversight**: 0 hours = $0
+- **Total Cost**: **$300**
+- **Timeline**: 28 hours (1.2 days)
+
+## Three-Way Comparison
+
+<div class="mermaid-diagram-wrapper">
+
+| Approach | Cost | Time | Cost Reduction | Speed Gain |
+|----------|------|------|----------------|------------|
+| **Human Team** | $120,065 | 90 days | Baseline | Baseline |
+| **AI + Human Oversight** | $1,800 | 1.2 days | 98.5% | 75x |
+| **AI Unsupervised** | $300 | 1.2 days | 99.75% | 75x |
+
+</div>
+
+### Cost Breakdown Visualization
+
+<div class="mermaid-diagram-wrapper">
+
+```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#E0E8F0',
+    'primaryTextColor': '#000000',
+    'primaryBorderColor': '#B0C5D8',
+    'lineColor': '#B0C5D8',
+    'secondaryColor': '#D5E8E0',
+    'background': '#FFFFFF',
+    'darkMode': false,
+    'xyChart': {
+      'backgroundColor': '#F5F5F5',
+      'titleColor': '#000000',
+      'xAxisLabelColor': '#000000',
+      'yAxisLabelColor': '#000000',
+      'plotColorPalette': '#FFB6C1,#5DBCB6,#84D4F5'
+    }
+  }
+}}%%
+xychart-beta
+    title "Cost Comparison: Human vs AI Supervised vs AI Unsupervised"
+    x-axis ["Human Team", "AI + Oversight", "AI Unsupervised"]
+    y-axis "Cost (USD)" 0 --> 120000
+    bar [120065, 1800, 300]
+```
+
+</div>
+
+### When to Use Each Approach
+
+<div class="mermaid-diagram-wrapper">
+
+| Approach | Best For | Risks | Benefits |
+|----------|----------|-------|----------|
+| **Human Team** | • High-stakes legal docs<br/>• Creative campaigns<br/>• Strategic planning | • High cost<br/>• Long timeline<br/>• Human errors | • Full accountability<br/>• Creative input<br/>• Strategic thinking |
+| **AI + Oversight** | • Business documentation<br/>• Technical specs<br/>• Market analysis | • Minimal risk<br/>• Some cost | • Quality assurance<br/>• Fast delivery<br/>• Cost effective |
+| **AI Unsupervised** | • Internal docs<br/>• First drafts<br/>• Routine reports | • No review<br/>• Potential errors<br/>• No validation | • Lowest cost<br/>• Fastest delivery<br/>• Maximum efficiency |
+
+</div>
 
 ## Performance Metrics
 
@@ -116,14 +179,15 @@ graph LR
 
 ### Key Performance Indicators
 
-| Metric | Human Team | AI Hive | Improvement |
-|--------|------------|---------|-------------|
-| **Total Cost** | $120,065 | $1,800 | **98.5% reduction** |
-| **Time to Complete** | 90 days | 1.2 days | **75x faster** |
-| **Cost per Document** | $2,668 | $40 | **98.5% reduction** |
-| **Revisions Included** | 3-4 rounds | 53 releases | **13x more iterations** |
-| **Availability** | Business hours | 24/7 | **3x availability** |
-| **Consistency** | Variable | 100% | **Perfect consistency** |
+| Metric | Human Team | AI + Oversight | AI Unsupervised | Best Improvement |
+|--------|------------|----------------|-----------------|------------------|
+| **Total Cost** | $120,065 | $1,800 | $300 | **99.75% reduction** |
+| **Time to Complete** | 90 days | 1.2 days | 1.2 days | **75x faster** |
+| **Cost per Document** | $2,668 | $40 | $6.67 | **99.75% reduction** |
+| **Revisions Included** | 3-4 rounds | 53 releases | 53 releases | **13x more iterations** |
+| **Availability** | Business hours | 24/7 | 24/7 | **3x availability** |
+| **Consistency** | Variable | 100% | 100% | **Perfect consistency** |
+| **Quality Assurance** | Full review | Spot checks | None | **Trade-off** |
 
 ## Quality Analysis
 
@@ -145,29 +209,47 @@ graph LR
 
 ## ROI Analysis
 
-### Investment in AI Hive
-- **Cost**: $1,800
-- **Time Saved**: 578.8 human hours
-- **Dollar Value of Time**: $118,265
+### Investment Comparison
 
-### Return on Investment
-- **ROI**: 6,570% (($120,065 - $1,800) / $1,800)
-- **Payback Period**: Immediate
-- **Annual Savings Potential**: $1.4M+ (12 similar projects)
+<div class="mermaid-diagram-wrapper">
+
+| Approach | Investment | Value Delivered | ROI | Payback |
+|----------|------------|-----------------|-----|---------|
+| **AI + Oversight** | $1,800 | $120,065 | 6,570% | Immediate |
+| **AI Unsupervised** | $300 | $120,065 | 39,922% | Immediate |
+
+</div>
+
+### Return on Investment Details
+- **AI + Oversight ROI**: 6,570% (($120,065 - $1,800) / $1,800)
+- **AI Unsupervised ROI**: 39,922% (($120,065 - $300) / $300)
+- **Annual Savings Potential**:
+  - With oversight: $1.4M+ (12 projects)
+  - Unsupervised: $1.43M+ (12 projects)
 
 ## Conclusions
 
-### Cost Efficiency
-AI Hive delivered **$120,065 worth of work for $1,800** - a 98.5% cost reduction.
+### Cost Efficiency Spectrum
+- **With Human Oversight**: $120,065 worth of work for $1,800 - 98.5% cost reduction
+- **Fully Unsupervised**: $120,065 worth of work for $300 - 99.75% cost reduction
 
 ### Speed Advantage
-Completed in **28 hours** what would take humans **3 months** - a 75x speed improvement.
+All AI approaches completed in **28 hours** what would take humans **3 months** - a 75x speed improvement.
 
-### Quality Achievement
-Produced **investment-ready documentation** with 53 iterations for continuous improvement.
+### Quality vs Cost Trade-off
+- **Human Team**: Highest quality assurance, highest cost
+- **AI + Oversight**: Balanced quality and cost, best for client deliverables
+- **AI Unsupervised**: Lowest cost, suitable for internal use or first drafts
+
+### Recommendation
+For this repository (investor-ready documentation), the **AI + Oversight** approach was optimal, providing:
+- Professional quality output
+- 98.5% cost savings
+- Human validation for critical business materials
+- Still achieved 6,570% ROI
 
 ### Scalability
-Can handle **unlimited parallel projects** without additional overhead.
+Both AI approaches can handle **unlimited parallel projects** without additional overhead.
 
 ---
 
