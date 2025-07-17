@@ -10,9 +10,9 @@
 ## 🤖 Primary Agents
 
 ### 1. **Code Generator Agent**
-- Full-stack application creation
+- New application creation & existing code enhancement
 - Multi-language support (Python, JS, Go, Java, C#)
-- Database schema generation
+- Database schema generation & migration
 
 ### 2. **Architecture Agent**
 - System design optimization
