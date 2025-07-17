@@ -1,5 +1,7 @@
 # AI Hive: Autonomous Software Engineering Platform
 
+<link rel="stylesheet" href="../../assets/css/styles.css">
+
 ## Executive Overview
 
 AI Hive represents a breakthrough in autonomous software development, achieving performance metrics that fundamentally alter the economics of software creation. Our proprietary orchestration platform delivers enterprise-grade software solutions through advanced multi-agent coordination systems.

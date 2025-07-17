@@ -1,5 +1,7 @@
 # AI Hive: Architecture Overview
 
+<link rel="stylesheet" href="../../assets/css/styles.css">
+
 ## What is AI Hive?
 
 **AI Hive** is an autonomous AI team orchestration system that delivers complete software projects without human developers.
@@ -49,6 +51,8 @@
 
 ### Global Pricing Comparison
 
+<div class="mermaid-diagram-wrapper">
+
 | Region | Traditional Development | AI-Assisted Tools | AI Hive |
 |--------|------------------------|-------------------|---------|
 | **United States** | $150-300/hour | $100-200/hour | **$3-5/hour** |
@@ -56,7 +60,11 @@
 | **India** | $15-50/hour | $10-35/hour | **$3-5/hour** |
 | **UAE Market** | $43-163/hour | $27-109/hour | **$3-5/hour** |
 
+</div>
+
 ### Key Advantages
+
+<div class="mermaid-diagram-wrapper">
 
 | Metric | Traditional Development | AI-Assisted Tools | AI Hive |
 |--------|------------------------|-------------------|---------|
@@ -65,6 +73,8 @@
 | Availability | 40 hours/week | 40 hours/week | **24/7/365** |
 | Quality Consistency | Variable | Variable | **100% peer review** |
 | Cost Reduction | - | 20-30% | **98-99%** |
+
+</div>
 
 ## Use Cases
 
@@ -82,11 +92,15 @@
 
 ## ROI Example: 6-Month Project
 
+<div class="mermaid-diagram-wrapper">
+
 | Region | Traditional Cost | AI Hive Cost | Savings $ | Savings % | Delivery Time |
 |--------|-----------------|--------------|-----------|-----------|---------------|
 | **United States** | $960,000 | $288 | $959,712 | 99.97% | 6 months → 3 days |
 | **Eastern Europe** | $240,000 | $288 | $239,712 | 99.88% | 6 months → 3 days |
 | **India** | $144,000 | $288 | $143,712 | 99.80% | 6 months → 3 days |
+
+</div>
 
 *Based on: 5 engineers × 40 hrs/week × 24 weeks (960 hrs) at regional rates vs. AI Hive 72 hrs at $4/hr*
 
@@ -95,7 +109,7 @@
 AI Hive integrates seamlessly with existing workflows:
 1. Define project requirements
 2. AI Hive assembles the optimal team
-3. Receive production-ready code
+3. Receive your completed deliverables
 4. Iterate at unprecedented speed
 
 ---
