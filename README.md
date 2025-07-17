@@ -30,12 +30,14 @@ Our AI Hive delivers enterprise-grade software development at a fraction of the 
 ### 💼 Funding Materials
 
 - **[Pitch Deck: From Team to Agents](presentations/from-team-to-agents/slide-deck.md)** - Comprehensive pitch deck showcasing AI-augmented development teams
+- **[AI Hive One-Pager](business-documents/investor-materials/ai-hive-one-pager.md)** - Concise overview with global pricing and ROI
 - **[Investor One-Pager](business-documents/investor-materials/investor-one-pager.md)** - Executive summary for investors
 - **[Investor Materials](business-documents/investor-materials/index.md)** - Complete investor documentation
 - Executive summaries (coming soon)
 
 ### 📄 Business Documents
 
+- **[AI Hive Architecture](AI-HIVE-ARCHITECTURE.md)** - Detailed system architecture and design principles
 - **[Market Analysis](business-documents/market-analysis/index.md)** - Comprehensive analysis of the AI-augmented software development market
 - **[Competitive Positioning](business-documents/competitive-positioning/)** - Detailed competitive analysis and positioning strategies for AI-augmented development
 - **[Performance Analysis](business-documents/performance-analysis/index.md)** ⭐ - **MUST READ: AI vs Human cost/speed analysis with killer numbers + 5,831 operations tracked**
