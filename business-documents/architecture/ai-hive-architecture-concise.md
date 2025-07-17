@@ -101,3 +101,7 @@ AI Hive integrates seamlessly with existing workflows:
 ---
 
 **Transform your software development today with AI Hive's revolutionary approach to autonomous engineering.**
+
+---
+
+© 2023-2025 [O2.services](https://O2.services) - All Rights Reserved

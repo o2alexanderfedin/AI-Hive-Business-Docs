@@ -98,4 +98,4 @@ AI Hive represents more than an incremental improvement in software development�
 
 *AI Hive: Where autonomous intelligence meets software engineering excellence.*
 
-© 2024 O2.services - Proprietary and Confidential
+© 2023-2025 [O2.services](https://O2.services) - Proprietary and Confidential - All Rights Reserved
