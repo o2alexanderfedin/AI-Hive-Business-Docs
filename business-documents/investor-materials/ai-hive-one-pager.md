@@ -1,6 +1,9 @@
-# AI Hive: Architecture Overview
+[🏠 Home](../../README.md) | [📁 Investor Materials](index.md)
 
 <link rel="stylesheet" href="../../assets/css/styles.css">
+---
+
+# AI Hive One-Pager
 
 ## What is AI Hive?
 
@@ -119,3 +122,7 @@ AI Hive integrates seamlessly with existing workflows:
 ---
 
 © 2023-2025 [O2.services](https://O2.services) - All Rights Reserved
+
+---
+
+[🏠 Home](../../README.md) | [📁 Investor Materials](index.md)
