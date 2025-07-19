@@ -6,7 +6,8 @@
       "Read",
       "Update",
       "Bash",
-      "Bash(*)"
+      "Bash(*)",
+      "WebFetch(domain:www.anthropic.com)"
     ],
     "deny": []
   }

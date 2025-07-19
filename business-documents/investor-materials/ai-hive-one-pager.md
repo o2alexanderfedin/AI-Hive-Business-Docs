@@ -58,10 +58,10 @@
 
 | Region | Traditional Development | AI-Assisted Tools | AI Hive |
 |--------|------------------------|-------------------|---------|
-| **United States** | $150-300/hour | $100-200/hour | **$3-5/hour** |
-| **Eastern Europe** | $25-80/hour | $20-60/hour | **$3-5/hour** |
-| **India** | $15-50/hour | $10-35/hour | **$3-5/hour** |
-| **UAE Market** | $43-163/hour | $27-109/hour | **$3-5/hour** |
+| **United States** | $150-300/hour | $100-200/hour | **$6.25/hour** |
+| **Eastern Europe** | $25-80/hour | $20-60/hour | **$6.25/hour** |
+| **India** | $15-50/hour | $10-35/hour | **$6.25/hour** |
+| **UAE Market** | $43-163/hour | $27-109/hour | **$6.25/hour** |
 
 </div>
 
@@ -75,7 +75,7 @@
 | Development Speed | Baseline | 2-3x faster | **13-15x faster** |
 | Availability | 40 hours/week | 40 hours/week | **24/7/365** |
 | Quality Consistency | Variable | Variable | **100% peer review** |
-| Cost Reduction | - | 20-30% | **98-99%** |
+| Cost Reduction | - | 20-30% | **95-97%** |
 
 </div>
 
@@ -99,13 +99,13 @@
 
 | Region | Traditional Cost | AI Hive Cost | Savings $ | Savings % | Delivery Time |
 |--------|-----------------|--------------|-----------|-----------|---------------|
-| **United States** | $960,000 | $288 | $959,712 | 99.97% | 6 months → 3 days |
-| **Eastern Europe** | $240,000 | $288 | $239,712 | 99.88% | 6 months → 3 days |
-| **India** | $144,000 | $288 | $143,712 | 99.80% | 6 months → 3 days |
+| **United States** | $960,000 | $450 | $959,550 | 99.95% | 6 months → 3 days |
+| **Eastern Europe** | $240,000 | $450 | $239,550 | 99.81% | 6 months → 3 days |
+| **India** | $144,000 | $450 | $143,550 | 99.69% | 6 months → 3 days |
 
 </div>
 
-*Based on: 5 engineers × 40 hrs/week × 24 weeks (960 hrs) at regional rates vs. AI Hive 72 hrs at $4/hr*
+*Based on: 5 engineers × 40 hrs/week × 24 weeks (960 hrs) at regional rates vs. AI Hive 72 hrs at $6.25/hr*
 
 ## Getting Started
 
