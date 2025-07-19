@@ -79,6 +79,41 @@ AI Hive will revolutionize the $737B software development market by delivering f
 
 </div>
 
+### Revenue Growth Trajectory
+
+<div class="mermaid-diagram-wrapper">
+
+```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#C8D8E8',
+    'primaryTextColor': '#000000',
+    'primaryBorderColor': '#B0C5D8',
+    'lineColor': '#B8DDD8',
+    'secondaryColor': '#B8DDD8',
+    'tertiaryColor': '#C5DEF0',
+    'background': '#F5F5F5',
+    'darkMode': false
+  }
+}}%%
+graph LR
+    A[2025: $750K] --> B[2026: $5M]
+    B --> C[2027: $25M]
+    C --> D[2028: $75M]
+    D --> E[2029: $200M]
+    E --> F[2030: $300M+]
+
+    style A fill:#E5D5DC,stroke:#333,stroke-width:2px,color:#000
+    style B fill:#D8D8D8,stroke:#333,stroke-width:2px,color:#000
+    style C fill:#C5DEF0,stroke:#333,stroke-width:2px,color:#000
+    style D fill:#B8DDD8,stroke:#333,stroke-width:2px,color:#000
+    style E fill:#C8D8E8,stroke:#333,stroke-width:2px,color:#000
+    style F fill:#F5E8D0,stroke:#333,stroke-width:3px,color:#000
+```
+
+</div>
+
 ## Go-to-Market Strategy
 
 ### Target Market Reality
@@ -120,7 +155,72 @@ AI Hive will revolutionize the $737B software development market by delivering f
 4. **Complete Package**: Full product with docs, tests, git repo (not just code)
 5. **Risk-Free**: Try with $99 before committing to more
 
+### Cost Comparison: Traditional vs AI Hive
+
+<div class="mermaid-diagram-wrapper">
+
+```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#C8D8E8',
+    'primaryTextColor': '#000000',
+    'darkMode': false
+  }
+}}%%
+graph TD
+    A[MVP Development Cost]
+    A --> B[Traditional: $40,000]
+    A --> C[AI Hive: $500]
+
+    B --> B1[3-6 months]
+    B --> B2[2-5 developers]
+    B --> B3[High burn rate]
+
+    C --> C1[3 days]
+    C --> C2[Fully autonomous]
+    C --> C3[95% cost savings]
+
+    style B fill:#E5D5DC,stroke:#333,stroke-width:2px,color:#000
+    style C fill:#B8DDD8,stroke:#333,stroke-width:2px,color:#000
+    style B1 fill:#F5D5D5,stroke:#333,color:#000
+    style B2 fill:#F5D5D5,stroke:#333,color:#000
+    style B3 fill:#F5D5D5,stroke:#333,color:#000
+    style C1 fill:#D5F5D5,stroke:#333,color:#000
+    style C2 fill:#D5F5D5,stroke:#333,color:#000
+    style C3 fill:#D5F5D5,stroke:#333,color:#000
+```
+
+</div>
+
 ### Pay-As-You-Go Conversion Strategy (Year 2+)
+
+<div class="mermaid-diagram-wrapper">
+
+```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#C8D8E8',
+    'primaryTextColor': '#000000',
+    'darkMode': false
+  }
+}}%%
+graph LR
+    A[Try: $99 Task] --> B{40% Convert}
+    B --> C[Buy: $500 MVP]
+    C --> D{30% Convert}
+    D --> E[Subscribe: $1,500/mo]
+    E --> F[Grow: $5K-15K/mo]
+
+    style A fill:#E5D5DC,stroke:#333,stroke-width:2px,color:#000
+    style C fill:#C5DEF0,stroke:#333,stroke-width:2px,color:#000
+    style E fill:#B8DDD8,stroke:#333,stroke-width:2px,color:#000
+    style F fill:#C8D8E8,stroke:#333,stroke-width:3px,color:#000
+```
+
+</div>
+
 - **Entry**: $99 micro task gets them hooked on speed/quality
 - **Upsell**: After first success, 40% buy $500 MVP
 - **Retain**: Happy MVP customers convert to $1,500/month
