@@ -7,7 +7,7 @@
 
 ## Executive Summary
 
-AI Hive will revolutionize the $737B software development market by delivering fully autonomous development at 95% lower cost and 15x faster speed than traditional teams. Our AI-run business model requires only 3-30 humans to manage a $3.7B revenue operation by 2029.
+AI Hive will revolutionize the $737B software development market by delivering fully autonomous development at 95% lower cost and 15x faster speed than traditional teams. Our AI-run business model requires only 3-30 humans to build a $600M+ revenue operation by 2030.
 
 ## Market Opportunity
 
@@ -70,12 +70,12 @@ AI Hive will revolutionize the $737B software development market by delivering f
 
 | Period | Revenue | Customers | Avg Revenue/Customer | Human Team |
 |--------|---------|-----------|---------------------|------------|
-| Q3-Q4 2025 | $2M | 1,000 | $2,000 | 3-5 |
-| 2026 | $10M | 5,000 | $2,000 | 5-8 |
-| 2027 | $40M | 20,000 | $2,000 | 8-12 |
-| 2028 | $100M | 50,000 | $2,000 | 12-20 |
-| 2029 | $365M | 150,000 | $2,433 | 20-25 |
-| H1 2030 | $300M | 200,000 | $3,000 | 25-30 |
+| Q3-Q4 2025 | $750K | 300 | $2,500 | 3-5 |
+| 2026 | $5M | 2,500 | $2,000 | 5-8 |
+| 2027 | $25M | 12,500 | $2,000 | 8-12 |
+| 2028 | $75M | 35,000 | $2,143 | 12-20 |
+| 2029 | $200M | 80,000 | $2,500 | 20-25 |
+| H1 2030 | $150M | 50,000 | $3,000 | 25-30 |
 
 </div>
 
@@ -97,7 +97,7 @@ AI Hive will revolutionize the $737B software development market by delivering f
 - **Target**: Event attendees, bootcamp participants, hub members
 - **Offering**: $500 MVP in 3 days
 - **Sales**: 3 salespeople + 1 partnership manager
-- **Goal**: 1,000 customers by year-end (revised up from 500)
+- **Goal**: 300 customers by year-end (conservative target)
 
 ### Phase 2: Scale Through Success (Q3 2026 - 2028)
 - **Proven Model**: Leverage early customer success stories
@@ -136,10 +136,10 @@ AI Hive will revolutionize the $737B software development market by delivering f
 ## Key Milestones
 
 - **Q3 2025**: Launch with EntSpace bootcamp, Web Summit presence
-- **Q4 2025**: 1,000 paying customers (validated channels)
-- **Q2 2026**: 5,000 customers, Series A funding
-- **Q4 2027**: 20,000 customers, $100M ARR
-- **Q2 2030**: 250,000 customers, IPO preparation
+- **Q4 2025**: 300 paying customers (prove the model)
+- **Q2 2026**: 1,500 customers, Series A funding
+- **Q4 2027**: 12,500 customers, $50M ARR
+- **Q2 2030**: 100,000 customers, growth funding
 
 ## Operating Model
 
@@ -175,16 +175,16 @@ AI Hive will revolutionize the $737B software development market by delivering f
 
 ### Traditional SaaS vs AI Hive
 - **Traditional**: 1,000+ employees for $1B revenue
-- **AI Hive**: 20-30 humans for $3.7B revenue
+- **AI Hive**: 20-30 humans for $1B+ revenue potential
 - **Operating Margin**: 95%+ (vs industry 20-30%)
-- **Revenue per Human**: $120M+ (vs industry $500K)
+- **Revenue per Human**: $30-50M+ (vs industry $500K)
 - **AI Operations Cost**: <$15K/year (proven in production)
 
 ## Success Metrics
 
-- **End 2025**: 1,000 customers, $4M ARR, validated channels working
-- **End 2027**: 20,000 customers, $80M ARR, market leadership
-- **Q2 2030**: 250,000 customers, $2B run rate, IPO ready
+- **End 2025**: 300 customers, $1.5M ARR, channels validated
+- **End 2027**: 12,500 customers, $50M ARR, proven growth
+- **Q2 2030**: 100,000 customers, $600M run rate, market leader
 
 ---
 
