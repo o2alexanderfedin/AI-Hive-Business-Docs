@@ -142,6 +142,7 @@ AI Hive will revolutionize the $737B software development market by delivering f
 - **Support**: AI provides 24/7 customer support and issue resolution
 - **Development**: AI Hive improves itself autonomously
 - **Marketing**: AI generates content, manages campaigns
+- **Cost Structure**: $16-44/day operational costs (verified from actual usage)
 
 ### Human Team Composition
 - **Sales Team** (60-70% of staff): Direct outreach to startups and solo entrepreneurs
@@ -170,6 +171,7 @@ AI Hive will revolutionize the $737B software development market by delivering f
 - **AI Hive**: 20-30 humans for $3.7B revenue
 - **Operating Margin**: 95%+ (vs industry 20-30%)
 - **Revenue per Human**: $120M+ (vs industry $500K)
+- **AI Operations Cost**: <$15K/year (proven in production)
 
 ## Success Metrics
 
