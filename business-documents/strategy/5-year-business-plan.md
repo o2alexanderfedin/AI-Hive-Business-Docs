@@ -7,7 +7,7 @@
 
 ## Executive Summary
 
-AI Hive will revolutionize the $737B software development market by delivering fully autonomous development at 95% lower cost and 15x faster speed than traditional teams. Our AI-run business model requires only 3-30 humans to build a $600M+ revenue operation by 2030.
+AI Hive will revolutionize the $737B software development market by delivering fully autonomous development at 95% lower cost and 30-50x faster speed than traditional teams. Our AI-run business model requires only 3-30 humans to build a $600M+ revenue operation by 2030.
 
 ## Market Opportunity
 
