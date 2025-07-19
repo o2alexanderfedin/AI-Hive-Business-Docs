@@ -9,6 +9,7 @@
 *Updated: July 19, 2025 - Revenue model evolution implemented*
 *Updated: July 19, 2025 - Added cash flow failure data*
 *Updated: July 19, 2025 - Sales targets validated through partnerships*
+*Updated: July 19, 2025 - Unit economics clarified*
 
 ## Document Reviewed
 [AI Hive 5-Year Business Plan (Q3 2025 - Q2 2030)](5-year-business-plan.md)
@@ -111,19 +112,25 @@ The business plan presents a compelling vision for AI Hive targeting bootstrappe
 - Focus on vertical specialization
 - Patent key innovations
 
-### 5. **Unit Economics Risks**
+### 5. **~~Unit Economics Risks~~ Unit Economics Strengths** ✅ CLARIFIED
 
-**Missing Considerations**:
-- What if AI costs increase?
-- Who maintains delivered code?
-- How many iterations per project?
-- Support costs for non-technical founders?
+**Original Concerns**: AI costs, maintenance, iterations, support
 
-**Recommendations**:
-- Budget 2-3 iterations per MVP
-- Price in basic maintenance
-- Create clear scope boundaries
-- Build self-service resources
+**Actual Model**:
+- **AI Costs**: Trending DOWN for 3 years (not up)
+- **Deliverables**: Complete product package including:
+  - Production-ready code with tests
+  - Comprehensive documentation
+  - Git repository and project setup
+  - Human-maintainable code (can be handed off)
+- **Iterations**: Hard limit of 3 days per project (controls scope)
+- **Support Model**: Pay-as-you-go for non-technical founders
+
+**Updated Recommendations**:
+- Continue monitoring AI cost trends (currently favorable)
+- Market the "complete handoff package" as differentiator
+- Use 3-day limit as selling point (predictable delivery)
+- Upsell maintenance subscriptions to delivered projects
 
 ### 6. **Market Education Challenge**
 
