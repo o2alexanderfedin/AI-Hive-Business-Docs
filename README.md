@@ -41,8 +41,8 @@ Our AI Hive delivers enterprise-grade software development at a fraction of the 
 - **[Market Analysis](business-documents/market-analysis/index.md)** - Comprehensive analysis of the AI-augmented software development market
 - **[Competitive Positioning](business-documents/competitive-positioning/)** - Detailed competitive analysis and positioning strategies for AI-augmented development
 - **[Performance Analysis](business-documents/performance-analysis/index.md)** ⭐ - **MUST READ: AI vs Human cost/speed analysis with killer numbers + 5,831 operations tracked**
-- Business plans (coming soon)
-- Financial projections (coming soon)
+- **[5-Year Business Plan](business-documents/strategy/5-year-business-plan.md)** ⭐ NEW - Q3 2025-Q2 2030 roadmap with validated channels
+- **[Strategy Documents](business-documents/strategy/index.md)** - Business plans, sales validation, and strategic analysis
 
 ## 🎯 Project Vision
 

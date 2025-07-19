@@ -18,9 +18,11 @@ This directory contains investment-related documents for O2.services AI Hive, pr
    - Investment opportunity details
 
 ### Supporting Documents
+- **[5-Year Business Plan →](../strategy/5-year-business-plan.md)** ⭐ NEW - Q3 2025-Q2 2030 roadmap
 - [Market Analysis →](../market-analysis/index.md) - Detailed market research
 - [Competitive Positioning →](../competitive-positioning/index.md) - Competitive advantages
 - [Executive Summary →](../competitive-positioning/00-executive-summary.md) - Strategic overview
+- [Strategy Documents →](../strategy/index.md) - Business plans and sales validation
 
 ## 🎯 Key Investment Highlights
 
