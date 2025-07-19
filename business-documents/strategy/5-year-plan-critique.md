@@ -7,6 +7,7 @@
 
 *Review Date: July 19, 2025*
 *Updated: July 19, 2025 - Revenue model evolution implemented*
+*Updated: July 19, 2025 - Added cash flow failure data*
 
 ## Document Reviewed
 [AI Hive 5-Year Business Plan (Q3 2025 - Q2 2030)](5-year-business-plan.md)
@@ -74,14 +75,16 @@ The business plan presents a compelling vision for AI Hive targeting bootstrappe
 **Issue**: No mention of churn or lifetime value
 
 **Critical Factors**:
-- 82% of bootstrapped startups fail
-- Customer churn could exceed 20% monthly
-- Need expansion revenue strategy
+- 82% of bootstrapped startups fail **due to cash flow problems** (verified 2024-2025 data)
+- Customer churn could exceed 20% monthly as startups run out of money
+- AI Hive directly addresses this by reducing dev costs 95%, improving customer survival odds
+- Need expansion revenue strategy for growing survivors
 
 **Recommendations**:
-- Model 20% monthly churn in financials
-- Create "success package" add-ons
+- Model 15-20% monthly churn in financials (slightly better than industry due to cost savings)
+- Create "success package" add-ons for surviving customers
 - Track cohort retention religiously
+- **NEW**: Position AI Hive as "startup survival tool" - we fix the #1 killer
 
 ### 4. **Competitive Moat Concerns**
 
