@@ -8,7 +8,26 @@
       "Bash",
       "Bash(*)",
       "WebFetch(domain:www.anthropic.com)",
-      "WebFetch(domain:o2.services)"
+      "WebFetch(domain:o2.services)",
+      "WebFetch(domain:www.grandviewresearch.com)",
+      "WebFetch(domain:www.fortunebusinessinsights.com)",
+      "WebFetch(domain:www.kornferry.com)",
+      "WebFetch(domain:www.gitclear.com)",
+      "WebFetch(domain:www.failory.com)",
+      "WebFetch(domain:www.cbinsights.com)",
+      "WebFetch(domain:techcrunch.com)",
+      "WebFetch(domain:carta.com)",
+      "WebFetch(domain:websummit.com)",
+      "WebFetch(domain:entspace.com)",
+      "WebFetch(domain:en.entspace.com)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:www.gartner.com)",
+      "WebFetch(domain:www.idc.com)",
+      "WebFetch(domain:my.idc.com)",
+      "WebFetch(domain:www.statista.com)",
+      "WebFetch(domain:www.mckinsey.com)",
+      "WebFetch(domain:octoverse.github.com)",
+      "WebFetch(domain:survey.stackoverflow.co)"
     ],
     "deny": []
   }
