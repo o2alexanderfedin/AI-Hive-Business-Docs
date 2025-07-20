@@ -33,7 +33,10 @@ Our AI Hive delivers enterprise-grade software development at a fraction of the 
 - **[AI Hive One-Pager](business-documents/investor-materials/ai-hive-one-pager.md)** - Concise overview with global pricing and ROI
 - **[Investor One-Pager](business-documents/investor-materials/investor-one-pager.md)** - Executive summary for investors
 - **[Investor Materials](business-documents/investor-materials/index.md)** - Complete investor documentation
-- Executive summaries (coming soon)
+- **Executive Summaries**:
+  - [Market Analysis Executive Summary](business-documents/market-analysis/01-executive-summary.md) - AI-augmented software development market overview
+  - [Competitive Positioning Executive Summary](business-documents/competitive-positioning/00-executive-summary.md) - Strategic positioning and competitive advantages
+  - [Performance Analysis Executive Summary](business-documents/performance-analysis/executive-summary.md) - ⭐ AI vs Human performance metrics
 
 ### 📄 Business Documents
 
