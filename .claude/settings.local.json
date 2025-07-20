@@ -7,7 +7,8 @@
       "Update",
       "Bash",
       "Bash(*)",
-      "WebFetch(domain:www.anthropic.com)"
+      "WebFetch(domain:www.anthropic.com)",
+      "WebFetch(domain:o2.services)"
     ],
     "deny": []
   }
