@@ -22,6 +22,11 @@ This directory contains investment-related documents for O2.services AI Hive, pr
    - Validated performance metrics
    - Investment recommendation: STRONG CONDITIONAL PROCEED
 
+3. **[💰 $1M Investment Allocation Plan](investment-allocation-1m.md)** - Detailed budget breakdown
+   - 18-month runway planning
+   - SaaS development, sales team, and operations
+   - ROI projections and milestones
+
 ### Supporting Documents
 - **[5-Year Business Plan →](../strategy/5-year-business-plan.md)** ⭐ NEW - Q3 2025-Q2 2030 roadmap
 - [Market Analysis →](../market-analysis/index.md) - Detailed market research
